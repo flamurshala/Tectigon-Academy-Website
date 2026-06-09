@@ -1,0 +1,4210 @@
+Error: Can't resolve 'tailwindcss' in 'C:\Users\W11\Desktop\Tectigon'
+    [2m[at finishWithoutResolve (C:\Users\W11\Desktop\Tectigon\Tectigon\node_modules\enhanced-resolve\lib\Resolver.js:587:18)][0m
+    [2m[at C:\Users\W11\Desktop\Tectigon\Tectigon\node_modules\enhanced-resolve\lib\Resolver.js:679:14][0m
+    [2m[at C:\Users\W11\Desktop\Tectigon\Tectigon\node_modules\enhanced-resolve\lib\Resolver.js:740:5][0m
+    [2m[at eval (eval at create (C:\Users\W11\Desktop\Tectigon\Tectigon\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at C:\Users\W11\Desktop\Tectigon\Tectigon\node_modules\enhanced-resolve\lib\Resolver.js:740:5][0m
+    [2m[at eval (eval at create (C:\Users\W11\Desktop\Tectigon\Tectigon\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at C:\Users\W11\Desktop\Tectigon\Tectigon\node_modules\enhanced-resolve\lib\Resolver.js:740:5][0m
+    [2m[at eval (eval at create (C:\Users\W11\Desktop\Tectigon\Tectigon\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at C:\Users\W11\Desktop\Tectigon\Tectigon\node_modules\enhanced-resolve\lib\Resolver.js:740:5][0m
+    [2m[at eval (eval at create (C:\Users\W11\Desktop\Tectigon\Tectigon\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'C:\\Users\\W11\\Desktop\\Tectigon'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in C:\\Users\\W11\\Desktop\\Tectigon or above\n' +
+    '  resolve as module\n' +
+    "    C:\\Users\\W11\\Desktop\\Tectigon\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\Users\\W11\\Desktop\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\Users\\W11\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\Users\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\node_modules doesn't exist or is not a directory"
+}
+
+<--- Last few GCs --->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<--- Last few GCs --->
+
+<--- Last few GCs --->
+<--- Last few GCs --->
+
+
+<--- Last few GCs --->
+<--- Last few GCs --->
+<--- Last few GCs --->
+
+<--- Last few GCs --->
+<--- Last few GCs --->
+<--- Last few GCs --->
+
+<--- Last few GCs --->
+<--- Last few GCs --->
+
+<--- Last few GCs --->
+
+<--- Last few GCs --->
+<--- Last few GCs --->
+
+<--- Last few GCs --->
+<--- Last few GCs --->
+
+<--- Last few GCs --->
+<--- Last few GCs --->
+
+<--- Last few GCs --->
+<--- Last few GCs --->
+<--- Last few GCs --->
+
+
+
+
+<--- Last few GCs --->
+
+<--- Last few GCs --->
+<--- Last few GCs --->
+<--- Last few GCs --->
+<--- Last few GCs --->
+<--- Last few GCs --->
+<--- Last few GCs --->
+<--- Last few GCs --->
+<--- Last few GCs --->
+<--- Last few GCs --->
+<--- Last few GCs --->
+<--- Last few GCs --->
+<--- Last few GCs --->
+
+<--- Last few GCs --->
+<--- Last few GCs --->
+
+<--- Last few GCs --->
+
+
+<--- Last few GCs --->
+<--- Last few GCs --->
+<--- Last few GCs --->
+<--- Last few GCs --->
+<--- Last few GCs --->
+<--- Last few GCs --->
+
+<--- Last few GCs --->
+<--- Last few GCs --->
+<--- Last few GCs --->
+<--- Last few GCs --->
+<--- Last few GCs --->
+<--- Last few GCs --->
+<--- Last few GCs --->
+<--- Last few GCs --->
+<--- Last few GCs --->
+
+<--- Last few GCs --->
+<--- Last few GCs --->
+<--- Last few GCs --->
+<--- Last few GCs --->
+<--- Last few GCs --->
+<--- Last few GCs --->
+
+<--- Last few GCs --->
+<--- Last few GCs --->
+<--- Last few GCs --->
+<--- Last few GCs --->
+<--- Last few GCs --->
+<--- Last few GCs --->
+
+<--- Last few GCs --->
+<--- Last few GCs --->
+<--- Last few GCs --->
+<--- Last few GCs --->
+
+<--- Last few GCs --->
+<--- Last few GCs --->
+<--- Last few GCs --->
+<--- Last few GCs --->
+
+<--- Last few GCs --->
+<--- Last few GCs --->
+<--- Last few GCs --->
+<--- Last few GCs --->
+
+<--- Last few GCs --->
+<--- Last few GCs --->
+
+<--- Last few GCs --->
+<--- Last few GCs --->
+<--- Last few GCs --->
+<--- Last few GCs --->
+<--- Last few GCs --->
+<--- Last few GCs --->
+<--- Last few GCs --->
+<--- Last few GCs --->
+<--- Last few GCs --->
+
+
+
+
+
+
+[40532:00000202DA156000]     5325 ms: Scavenge 3.5 (4.2) -> 3.1 (4.2) MB, pooled: 1 MB, 634.47 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+
+
+
+#
+
+<--- Last few GCs --->
+<--- Last few GCs --->
+[39776:000001BFE04F2000]     4154 ms: Scavenge 3.5 (4.2) -> 3.1 (4.2) MB, pooled: 1 MB, 2.32 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+
+
+
+
+
+
+<--- Last few GCs --->
+
+
+
+[39700:000002220CE81000]     8249 ms: Scavenge 3.5 (4.2) -> 3.1 (4.2) MB, pooled: 1 MB, 846.60 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+
+
+
+
+
+
+#
+<--- Last few GCs --->
+#
+
+<--- Last few GCs --->
+
+
+
+
+[42644:0000019852557000]     6705 ms: Scavenge 3.5 (4.2) -> 3.1 (4.2) MB, pooled: 1 MB, 1.03 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+
+
+
+
+
+
+
+
+
+
+<--- Last few GCs --->
+
+#
+
+
+
+
+
+
+
+
+[38296:000001FD13B1E000]    10378 ms: Scavenge 3.5 (4.2) -> 3.1 (4.2) MB, pooled: 1 MB, 590.30 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+
+
+
+
+
+
+
+
+<--- Last few GCs --->
+
+
+
+
+
+
+<--- Last few GCs --->
+
+
+
+
+
+
+<--- Last few GCs --->
+
+
+[31036:00000156D31FC000]     4989 ms: Scavenge 3.5 (4.2) -> 3.1 (4.2) MB, pooled: 1 MB, 2.10 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+
+<--- Last few GCs --->
+
+
+
+
+<--- JS stacktrace --->
+
+
+
+
+#
+
+
+#
+
+
+
+
+
+
+
+
+
+#
+
+#
+# Fatal JavaScript out of memory: MemoryChunk allocation failed during deserialization.
+
+
+#
+
+#
+[39372:00000196CDC21000]     5959 ms: Scavenge 3.9 (4.5) -> 3.7 (5.2) MB, pooled: 1 MB, 43.66 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+[26288:000001C3A67A6000]    12568 ms: Scavenge 3.9 (4.5) -> 3.7 (5.0) MB, pooled: 1 MB, 144.45 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+
+
+
+#
+#
+[38568:0000018DEE8F9000]    11032 ms: Scavenge 3.9 (4.5) -> 3.7 (5.2) MB, pooled: 1 MB, 122.12 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+[30180:000001A126448000]    18574 ms: Scavenge 3.9 (5.5) -> 3.7 (5.0) MB, pooled: 1 MB, 1809.20 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+
+[30052:00000204EDC4B000]     6547 ms: Scavenge 3.9 (4.5) -> 3.7 (5.0) MB, pooled: 1 MB, 61.91 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+#
+
+#
+[30108:0000020F45683000]    20327 ms: Scavenge 3.9 (4.5) -> 3.7 (5.2) MB, pooled: 1 MB, 586.29 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+[30384:000001801D80A000]    10678 ms: Scavenge 3.9 (4.5) -> 3.7 (5.2) MB, pooled: 1 MB, 46.91 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+
+#
+[38592:000001ACF17BF000]    10716 ms: Scavenge 3.9 (4.5) -> 3.7 (5.2) MB, pooled: 1 MB, 39.90 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+
+# Fatal JavaScript out of memory: MemoryChunk allocation failed during deserialization.
+
+
+# Fatal error in , line 0
+
+
+[39548:000001D06D05B000]     9029 ms: Scavenge 3.9 (4.5) -> 3.7 (5.0) MB, pooled: 1 MB, 1.91 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+
+[41392:0000025AA1FE7000]     6996 ms: Scavenge 3.9 (4.5) -> 3.7 (5.0) MB, pooled: 1 MB, 58.44 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+
+[40660:0000023432FA7000]     8499 ms: Scavenge 3.9 (4.5) -> 3.7 (5.2) MB, pooled: 1 MB, 262.79 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+[21380:000002C156C6D000]     5962 ms: Scavenge 3.9 (4.5) -> 3.7 (5.2) MB, pooled: 1 MB, 1.92 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+[40372:000001A59C6E4000]     9928 ms: Scavenge 3.9 (4.5) -> 3.7 (5.0) MB, pooled: 1 MB, 138.75 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+
+#
+
+[32332:000002727A3FD000]    11244 ms: Scavenge 3.9 (4.5) -> 3.7 (5.2) MB, pooled: 1 MB, 1151.55 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+
+
+[31080:000001E26FDD2000]     8421 ms: Scavenge 3.9 (4.5) -> 3.7 (5.2) MB, pooled: 1 MB, 46.09 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+# Fatal error in , line 0
+
+
+[30252:000001C383A29000]     9698 ms: Scavenge 3.9 (4.5) -> 3.7 (5.2) MB, pooled: 1 MB, 272.14 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+
+[32056:0000017AAF9FF000]    10246 ms: Scavenge 3.9 (4.5) -> 3.7 (5.2) MB, pooled: 1 MB, 2729.06 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+[39272:000001E860ADC000]     5184 ms: Scavenge 3.9 (4.5) -> 3.7 (5.2) MB, pooled: 1 MB, 251.32 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+
+
+[39596:000001800683F000]     9909 ms: Scavenge 3.9 (4.5) -> 3.7 (5.2) MB, pooled: 1 MB, 21.38 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+[33520:0000024681A73000]     5904 ms: Scavenge 3.9 (4.5) -> 3.7 (5.0) MB, pooled: 1 MB, 68.26 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+
+
+[37740:0000019A01641000]    10503 ms: Scavenge 3.9 (4.5) -> 3.7 (5.2) MB, pooled: 1 MB, 76.78 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+[18120:00000230AD116000]    14035 ms: Scavenge 3.9 (4.5) -> 3.7 (5.2) MB, pooled: 1 MB, 119.98 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+[51528:000001EDDE6E1000]    13468 ms: Scavenge 7.0 (8.4) -> 6.7 (8.9) MB, pooled: 0 MB, 3.21 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+[39316:0000012B0CFA7000]     5309 ms: Scavenge 3.9 (4.5) -> 3.7 (5.2) MB, pooled: 1 MB, 74.52 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+[40324:000001E1D13F7000]     7943 ms: Scavenge 3.9 (4.5) -> 3.7 (5.2) MB, pooled: 1 MB, 122.40 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+[36968:0000022BF0668000]     5572 ms: Scavenge 3.9 (5.5) -> 3.7 (6.2) MB, pooled: 0 MB, 2271.29 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+[32344:0000020FC51E2000]     9285 ms: Scavenge 3.9 (4.5) -> 3.7 (5.0) MB, pooled: 1 MB, 416.83 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+
+
+[41468:000002487EAF5000]     5317 ms: Scavenge 3.9 (4.5) -> 3.7 (5.0) MB, pooled: 1 MB, 32.29 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+[39300:0000024FE5A85000]     6748 ms: Scavenge 3.9 (4.5) -> 3.7 (5.2) MB, pooled: 1 MB, 1229.17 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+[39924:000002BEFE95B000]     9988 ms: Scavenge 3.9 (4.5) -> 3.7 (5.2) MB, pooled: 1 MB, 135.34 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+[34568:0000019083ABF000]     7219 ms: Scavenge 3.9 (4.5) -> 3.7 (5.2) MB, pooled: 1 MB, 169.10 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+
+
+
+<--- JS stacktrace --->
+
+
+
+[30092:0000013D9571C000]     8616 ms: Scavenge 3.9 (4.5) -> 3.7 (5.2) MB, pooled: 1 MB, 47.11 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+
+
+[30524:0000021C88E93000]    11098 ms: Scavenge 3.9 (4.5) -> 3.7 (5.2) MB, pooled: 1 MB, 217.64 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+
+
+
+
+
+[31240:000002543497F000]     8815 ms: Scavenge 3.9 (4.5) -> 3.7 (5.2) MB, pooled: 1 MB, 93.52 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+[39712:000002796F8A2000]     9520 ms: Scavenge 3.9 (4.5) -> 3.7 (5.2) MB, pooled: 1 MB, 212.68 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+[29996:000002100CAF3000]    10836 ms: Scavenge 3.9 (4.5) -> 3.7 (5.2) MB, pooled: 1 MB, 82.51 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+[31220:000001E92DDEE000]    10029 ms: Scavenge 3.9 (4.5) -> 3.7 (5.2) MB, pooled: 1 MB, 149.67 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+[49216:000002166CD7A000]     5897 ms: Scavenge 3.9 (5.5) -> 3.7 (6.0) MB, pooled: 0 MB, 1313.42 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+[31156:0000020D5FC45000]     9709 ms: Scavenge 3.9 (4.5) -> 3.7 (5.2) MB, pooled: 1 MB, 94.42 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+# Fatal process out of memory: Zone
+[48944:000001F1864FA000]     8610 ms: Scavenge 3.9 (4.5) -> 3.7 (5.2) MB, pooled: 1 MB, 1169.36 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+[37324:000001D2FD538000]    13578 ms: Scavenge 3.9 (4.5) -> 3.7 (5.2) MB, pooled: 1 MB, 57.53 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+# Fatal process out of memory: Zone
+[41364:000001E7EC115000]     6563 ms: Scavenge 3.9 (4.5) -> 3.7 (5.2) MB, pooled: 1 MB, 49.71 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+[39440:000001FF0D789000]     8333 ms: Scavenge 3.9 (4.5) -> 3.7 (5.2) MB, pooled: 1 MB, 1749.52 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+[38552:00000221E397E000]    14270 ms: Scavenge 3.9 (4.5) -> 3.7 (5.2) MB, pooled: 1 MB, 83.03 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+
+[49076:0000027EBE545000]     5638 ms: Scavenge 6.3 (6.9) -> 5.5 (9.9) MB, pooled: 0 MB, 3.33 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+
+[42888:000001B578662000]     5410 ms: Scavenge 3.9 (4.5) -> 3.7 (5.2) MB, pooled: 1 MB, 37.59 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+[51976:000002725EF93000]    12680 ms: Scavenge 7.0 (8.4) -> 6.7 (8.9) MB, pooled: 0 MB, 2.07 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+# Fatal JavaScript out of memory: MemoryChunk allocation failed during deserialization.
+<--- JS stacktrace --->
+
+# Fatal JavaScript out of memory: MemoryChunk allocation failed during deserialization.
+
+[49600:000001FE8E7E1000]    21982 ms: Scavenge 8.8 (10.2) -> 8.4 (9.7) MB, pooled: 1 MB, 63.48 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+
+
+
+
+
+
+# Fatal JavaScript out of memory: MemoryChunk allocation failed during deserialization.
+
+
+#
+# Fatal JavaScript out of memory: MemoryChunk allocation failed during deserialization.
+
+# Fatal JavaScript out of memory: MemoryChunk allocation failed during deserialization.
+<--- JS stacktrace --->
+
+
+
+
+# Fatal JavaScript out of memory: MemoryChunk allocation failed during deserialization.
+[33532:000002CF0AAFE000]     9312 ms: Scavenge 3.9 (5.5) -> 3.7 (5.2) MB, pooled: 1 MB, 26.42 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+
+# Fatal JavaScript out of memory: MemoryChunk allocation failed during deserialization.
+
+
+
+<--- JS stacktrace --->
+
+# Fatal JavaScript out of memory: MemoryChunk allocation failed during deserialization.
+
+
+[41480:000002BA4D68C000]     7138 ms: Scavenge 3.9 (4.5) -> 3.7 (5.2) MB, pooled: 1 MB, 122.10 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+
+[30140:0000028235F0C000]     9407 ms: Scavenge 5.1 (6.7) -> 4.8 (7.2) MB, pooled: 0 MB, 2.52 / 0.00 ms  (average mu = 1.000, current mu = 1.000) task; 
+
+
+
+
+
+
+
+
+
+
+
+
+
+<--- JS stacktrace --->
+#
+<--- JS stacktrace --->
+<--- JS stacktrace --->
+# Out of memory: HashMap::Initialize
+
+
+<--- JS stacktrace --->
+
+
+
+
+
+<--- JS stacktrace --->
+# Fatal error in , line 0
+<--- JS stacktrace --->
+
+<--- JS stacktrace --->
+
+
+Error: Can't resolve 'tailwindcss' in 'C:\Users\W11\Desktop\Tectigon'
+    [2m[at finishWithoutResolve (C:\Users\W11\Desktop\Tectigon\Tectigon\node_modules\enhanced-resolve\lib\Resolver.js:587:18)][0m
+    [2m[at C:\Users\W11\Desktop\Tectigon\Tectigon\node_modules\enhanced-resolve\lib\Resolver.js:679:14][0m
+    [2m[at C:\Users\W11\Desktop\Tectigon\Tectigon\node_modules\enhanced-resolve\lib\Resolver.js:740:5][0m
+    [2m[at eval (eval at create (C:\Users\W11\Desktop\Tectigon\Tectigon\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at C:\Users\W11\Desktop\Tectigon\Tectigon\node_modules\enhanced-resolve\lib\Resolver.js:740:5][0m
+    [2m[at eval (eval at create (C:\Users\W11\Desktop\Tectigon\Tectigon\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:16:1)][0m
+    [2m[at C:\Users\W11\Desktop\Tectigon\Tectigon\node_modules\enhanced-resolve\lib\Resolver.js:740:5][0m
+    [2m[at eval (eval at create (C:\Users\W11\Desktop\Tectigon\Tectigon\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m
+    [2m[at C:\Users\W11\Desktop\Tectigon\Tectigon\node_modules\enhanced-resolve\lib\Resolver.js:740:5][0m
+    [2m[at eval (eval at create (C:\Users\W11\Desktop\Tectigon\Tectigon\node_modules\tapable\lib\HookCodeFactory.js:31:10), <anonymous>:15:1)][0m {
+  details: "resolve 'tailwindcss' in 'C:\\Users\\W11\\Desktop\\Tectigon'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in C:\\Users\\W11\\Desktop\\Tectigon or above\n' +
+    '  resolve as module\n' +
+    "    C:\\Users\\W11\\Desktop\\Tectigon\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\Users\\W11\\Desktop\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\Users\\W11\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\Users\\node_modules doesn't exist or is not a directory\n" +
+    "    C:\\node_modules doesn't exist or is not a directory"
+}
+# Out of memory: HashMap::Initialize
+# Fatal JavaScript out of memory: MemoryChunk allocation failed during deserialization.
+<--- JS stacktrace --->
+
+<--- JS stacktrace --->
+
+
+<--- JS stacktrace --->
+<--- JS stacktrace --->
+<--- JS stacktrace --->
+[30140:0000028235F0C000]    14766 ms: Mark-Compact (reduce) 5.3 (7.2) -> 4.8 (6.5) MB, pooled: 0 MB, 52.60 / 0.01 ms  (+ 0.2 ms in 0 steps since start of marking, biggest step 0.0 ms, walltime since start of marking 220 ms) (average mu = 0.996, current mu
+
+<--- JS stacktrace --->
+
+
+
+
+<--- JS stacktrace --->
+<--- JS stacktrace --->
+[53728:000001FFFC3F1000]    14759 ms: Scavenge 6.3 (6.9) -> 6.3 (8.4) MB, pooled: 0 MB, 895.60 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+
+
+
+
+
+<--- JS stacktrace --->
+[51588:00000195C43B1000]    21937 ms: Scavenge 6.3 (6.9) -> 6.3 (8.7) MB, pooled: 0 MB, 614.85 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+
+<--- JS stacktrace --->
+
+<--- JS stacktrace --->
+<--- JS stacktrace --->
+
+
+[57456:000002843A751000]     9402 ms: Scavenge 6.3 (6.9) -> 5.5 (7.6) MB, pooled: 0 MB, 2.58 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+
+<--- JS stacktrace --->
+
+
+
+[49600:000001FE8E7E1000]    23879 ms: Scavenge 9.1 (10.0) -> 8.7 (11.5) MB, pooled: 0 MB, 63.51 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+
+
+
+
+[51528:000001EDDE6E1000]    19982 ms: Scavenge 8.3 (9.7) -> 7.9 (9.0) MB, pooled: 1 MB, 968.24 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+<--- JS stacktrace --->
+
+
+
+
+#
+
+
+#
+[38552:00000221E397E000]    19113 ms: Scavenge 4.7 (5.5) -> 4.4 (6.7) MB, pooled: 0 MB, 81.12 / 0.00 ms  (average mu = 1.000, current mu = 1.000) task; 
+
+[49076:0000027EBE545000]    17348 ms: Scavenge 8.3 (10.7) -> 7.5 (8.7) MB, pooled: 2 MB, 91.22 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+
+
+[51976:000002725EF93000]    18950 ms: Scavenge 8.3 (9.7) -> 7.9 (9.0) MB, pooled: 1 MB, 359.61 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+
+<--- JS stacktrace --->
+
+<--- JS stacktrace --->
+<--- JS stacktrace --->
+<--- JS stacktrace --->
+<--- JS stacktrace --->
+<--- JS stacktrace --->
+#
+
+#
+
+#
+#
+
+----- Native stack trace -----
+
+
+<--- JS stacktrace --->
+<--- JS stacktrace --->
+#
+
+
+
+
+#
+
+
+
+
+<--- Last few GCs --->
+
+
+#
+<--- Last few GCs --->
+<--- Last few GCs --->
+#
+<--- Last few GCs --->
+<--- JS stacktrace --->
+<--- Last few GCs --->
+
+
+
+<--- Last few GCs --->
+#
+
+
+<--- Last few GCs --->
+
+<--- JS stacktrace --->
+<--- Last few GCs --->
+
+
+----- Native stack trace -----
+
+
+#
+<--- JS stacktrace --->
+
+
+
+
+
+<--- JS stacktrace --->
+
+
+# Out of memory: HashMap::Initialize
+
+
+<--- JS stacktrace --->
+
+<--- JS stacktrace --->
+#
+
+
+<--- JS stacktrace --->
+
+
+
+
+
+
+
+
+
+
+
+
+<--- JS stacktrace --->
+
+[53728:000001FFFC3F1000]    16859 ms: Scavenge 7.0 (8.4) -> 6.7 (8.9) MB, pooled: 0 MB, 2.53 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+
+
+[51588:00000195C43B1000]    22140 ms: Scavenge 7.0 (8.7) -> 6.7 (8.9) MB, pooled: 0 MB, 13.99 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+
+
+
+
+
+
+
+
+
+[57456:000002843A751000]     9678 ms: Scavenge 6.2 (7.6) -> 5.9 (7.1) MB, pooled: 1 MB, 1.84 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+
+
+[49600:000001FE8E7E1000]    29027 ms: Scavenge 9.5 (11.5) -> 9.0 (10.5) MB, pooled: 1 MB, 1.93 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+[49076:0000027EBE545000]    23776 ms: Scavenge 9.0 (9.5) -> 8.6 (11.7) MB, pooled: 0 MB, 2.00 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+----- Native stack trace -----
+
+
+<--- JS stacktrace --->
+[51528:000001EDDE6E1000]    24868 ms: Scavenge 9.5 (10.0) -> 9.1 (11.5) MB, pooled: 0 MB, 2.31 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+
+
+
+
+
+
+
+
+
+
+----- Native stack trace -----
+----- Native stack trace -----
+
+
+
+
+[51976:000002725EF93000]    21289 ms: Scavenge 9.5 (10.0) -> 9.1 (11.5) MB, pooled: 0 MB, 2.12 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+FATAL ERROR: Committing semi space failed. Allocation failed - JavaScript heap out of memory
+
+
+
+
+
+
+
+
+
+----- Native stack trace -----
+<--- JS stacktrace --->
+
+
+<--- JS stacktrace --->
+----- Native stack trace -----
+----- Native stack trace -----
+<--- JS stacktrace --->
+
+
+
+
+
+----- Native stack trace -----
+#
+<--- JS stacktrace --->
+#
+
+----- Native stack trace -----
+#
+#
+<--- JS stacktrace --->
+#
+
+<--- JS stacktrace --->
+#
+----- Native stack trace -----
+
+
+----- Native stack trace -----
+
+
+
+<--- JS stacktrace --->
+#
+#
+
+----- Native stack trace -----
+#
+#
+<--- JS stacktrace --->
+#
+FATAL ERROR: Committing semi space failed. Allocation failed - JavaScript heap out of memory
+#
+<--- JS stacktrace --->
+
+<--- JS stacktrace --->
+
+FATAL ERROR: Committing semi space failed. Allocation failed - JavaScript heap out of memory
+
+#
+
+
+<--- JS stacktrace --->
+<--- JS stacktrace --->
+<--- JS stacktrace --->
+<--- JS stacktrace --->
+
+<--- JS stacktrace --->
+
+#
+
+FATAL ERROR: Committing semi space failed. Allocation failed - JavaScript heap out of memory
+
+<--- JS stacktrace --->
+
+<--- JS stacktrace --->
+
+
+
+
+<--- JS stacktrace --->
+<--- JS stacktrace --->
+<--- JS stacktrace --->
+<--- JS stacktrace --->
+<--- JS stacktrace --->
+
+<--- JS stacktrace --->
+<--- JS stacktrace --->
+
+<--- JS stacktrace --->
+<--- JS stacktrace --->
+<--- JS stacktrace --->
+[53728:000001FFFC3F1000]    19430 ms: Scavenge 8.3 (9.7) -> 7.9 (9.2) MB, pooled: 1 MB, 2.68 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+
+FATAL ERROR: Committing semi space failed. Allocation failed - JavaScript heap out of memory
+
+
+FATAL ERROR: Zone Allocation failed - process out of memory
+
+FATAL ERROR: Committing semi space failed. Allocation failed - JavaScript heap out of memory
+<--- JS stacktrace --->
+<--- JS stacktrace --->
+
+<--- JS stacktrace --->
+<--- JS stacktrace --->
+[57456:000002843A751000]    10267 ms: Scavenge 7.6 (7.9) -> 7.1 (9.4) MB, pooled: 0 MB, 1.33 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+
+FATAL ERROR: Committing semi space failed. Allocation failed - JavaScript heap out of memory
+
+
+
+#
+<--- JS stacktrace --->
+
+FATAL ERROR: Committing semi space failed. Allocation failed - JavaScript heap out of memory
+<--- JS stacktrace --->
+FATAL ERROR: Committing semi space failed. Allocation failed - JavaScript heap out of memory
+<--- JS stacktrace --->
+<--- JS stacktrace --->
+<--- JS stacktrace --->
+<--- JS stacktrace --->
+<--- JS stacktrace --->
+<--- JS stacktrace --->
+<--- JS stacktrace --->
+<--- JS stacktrace --->
+
+
+<--- JS stacktrace --->
+
+<--- JS stacktrace --->
+
+
+----- Native stack trace -----
+FATAL ERROR: Committing semi space failed. Allocation failed - JavaScript heap out of memory
+
+FATAL ERROR: Committing semi space failed. Allocation failed - JavaScript heap out of memory
+
+<--- JS stacktrace --->
+<--- JS stacktrace --->
+
+FATAL ERROR: Committing semi space failed. Allocation failed - JavaScript heap out of memory
+
+
+
+<--- JS stacktrace --->
+<--- JS stacktrace --->
+
+
+
+
+
+
+ 1: 00007FF7F164BD7B 
+FATAL ERROR: Committing semi space failed. Allocation failed - JavaScript heap out of memory
+
+
+# Fatal process out of memory: Zone
+
+# Fatal process out of memory: Zone
+
+
+# Fatal process out of memory: Zone
+# Fatal process out of memory: Zone
+
+# Fatal JavaScript out of memory: MemoryChunk allocation failed during deserialization.
+
+# Fatal JavaScript out of memory: MemoryChunk allocation failed during deserialization.
+
+
+[58088:0000012886051000]    17531 ms: Scavenge 8.7 (10.2) -> 8.3 (9.7) MB, pooled: 1 MB, 16.86 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+
+[20100:00000289D6471000]    25603 ms: Scavenge 8.2 (9.9) -> 7.8 (9.2) MB, pooled: 1 MB, 1.04 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+FATAL ERROR: Committing semi space failed. Allocation failed - JavaScript heap out of memory
+[43400:0000022F66C05000]    30973 ms: Scavenge 6.8 (7.4) -> 6.5 (8.9) MB, pooled: 0 MB, 272.16 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+
+# Fatal error in , line 0
+
+# Fatal JavaScript out of memory: MemoryChunk allocation failed during deserialization.
+[46528:00000257B5181000]    36065 ms: Scavenge 9.1 (9.7) -> 8.6 (11.0) MB, pooled: 0 MB, 1710.58 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+
+
+# Fatal process out of memory: Zone
+[59200:000001DE89ABD000]    16481 ms: Scavenge 6.3 (6.9) -> 6.3 (8.4) MB, pooled: 0 MB, 2.67 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+
+# Fatal process out of memory: Zone
+
+# Fatal JavaScript out of memory: MemoryChunk allocation failed during deserialization.
+ 1: 00007FF7F164BD7B node::SetCppgcReference+16011
+----- Native stack trace -----
+
+#
+
+
+
+
+
+
+FATAL ERROR: Committing semi space failed. Allocation failed - JavaScript heap out of memory
+
+
+----- Native stack trace -----
+
+----- Native stack trace -----
+
+
+
+#
+#
+
+
+FATAL ERROR: Committing semi space failed. Allocation failed - JavaScript heap out of memory
+
+
+
+----- Native stack trace -----
+
+
+
+
+
+
+
+
+FATAL ERROR: Committing semi space failed. Allocation failed - JavaScript heap out of memory
+
+ 1: 00007FF7F164BD7B node::SetCppgcReference+16011
+
+----- Native stack trace -----
+
+
+----- Native stack trace -----
+----- Native stack trace -----
+
+
+#
+
+
+
+
+[58088:0000012886051000]    19960 ms: Scavenge 9.1 (10.0) -> 8.7 (11.5) MB, pooled: 0 MB, 1.19 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+----- Native stack trace -----
+
+
+FATAL ERROR: Committing semi space failed. Allocation failed - JavaScript heap out of memory
+# Fatal JavaScript out of memory: MemoryChunk allocation failed during deserialization.
+
+FATAL ERROR: Committing semi space failed. Allocation failed - JavaScript heap out of memory
+
+
+
+
+
+FATAL ERROR: Committing semi space failed. Allocation failed - JavaScript heap out of memory
+
+
+
+
+
+ 1: 00007FF7F164BD7B node::SetCppgcReference+16011
+
+
+
+
+<--- JS stacktrace --->
+
+
+----- Native stack trace -----
+#
+----- Native stack trace -----
+
+
+----- Native stack trace -----
+
+----- Native stack trace -----
+ 1: 00007FF7F164BD7B node::SetCppgcReference+16011
+#
+ 1: 00007FF7F164BD7B node::SetCppgcReference+16011
+
+
+FATAL ERROR: Committing semi space failed. Allocation failed - JavaScript heap out of memory
+ 1: 00007FF7F164BD7B node::SetCppgcReference+16011
+ 1: 00007FF7F164BD7B node::SetCppgcReference+16011
+FATAL ERROR: Committing semi space failed. Allocation failed - JavaScript heap out of memory
+
+#
+ 2: 00007FF7F152FB6F 
+----- Native stack trace -----
+
+ 1: 00007FF7F164BD7B 
+FATAL ERROR: Committing semi space failed. Allocation failed - JavaScript heap out of memory
+#
+ 1: 00007FF7F164BD7B node::SetCppgcReference+16011
+#
+#
+#
+
+FATAL ERROR: Committing semi space failed. Allocation failed - JavaScript heap out of memory
+#
+FATAL ERROR: Committing semi space failed. Allocation failed - JavaScript heap out of memory
+#
+ 1: 00007FF7F164BD7B node::SetCppgcReference+16011
+<--- JS stacktrace --->
+
+ 1: 00007FF7F164BD7B node::SetCppgcReference+16011
+[59200:000001DE89ABD000]    16566 ms: Scavenge 7.0 (8.4) -> 6.7 (8.9) MB, pooled: 0 MB, 1.26 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+----- Native stack trace -----
+[43400:0000022F66C05000]    31051 ms: Scavenge 8.3 (9.7) -> 7.8 (9.2) MB, pooled: 1 MB, 0.96 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+FATAL ERROR: Committing semi space failed. Allocation failed - JavaScript heap out of memory
+<--- JS stacktrace --->
+[46528:00000257B5181000]    38528 ms: Scavenge 9.8 (11.5) -> 9.5 (11.0) MB, pooled: 1 MB, 127.83 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+ 1: 00007FF7F164BD7B 
+# Out of memory: HashMap::Initialize
+FATAL ERROR: Committing semi space failed. Allocation failed - JavaScript heap out of memory
+#
+FATAL ERROR: Committing semi space failed. Allocation failed - JavaScript heap out of memory
+#
+#
+FATAL ERROR: Committing semi space failed. Allocation failed - JavaScript heap out of memory
+ 2: 00007FF7F152FB6F node::TriggerNodeReport+75231
+
+#
+#
+#FailureMessage Object: 0000003746BFE710
+
+#
+#
+FATAL ERROR: Committing semi space failed. Allocation failed - JavaScript heap out of memory
+FATAL ERROR: Committing semi space failed. Allocation failed - JavaScript heap out of memory
+FATAL ERROR: Committing semi space failed. Allocation failed - JavaScript heap out of memory
+FATAL ERROR: Committing semi space failed. Allocation failed - JavaScript heap out of memory
+----- Native stack trace -----
+FATAL ERROR: Committing semi space failed. Allocation failed - JavaScript heap out of memory
+#
+#
+#
+
+
+FATAL ERROR: Committing semi space failed. Allocation failed - JavaScript heap out of memory
+
+#FailureMessage Object: 000000813B3FEBC0
+
+<--- JS stacktrace --->
+#
+----- Native stack trace -----
+#
+#
+FATAL ERROR: Committing semi space failed. Allocation failed - JavaScript heap out of memory
+FATAL ERROR: Committing semi space failed. Allocation failed - JavaScript heap out of memory
+FATAL ERROR: Committing semi space failed. Allocation failed - JavaScript heap out of memory
+FATAL ERROR: Committing semi space failed. Allocation failed - JavaScript heap out of memory
+FATAL ERROR: Committing semi space failed. Allocation failed - JavaScript heap out of memory
+FATAL ERROR: Committing semi space failed. Allocation failed - JavaScript heap out of memory
+#
+
+FATAL ERROR: Committing semi space failed. Allocation failed - JavaScript heap out of memory
+FATAL ERROR: Committing semi space failed. Allocation failed - JavaScript heap out of memory
+----- Native stack trace -----
+FATAL ERROR: Committing semi space failed. Allocation failed - JavaScript heap out of memory
+
+FATAL ERROR: Committing semi space failed. Allocation failed - JavaScript heap out of memory
+
+<--- JS stacktrace --->
+FATAL ERROR: Committing semi space failed. Allocation failed - JavaScript heap out of memory
+ 3: 00007FF7F26D8A56 
+----- Native stack trace -----
+
+FATAL ERROR: Committing semi space failed. Allocation failed - JavaScript heap out of memory
+#
+FATAL ERROR: NewSpace::EnsureCurrentCapacity Allocation failed - JavaScript heap out of memory
+#
+FATAL ERROR: NewSpace::EnsureCurrentCapacity Allocation failed - JavaScript heap out of memory
+
+
+<--- JS stacktrace --->
+FATAL ERROR: Committing semi space failed. Allocation failed - JavaScript heap out of memory
+----- Native stack trace -----
+#
+FATAL ERROR: Committing semi space failed. Allocation failed - JavaScript heap out of memory
+[20100:00000289D6471000]    30819 ms: Scavenge 9.1 (9.7) -> 8.7 (11.2) MB, pooled: 0 MB, 3.17 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+----- Native stack trace -----
+FATAL ERROR: Committing semi space failed. Allocation failed - JavaScript heap out of memory
+
+FATAL ERROR: NewSpace::EnsureCurrentCapacity Allocation failed - JavaScript heap out of memory
+FATAL ERROR: Committing semi space failed. Allocation failed - JavaScript heap out of memory
+FATAL ERROR: Committing semi space failed. Allocation failed - JavaScript heap out of memory
+FATAL ERROR: NewSpace::EnsureCurrentCapacity Allocation failed - JavaScript heap out of memory
+FATAL ERROR: NewSpace::EnsureCurrentCapacity Allocation failed - JavaScript heap out of memory
+FATAL ERROR: Committing semi space failed. Allocation failed - JavaScript heap out of memory
+<--- JS stacktrace --->
+FATAL ERROR: Committing semi space failed. Allocation failed - JavaScript heap out of memory
+FATAL ERROR: Committing semi space failed. Allocation failed - JavaScript heap out of memory
+ 2: 00007FF7F152FB6F node::TriggerNodeReport+75231
+ 2: 00007FF7F152FB6F node::TriggerNodeReport+75231
+FATAL ERROR: Committing semi space failed. Allocation failed - JavaScript heap out of memory
+#
+
+<--- JS stacktrace --->
+<--- JS stacktrace --->
+ 1: 00007FF7F164BD7B node::SetCppgcReference+16011
+
+# Fatal JavaScript out of memory: MemoryChunk allocation failed during deserialization.
+
+#
+FATAL ERROR: Committing semi space failed. Allocation failed - JavaScript heap out of memory
+
+#
+
+ 2: 00007FF7F152FB6F node::TriggerNodeReport+75231
+# Fatal JavaScript out of memory: MemoryChunk allocation failed during deserialization.
+ 2: 00007FF7F152FB6F node::TriggerNodeReport+75231
+FATAL ERROR: Committing semi space failed. Allocation failed - JavaScript heap out of memory
+FATAL ERROR: Committing semi space failed. Allocation failed - JavaScript heap out of memory
+----- Native stack trace -----
+ 2: 00007FF7F152FB6F node::TriggerNodeReport+75231
+ 2: 00007FF7F152FB6F node::TriggerNodeReport+75231
+----- Native stack trace -----
+#
+# Fatal JavaScript out of memory: MemoryChunk allocation failed during deserialization.
+
+
+#
+ 2: 00007FF7F152FB6F 
+----- Native stack trace -----
+# Fatal JavaScript out of memory: MemoryChunk allocation failed during deserialization.
+ 2: 00007FF7F152FB6F node::TriggerNodeReport+75231
+----- Native stack trace -----
+----- Native stack trace -----
+FATAL ERROR: Committing semi space failed. Allocation failed - JavaScript heap out of memory
+
+----- Native stack trace -----
+----- Native stack trace -----
+----- Native stack trace -----
+----- Native stack trace -----
+ 2: 00007FF7F152FB6F node::TriggerNodeReport+75231
+
+[58088:0000012886051000]    21794 ms: Scavenge 9.5 (11.5) -> 9.0 (10.5) MB, pooled: 1 MB, 0.72 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+ 2: 00007FF7F152FB6F node::TriggerNodeReport+75231
+[59200:000001DE89ABD000]    18130 ms: Scavenge 8.3 (9.7) -> 7.9 (9.0) MB, pooled: 1 MB, 5.60 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+
+[43400:0000022F66C05000]    33287 ms: Scavenge 9.0 (9.7) -> 8.6 (11.0) MB, pooled: 0 MB, 1.33 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+----- Native stack trace -----
+
+[46528:00000257B5181000]    40133 ms: Scavenge 10.2 (11.0) -> 9.7 (12.5) MB, pooled: 0 MB, 35.97 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+ 2: 00007FF7F152FB6F 
+#
+[20100:00000289D6471000]    31429 ms: Scavenge 9.4 (11.2) -> 9.0 (10.7) MB, pooled: 1 MB, 1.29 / 0.00 ms  (average mu = 1.000, current mu = 1.000) allocation failure; 
+----- Native stack trace -----
+----- Native stack trace -----
+----- Native stack trace -----
+# Fatal JavaScript out of memory: MemoryChunk allocation failed during deserialization.
+----- Native stack trace -----
+ 3: 00007FF7F26D8A56 v8::base::FatalOOM+54
+----- Native stack trace -----
+# Fatal JavaScript out of memory: MemoryChunk allocation failed during deserialization.
+----- Native stack trace -----
+#
+
+
+----- Native stack trace -----
+ 1: 00007FF7F164BD7B 
+----- Native stack trace -----
+----- Native stack trace -----
+----- Native stack trace -----
+
+----- Native stack trace -----
+# Fatal JavaScript out of memory: MemoryChunk allocation failed during deserialization.
+#FailureMessage Object: 0000003B387FE940
+# Fatal JavaScript out of memory: MemoryChunk allocation failed during deserialization.
+#
+----- Native stack trace -----
+----- Native stack trace -----
+
+#
+ 1: 00007FF7F164BD7B 
+# Fatal JavaScript out of memory: MemoryChunk allocation failed during deserialization.
+
+# Fatal JavaScript out of memory: MemoryChunk allocation failed during deserialization.
+ 1: 00007FF7F164BD7B node::SetCppgcReference+16011
+# Fatal JavaScript out of memory: MemoryChunk allocation failed during deserialization.
+----- Native stack trace -----
+----- Native stack trace -----
+----- Native stack trace -----
+----- Native stack trace -----
+----- Native stack trace -----
+----- Native stack trace -----
+# Fatal JavaScript out of memory: MemoryChunk allocation failed during deserialization.
+----- Native stack trace -----
+----- Native stack trace -----
+----- Native stack trace -----
+
+----- Native stack trace -----
+<--- JS stacktrace --->
+# Fatal JavaScript out of memory: MemoryChunk allocation failed during deserialization.
+
+----- Native stack trace -----
+ 1: 00007FF7F164BD7B node::SetCppgcReference+16011
+----- Native stack trace -----
+----- Native stack trace -----
+ 1: 00007FF7F164BD7B 
+ 1: 00007FF7F164BD7B node::SetCppgcReference+16011
+# Fatal JavaScript out of memory: MemoryChunk allocation failed during deserialization.
+----- Native stack trace -----
+# Fatal JavaScript out of memory: MemoryChunk allocation failed during deserialization.
+----- Native stack trace -----
+<--- JS stacktrace --->
+----- Native stack trace -----
+ 1: 00007FF7F164BD7B node::SetCppgcReference+16011
+
+----- Native stack trace -----
+
+----- Native stack trace -----
+----- Native stack trace -----
+----- Native stack trace -----
+----- Native stack trace -----
+----- Native stack trace -----
+----- Native stack trace -----
+----- Native stack trace -----
+ 1: 00007FF7F164BD7B node::SetCppgcReference+16011
+----- Native stack trace -----
+----- Native stack trace -----
+----- Native stack trace -----
+
+----- Native stack trace -----
+----- Native stack trace -----
+ 3: 00007FF7F26D8A56 v8::base::FatalOOM+54
+ 3: 00007FF7F26D8A56 v8::base::FatalOOM+54
+# Fatal JavaScript out of memory: MemoryChunk allocation failed during deserialization.
+----- Native stack trace -----
+
+FATAL ERROR: NewSpace::EnsureCurrentCapacity Allocation failed - JavaScript heap out of memory
+# Fatal JavaScript out of memory: MemoryChunk allocation failed during deserialization.
+ 2: 00007FF7F15B4BC8 DSA_meth_get_flags+92344
+#
+ 1: 00007FF7F164BD7B node::SetCppgcReference+16011
+----- Native stack trace -----
+ 1: 00007FF7F164BD7B node::SetCppgcReference+16011
+----- Native stack trace -----
+# Fatal JavaScript out of memory: MemoryChunk allocation failed during deserialization.
+ 3: 00007FF7F26D8A56 v8::base::FatalOOM+54
+ 1: 00007FF7F164BD7B 
+#
+
+ 3: 00007FF7F26D8A56 
+
+----- Native stack trace -----
+ 3: 00007FF7F26D8A56 v8::base::FatalOOM+54
+ 1: 00007FF7F164BD7B node::SetCppgcReference+16011
+ 3: 00007FF7F26D8A56 v8::base::FatalOOM+54
+
+# Fatal JavaScript out of memory: MemoryChunk allocation failed during deserialization.
+#
+ 4: 00007FF7F2142C83 
+
+
+ 1: 00007FF7F164BD7B node::SetCppgcReference+16011
+
+#
+ 3: 00007FF7F26D8A56 v8::base::FatalOOM+54
+
+
+
+<--- Last few GCs --->
+
+
+
+
+
+
+ 2: 00007FF7F15B4BC8 DSA_meth_get_flags+92344
+FATAL ERROR: Zone Allocation failed - process out of memory
+ 1: 00007FF7F164BD7B 
+FATAL ERROR: Committing semi space failed. Allocation failed - JavaScript heap out of memory
+ 2: 00007FF7F15B4BC8 DSA_meth_get_flags+92344
+#
+#
+ 2: 00007FF7F15B4BC8 DSA_meth_get_flags+92344
+#
+
+
+ 1: 00007FF7F164BD7B node::SetCppgcReference+16011
+
+
+#
+
+ 2: 00007FF7F15B4BC8 
+
+
+FATAL ERROR: NewSpace::EnsureCurrentCapacity Allocation failed - JavaScript heap out of memory
+
+
+# Fatal JavaScript out of memory: MemoryChunk allocation failed during deserialization.
+
+ 1: 00007FF7F164BD7B node::SetCppgcReference+16011
+
+
+#
+
+#
+
+
+# Fatal JavaScript out of memory: MemoryChunk allocation failed during deserialization.
+----- Native stack trace -----
+#
+
+ 1: 00007FF7F164BD7B 
+ 3: 00007FF7F26D8A56 v8::base::FatalOOM+54
+
+
+ 3: 00007FF7F26D8A56 v8::base::FatalOOM+54
+ 3: 00007FF7F26D8A56 v8::base::FatalOOM+54
+ 2: 00007FF7F15B4BC8 DSA_meth_get_flags+92344
+
+ 2: 00007FF7F15B4BC8 
+
+ 2: 00007FF7F15B4BC8 
+#
+# Fatal JavaScript out of memory: MemoryChunk allocation failed during deserialization.
+ 2: 00007FF7F15B4BC8 DSA_meth_get_flags+92344
+# Fatal JavaScript out of memory: MemoryChunk allocation failed during deserialization.
+
+#
+#
+
+
+#
+ 4: 00007FF7F2142C83 v8::Isolate::ReportExternalAllocationLimitReached+147
+
+
+
+#
+
+
+ 3: 00007FF7F26D8A56 
+
+ 2: 00007FF7F15B4BC8 DSA_meth_get_flags+92344
+#
+FATAL ERROR: Committing semi space failed. Allocation failed - JavaScript heap out of memory
+
+
+
+
+
+ 1: 00007FF7F164BD7B node::SetCppgcReference+16011
+
+
+ 1: 00007FF7F164BD7B node::SetCppgcReference+16011
+
+
+
+
+
+
+
+
+FATAL ERROR: NewSpace::EnsureCurrentCapacity Allocation failed - JavaScript heap out of memory
+
+
+ 4: 00007FF7F212F841 v8::Function::Experimental_IsNopFunction+2417
+ 4: 00007FF7F212F841 v8::Function::Experimental_IsNopFunction+2417
+
+
+FATAL ERROR: NewSpace::EnsureCurrentCapacity Allocation failed - JavaScript heap out of memory
+----- Native stack trace -----
+
+ 3: 00007FF7F2142C31 v8::Isolate::ReportExternalAllocationLimitReached+65
+----- Native stack trace -----
+ 2: 00007FF7F15B4BC8 DSA_meth_get_flags+92344
+#
+ 2: 00007FF7F15B4BC8 DSA_meth_get_flags+92344
+
+#
+ 4: 00007FF7F2142C83 v8::Isolate::ReportExternalAllocationLimitReached+147
+ 2: 00007FF7F15B4BC8 
+----- Native stack trace -----
+----- Native stack trace -----
+ 4: 00007FF7F2142C83 v8::Isolate::ReportExternalAllocationLimitReached+147
+
+
+ 1: 00007FF7F164BD7B node::SetCppgcReference+16011
+ 4: 00007FF7F2142C83 v8::Isolate::ReportExternalAllocationLimitReached+147
+ 4: 00007FF7F2142C83 v8::Isolate::ReportExternalAllocationLimitReached+147
+
+ 1: 00007FF7F164BD7B 
+ 4: 00007FF7F2142C83 
+ 5: 00007FF7F212FA36 
+ 1: 00007FF7F164BD7B node::SetCppgcReference+16011
+ 1: 00007FF7F164BD7B node::SetCppgcReference+16011
+ 2: 00007FF7F15B4BC8 DSA_meth_get_flags+92344
+ 1: 00007FF7F164BD7B node::SetCppgcReference+16011
+#
+----- Native stack trace -----
+
+
+#
+
+ 2: 00007FF7F15B4BC8 
+ 1: 00007FF7F164BD7B 
+
+ 1: 00007FF7F164BD7B node::SetCppgcReference+16011
+----- Native stack trace -----
+ 1: 00007FF7F164BD7B node::SetCppgcReference+16011
+#
+ 1: 00007FF7F164BD7B node::SetCppgcReference+16011
+----- Native stack trace -----
+
+ 5: 00007FF7F212FA36 v8::Function::Experimental_IsNopFunction+2918
+ 1: 00007FF7F164BD7B node::SetCppgcReference+16011
+ 1: 00007FF7F164BD7B 
+#
+ 3: 00007FF7F2142C31 
+ 4: 00007FF7F2142C83 
+#
+----- Native stack trace -----
+ 1: 00007FF7F164BD7B node::SetCppgcReference+16011
+ 1: 00007FF7F164BD7B 
+ 3: 00007FF7F2142C31 v8::Isolate::ReportExternalAllocationLimitReached+65
+----- Native stack trace -----
+ 1: 00007FF7F164BD7B node::SetCppgcReference+16011
+----- Native stack trace -----
+ 2: 00007FF7F15B4BC8 
+ 1: 00007FF7F164BD7B node::SetCppgcReference+16011
+
+ 1: 00007FF7F164BD7B node::SetCppgcReference+16011
+ 4: 00007FF7F2142C83 v8::Isolate::ReportExternalAllocationLimitReached+147
+ 4: 00007FF7F2142C83 v8::Isolate::ReportExternalAllocationLimitReached+147
+ 1: 00007FF7F164BD7B node::SetCppgcReference+16011
+ 1: 00007FF7F164BD7B 
+ 1: 00007FF7F164BD7B node::SetCppgcReference+16011
+ 1: 00007FF7F164BD7B 
+ 1: 00007FF7F164BD7B node::SetCppgcReference+16011
+
+ 1: 00007FF7F164BD7B node::SetCppgcReference+16011
+ 1: 00007FF7F164BD7B node::SetCppgcReference+16011
+ 4: 00007FF7F2142C83 v8::Isolate::ReportExternalAllocationLimitReached+147
+ 1: 00007FF7F164BD7B 
+ 1: 00007FF7F164BD7B 
+ 4: 00007FF7F212FA36 v8::Function::Experimental_IsNopFunction+2918
+ 3: 00007FF7F2142C31 v8::Isolate::ReportExternalAllocationLimitReached+65
+----- Native stack trace -----
+ 3: 00007FF7F2142C31 
+----- Native stack trace -----
+ 2: 00007FF7F15B4BC8 DSA_meth_get_flags+92344
+----- Native stack trace -----
+ 3: 00007FF7F2142C31 v8::Isolate::ReportExternalAllocationLimitReached+65
+----- Native stack trace -----
+ 3: 00007FF7F2142C31 v8::Isolate::ReportExternalAllocationLimitReached+65
+ 1: 00007FF7F164BD7B 
+ 1: 00007FF7F164BD7B 
+ 1: 00007FF7F164BD7B node::SetCppgcReference+16011
+
+----- Native stack trace -----
+ 1: 00007FF7F164BD7B 
+ 1: 00007FF7F164BD7B node::SetCppgcReference+16011
+----- Native stack trace -----
+ 2: 00007FF7F15B4BC8 DSA_meth_get_flags+92344
+ 2: 00007FF7F15B4BC8 DSA_meth_get_flags+92344
+FATAL ERROR: Committing semi space failed. Allocation failed - JavaScript heap out of memory
+----- Native stack trace -----
+----- Native stack trace -----
+ 1: 00007FF7F164BD7B node::SetCppgcReference+16011
+ 3: 00007FF7F2142C31 v8::Isolate::ReportExternalAllocationLimitReached+65
+ 1: 00007FF7F164BD7B 
+ 1: 00007FF7F164BD7B 
+ 3: 00007FF7F2142C31 
+
+----- Native stack trace -----
+ 1: 00007FF7F164BD7B node::SetCppgcReference+16011
+----- Native stack trace -----
+ 1: 00007FF7F164BD7B 
+FATAL ERROR: Zone Allocation failed - process out of memory
+ 1: 00007FF7F164BD7B node::SetCppgcReference+16011
+ 3: 00007FF7F2142C31 v8::Isolate::ReportExternalAllocationLimitReached+65
+----- Native stack trace -----
+ 1: 00007FF7F164BD7B 
+ 2: 00007FF7F15B4BC8 DSA_meth_get_flags+92344
+ 1: 00007FF7F164BD7B node::SetCppgcReference+16011
+ 2: 00007FF7F15B4BC8 DSA_meth_get_flags+92344
+ 1: 00007FF7F164BD7B node::SetCppgcReference+16011
+ 1: 00007FF7F164BD7B node::SetCppgcReference+16011
+ 1: 00007FF7F164BD7B node::SetCppgcReference+16011
+----- Native stack trace -----
+ 1: 00007FF7F164BD7B node::SetCppgcReference+16011
+ 3: 00007FF7F2142C31 v8::Isolate::ReportExternalAllocationLimitReached+65
+ 1: 00007FF7F164BD7B 
+ 1: 00007FF7F164BD7B node::SetCppgcReference+16011
+ 1: 00007FF7F164BD7B 
+----- Native stack trace -----
+ 1: 00007FF7F164BD7B 
+ 1: 00007FF7F164BD7B node::SetCppgcReference+16011
+ 5: 00007FF7F1BF315E v8::SnapshotCreator::GetIsolate+53054
+ 5: 00007FF7F1BF315E v8::SnapshotCreator::GetIsolate+53054
+ 1: 00007FF7F164BD7B 
+ 1: 00007FF7F164BD7B node::SetCppgcReference+16011
+----- Native stack trace -----
+
+----- Native stack trace -----
+
+#
+ 1: 00007FF7F164BD7B node::SetCppgcReference+16011
+----- Native stack trace -----
+ 3: 00007FF7F2142C31 v8::Isolate::ReportExternalAllocationLimitReached+65
+ 1: 00007FF7F164BD7B 
+----- Native stack trace -----
+ 5: 00007FF7F212FA36 v8::Function::Experimental_IsNopFunction+2918
+ 3: 00007FF7F2142C31 
+
+ 5: 00007FF7F212FA36 v8::Function::Experimental_IsNopFunction+2918
+ 1: 00007FF7F164BD7B 
+ 1: 00007FF7F164BD7B 
+ 1: 00007FF7F164BD7B node::SetCppgcReference+16011
+ 2: 00007FF7F15B4BC8 DSA_meth_get_flags+92344
+ 5: 00007FF7F212FA36 v8::Function::Experimental_IsNopFunction+2918
+ 5: 00007FF7F212FA36 v8::Function::Experimental_IsNopFunction+2918
+ 2: 00007FF7F15B4BC8 DSA_meth_get_flags+92344
+----- Native stack trace -----
+ 1: 00007FF7F164BD7B 
+ 6: 00007FF7F1F7B6E0 
+ 1: 00007FF7F164BD7B 
+ 5: 00007FF7F212FA36 
+#FailureMessage Object: 000000AF243FB0A0
+ 2: 00007FF7F15B4BC8 DSA_meth_get_flags+92344
+ 1: 00007FF7F164BD7B node::SetCppgcReference+16011
+ 5: 00007FF7F212FA36 v8::Function::Experimental_IsNopFunction+2918
+ 2: 00007FF7F152FB6F node::TriggerNodeReport+75231
+ 4: 00007FF7F212FA36 v8::Function::Experimental_IsNopFunction+2918
+ 2: 00007FF7F152FB6F node::TriggerNodeReport+75231
+ 2: 00007FF7F15B4BC8 DSA_meth_get_flags+92344
+ 2: 00007FF7F15B4BC8 
+ 2: 00007FF7F152FB6F node::TriggerNodeReport+75231
+ 2: 00007FF7F15B4BC8 
+ 2: 00007FF7F152FB6F node::TriggerNodeReport+75231
+#
+ 5: 00007FF7F212FA36 v8::Function::Experimental_IsNopFunction+2918
+ 5: 00007FF7F212FA36 v8::Function::Experimental_IsNopFunction+2918
+<--- JS stacktrace --->
+ 2: 00007FF7F15B4BC8 
+ 3: 00007FF7F2142C31 
+#
+<--- JS stacktrace --->
+ 5: 00007FF7F212FA36 
+<--- JS stacktrace --->
+ 2: 00007FF7F152FB6F node::TriggerNodeReport+75231
+ 2: 00007FF7F15B4BC8 
+<--- JS stacktrace --->
+ 3: 00007FF7F2142C31 v8::Isolate::ReportExternalAllocationLimitReached+65
+
+ 2: 00007FF7F152FB6F node::TriggerNodeReport+75231
+ 2: 00007FF7F15B4BC8 DSA_meth_get_flags+92344
+<--- JS stacktrace --->
+ 6: 00007FF7F1F7B6E0 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+31552
+ 2: 00007FF7F152FB6F node::TriggerNodeReport+75231
+
+ 2: 00007FF7F152FB6F 
+----- Native stack trace -----
+ 2: 00007FF7F152FB6F node::TriggerNodeReport+75231
+
+ 2: 00007FF7F15B4BC8 DSA_meth_get_flags+92344
+ 4: 00007FF7F212FA36 
+ 2: 00007FF7F15B4BC8 DSA_meth_get_flags+92344
+ 1: 00007FF7F164BD7B node::SetCppgcReference+16011
+ 2: 00007FF7F15B4BC8 
+ 3: 00007FF7F2142C31 
+ 2: 00007FF7F15B4BC8 DSA_meth_get_flags+92344
+
+ 2: 00007FF7F15B4BC8 
+ 2: 00007FF7F15B4BC8 DSA_meth_get_flags+92344
+ 2: 00007FF7F15B4BC8 
+ 2: 00007FF7F15B4BC8 
+ 6: 00007FF7F2911328 v8::internal::compiler::CompilationDependencies::TransitionDependencyOffTheRecord+1091608
+ 2: 00007FF7F15B4BC8 DSA_meth_get_flags+92344
+ 4: 00007FF7F212FA36 
+ 4: 00007FF7F212FA36 
+ 1: 00007FF7F164BD7B 
+ 3: 00007FF7F2142C31 v8::Isolate::ReportExternalAllocationLimitReached+65
+
+ 2: 00007FF7F152FB6F node::TriggerNodeReport+75231
+
+ 2: 00007FF7F15B4BC8 DSA_meth_get_flags+92344
+ 2: 00007FF7F15B4BC8 
+ 2: 00007FF7F15B4BC8 
+ 2: 00007FF7F15B4BC8 
+[41576:000001E07A1C1000]    33986 ms: Mark-Compact 8.8 (9.7) -> 8.2 (11.0) MB, pooled: 0 MB, 2106.98 / 0.00 ms  (average mu = 0.938, current mu = 0.938) background allocation failure; GC in old space requested
+
+ 2: 00007FF7F15B4BC8 
+ 2: 00007FF7F15B4BC8 DSA_meth_get_flags+92344
+ 2: 00007FF7F15B4BC8 
+ 3: 00007FF7F2142C31 v8::Isolate::ReportExternalAllocationLimitReached+65
+ 2: 00007FF7F15B4BC8 DSA_meth_get_flags+92344
+----- Native stack trace -----
+
+
+ 2: 00007FF7F15B4BC8 DSA_meth_get_flags+92344
+ 4: 00007FF7F212FA36 v8::Function::Experimental_IsNopFunction+2918
+
+ 2: 00007FF7F15B4BC8 
+ 4: 00007FF7F212FA36 
+ 4: 00007FF7F212FA36 v8::Function::Experimental_IsNopFunction+2918
+
+
+
+ 2: 00007FF7F15B4BC8 
+----- Native stack trace -----
+ 2: 00007FF7F15B4BC8 DSA_meth_get_flags+92344
+ 4: 00007FF7F212FA36 v8::Function::Experimental_IsNopFunction+2918
+
+ 2: 00007FF7F15B4BC8 
+ 3: 00007FF7F2142C31 v8::Isolate::ReportExternalAllocationLimitReached+65
+ 2: 00007FF7F15B4BC8 DSA_meth_get_flags+92344
+ 3: 00007FF7F2142C31 v8::Isolate::ReportExternalAllocationLimitReached+65
+ 2: 00007FF7F15B4BC8 DSA_meth_get_flags+92344
+ 2: 00007FF7F152FB6F node::TriggerNodeReport+75231
+ 2: 00007FF7F15B4BC8 DSA_meth_get_flags+92344
+ 2: 00007FF7F15B4BC8 
+ 2: 00007FF7F15B4BC8 DSA_meth_get_flags+92344
+ 4: 00007FF7F212FA36 v8::Function::Experimental_IsNopFunction+2918
+ 2: 00007FF7F15B4BC8 DSA_meth_get_flags+92344
+ 2: 00007FF7F15B4BC8 
+
+ 2: 00007FF7F15B4BC8 
+----- Native stack trace -----
+ 2: 00007FF7F15B4BC8 DSA_meth_get_flags+92344
+ 6: 00007FF7F197F0C0 CrashForExceptionInNonABICompliantCodeRange+294192
+----- Native stack trace -----
+ 2: 00007FF7F15B4BC8 
+ 2: 00007FF7F152FB6F node::TriggerNodeReport+75231
+
+ 1: 00007FF7F164BD7B 
+
+ 5: 00007FF7F1F7B6E0 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+31552
+ 1: 00007FF7F164BD7B 
+ 4: 00007FF7F212FA36 v8::Function::Experimental_IsNopFunction+2918
+
+ 4: 00007FF7F212FA36 v8::Function::Experimental_IsNopFunction+2918
+ 2: 00007FF7F15B4BC8 
+
+ 6: 00007FF7F1F7B6E0 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+31552
+
+ 4: 00007FF7F212FA36 v8::Function::Experimental_IsNopFunction+2918
+ 6: 00007FF7F1F7B6E0 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+31552
+ 2: 00007FF7F15B4BC8 
+ 2: 00007FF7F15B4BC8 
+ 1: 00007FF7F164BD7B node::SetCppgcReference+16011
+ 3: 00007FF7F2142C31 v8::Isolate::ReportExternalAllocationLimitReached+65
+ 6: 00007FF7F1F7B6E0 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+31552
+ 6: 00007FF7F1F7B6E0 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+31552
+ 3: 00007FF7F2142C31 v8::Isolate::ReportExternalAllocationLimitReached+65
+
+ 7: 00007FF7F1F42F4A 
+
+ 6: 00007FF7F1F7B6E0 
+ 4: 00007FF7F212FA36 v8::Function::Experimental_IsNopFunction+2918
+
+ 3: 00007FF7F2142C31 v8::Isolate::ReportExternalAllocationLimitReached+65
+ 6: 00007FF7F1F7B6E0 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+31552
+ 3: 00007FF7F26D8A56 v8::base::FatalOOM+54
+ 3: 00007FF7F26D8A56 v8::base::FatalOOM+54
+ 3: 00007FF7F26D8A56 v8::base::FatalOOM+54
+ 3: 00007FF7F26D8A56 v8::base::FatalOOM+54
+ 3: 00007FF7F2142C31 
+[41576:000001E07A1C1000]    38095 ms: Scavenge 9.3 (11.2) -> 8.6 (10.2) MB, pooled: 1 MB, 1.28 / 0.00 ms  (average mu = 0.938, current mu = 0.938) allocation failure; 
+# Fatal JavaScript out of memory: MemoryChunk allocation failed during deserialization.
+ 6: 00007FF7F1F7B6E0 
+
+
+ 6: 00007FF7F1F7B6E0 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+31552
+ 5: 00007FF7F1F7B6E0 
+ 3: 00007FF7F2142C31 
+ 4: 00007FF7F212FA36 
+ 3: 00007FF7F2142C31 
+
+ 3: 00007FF7F26D8A56 v8::base::FatalOOM+54
+----- Native stack trace -----
+
+ 3: 00007FF7F26D8A56 v8::base::FatalOOM+54
+ 3: 00007FF7F2142C31 
+
+ 3: 00007FF7F2142C31 v8::Isolate::ReportExternalAllocationLimitReached+65
+ 3: 00007FF7F26D8A56 v8::base::FatalOOM+54
+ 7: 00007FF7F1F42F4A v8::internal::ThreadIsolation::JitPageReference::Size+3146
+ 6: 00007FF7F1F7B6E0 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+31552
+ 3: 00007FF7F26D8A56 v8::base::FatalOOM+54
+ 1: 00007FF7F164BD7B node::SetCppgcReference+16011
+ 3: 00007FF7F26D8E75 
+ 3: 00007FF7F26D8A56 v8::base::FatalOOM+54
+# Fatal JavaScript out of memory: MemoryChunk allocation failed during deserialization.
+ 3: 00007FF7F2142C31 v8::Isolate::ReportExternalAllocationLimitReached+65
+ 1: 00007FF7F164BD7B node::SetCppgcReference+16011
+ 1: 00007FF7F164BD7B node::SetCppgcReference+16011
+
+ 3: 00007FF7F2142C31 v8::Isolate::ReportExternalAllocationLimitReached+65
+ 3: 00007FF7F2142C31 v8::Isolate::ReportExternalAllocationLimitReached+65
+ 3: 00007FF7F2142C31 
+ 4: 00007FF7F212FA36 
+ 3: 00007FF7F2142C31 v8::Isolate::ReportExternalAllocationLimitReached+65
+ 2: 00007FF7F152FB6F node::TriggerNodeReport+75231
+ 1: 00007FF7F164BD7B node::SetCppgcReference+16011
+
+ 3: 00007FF7F2142C31 
+ 1: 00007FF7F164BD7B node::SetCppgcReference+16011
+
+ 3: 00007FF7F26D8E75 V8_Fatal+197
+ 1: 00007FF7F164BD7B node::SetCppgcReference+16011
+ 5: 00007FF7F1F7B6E0 
+ 1: 00007FF7F164BD7B 
+ 1: 00007FF7F164BD7B 
+ 3: 00007FF7F2142C31 v8::Isolate::ReportExternalAllocationLimitReached+65
+ 3: 00007FF7F2142C31 v8::Isolate::ReportExternalAllocationLimitReached+65
+ 3: 00007FF7F2142C31 v8::Isolate::ReportExternalAllocationLimitReached+65
+ 3: 00007FF7F2142C31 
+ 3: 00007FF7F2142C31 v8::Isolate::ReportExternalAllocationLimitReached+65
+ 4: 00007FF7F212FA36 v8::Function::Experimental_IsNopFunction+2918
+ 4: 00007FF7F212FA36 v8::Function::Experimental_IsNopFunction+2918
+ 3: 00007FF7F2142C31 
+ 7: 00007FF7F27DC840 v8::internal::compiler::CompilationDependencies::~CompilationDependencies+687072
+ 3: 00007FF7F2142C31 
+ 8: 00007FF7F1F43560 
+ 4: 00007FF7F212FA36 v8::Function::Experimental_IsNopFunction+2918
+ 1: 00007FF7F164BD7B node::SetCppgcReference+16011
+ 1: 00007FF7F164BD7B 
+
+ 5: 00007FF7F1F7B6E0 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+31552
+ 3: 00007FF7F2142C31 v8::Isolate::ReportExternalAllocationLimitReached+65
+ 3: 00007FF7F2142C31 
+ 3: 00007FF7F2142C31 
+ 1: 00007FF7F164BD7B node::SetCppgcReference+16011
+ 5: 00007FF7F1F7B6E0 
+ 1: 00007FF7F164BD7B node::SetCppgcReference+16011
+ 5: 00007FF7F1BF315E v8::SnapshotCreator::GetIsolate+53054
+ 1: 00007FF7F164BD7B node::SetCppgcReference+16011
+ 3: 00007FF7F2142C31 v8::Isolate::ReportExternalAllocationLimitReached+65
+ 3: 00007FF7F2142C31 
+
+ 5: 00007FF7F1F7B6E0 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+31552
+ 3: 00007FF7F2142C31 
+ 1: 00007FF7F164BD7B node::SetCppgcReference+16011
+ 3: 00007FF7F2142C31 
+ 1: 00007FF7F164BD7B 
+ 3: 00007FF7F2142C31 v8::Isolate::ReportExternalAllocationLimitReached+65
+ 3: 00007FF7F2142C31 v8::Isolate::ReportExternalAllocationLimitReached+65
+ 4: 00007FF7F212FA36 v8::Function::Experimental_IsNopFunction+2918
+ 3: 00007FF7F2142C31 v8::Isolate::ReportExternalAllocationLimitReached+65
+ 3: 00007FF7F26D8A56 v8::base::FatalOOM+54
+ 3: 00007FF7F2142C31 v8::Isolate::ReportExternalAllocationLimitReached+65
+ 3: 00007FF7F2142C31 
+ 3: 00007FF7F2142C31 v8::Isolate::ReportExternalAllocationLimitReached+65
+ 5: 00007FF7F1F7B6E0 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+31552
+ 3: 00007FF7F2142C31 
+ 3: 00007FF7F2142C31 v8::Isolate::ReportExternalAllocationLimitReached+65
+ 3: 00007FF7F2142C31 
+ 1: 00007FF7F164BD7B 
+ 3: 00007FF7F2142C31 
+ 3: 00007FF7F2142C31 v8::Isolate::ReportExternalAllocationLimitReached+65
+ 3: 00007FF7F2142C31 
+ 7: 00007FF7F27D1600 v8::internal::compiler::CompilationDependencies::~CompilationDependencies+641440
+ 3: 00007FF7F2142C31 
+ 3: 00007FF7F2142C31 v8::Isolate::ReportExternalAllocationLimitReached+65
+ 1: 00007FF7F164BD7B 
+ 2: 00007FF7F15B4BC8 
+ 1: 00007FF7F164BD7B node::SetCppgcReference+16011
+ 6: 00007FF7F1F33703 v8::PrimitiveArray::Length+131171
+ 2: 00007FF7F152FB6F 
+ 5: 00007FF7F1F7B6E0 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+31552
+ 5: 00007FF7F1F7B6E0 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+31552
+ 7: 00007FF7F1F42F4A v8::internal::ThreadIsolation::JitPageReference::Size+3146
+ 5: 00007FF7F1F7B6E0 
+ 5: 00007FF7F1F7B6E0 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+31552
+ 5: 00007FF7F1F7B6E0 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+31552
+ 7: 00007FF7F1F42F4A v8::internal::ThreadIsolation::JitPageReference::Size+3146
+ 3: 00007FF7F2142C31 
+ 3: 00007FF7F2142C31 
+ 1: 00007FF7F164BD7B node::SetCppgcReference+16011
+ 2: 00007FF7F152FB6F node::TriggerNodeReport+75231
+ 4: 00007FF7F212FA36 v8::Function::Experimental_IsNopFunction+2918
+ 7: 00007FF7F1F42F4A v8::internal::ThreadIsolation::JitPageReference::Size+3146
+ 1: 00007FF7F164BD7B node::SetCppgcReference+16011
+ 7: 00007FF7F1F42F4A v8::internal::ThreadIsolation::JitPageReference::Size+3146
+ 4: 00007FF7F212FA36 v8::Function::Experimental_IsNopFunction+2918
+ 1: 00007FF7F164BD7B node::SetCppgcReference+16011
+ 2: 00007FF7F152FB6F 
+ 3: 00007FF7F2142C31 
+ 7: 00007FF7F1F42F4A 
+ 5: 00007FF7F1F7B6E0 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+31552
+ 4: 00007FF7F212FA36 v8::Function::Experimental_IsNopFunction+2918
+ 7: 00007FF7F1F42F4A v8::internal::ThreadIsolation::JitPageReference::Size+3146
+ 4: 00007FF7F212F841 v8::Function::Experimental_IsNopFunction+2417
+ 1: 00007FF7F164BD7B node::SetCppgcReference+16011
+ 4: 00007FF7F212F841 v8::Function::Experimental_IsNopFunction+2417
+ 1: 00007FF7F164BD7B node::SetCppgcReference+16011
+ 4: 00007FF7F212F841 v8::Function::Experimental_IsNopFunction+2417
+
+ 4: 00007FF7F212FA36 
+ 4: 00007FF7F2142C83 v8::Isolate::ReportExternalAllocationLimitReached+147
+ 4: 00007FF7F212FA36 
+ 4: 00007FF7F2142C83 v8::Isolate::ReportExternalAllocationLimitReached+147
+ 7: 00007FF7F1F42F4A v8::internal::ThreadIsolation::JitPageReference::Size+3146
+#
+ 7: 00007FF7F1F42F4A v8::internal::ThreadIsolation::JitPageReference::Size+3146
+FATAL ERROR: Committing semi space failed. Allocation failed - JavaScript heap out of memory
+FATAL ERROR: Committing semi space failed. Allocation failed - JavaScript heap out of memory
+ 5: 00007FF7F1F7B6E0 
+#
+ 2: 00007FF7F152FB6F node::TriggerNodeReport+75231
+ 5: 00007FF7F1F7B6E0 
+
+ 4: 00007FF7F212FA36 
+ 4: 00007FF7F2142C83 v8::Isolate::ReportExternalAllocationLimitReached+147
+ 4: 00007FF7F212FA36 
+FATAL ERROR: Zone Allocation failed - process out of memory
+ 4: 00007FF7F2142C83 v8::Isolate::ReportExternalAllocationLimitReached+147
+ 5: 00007FF7F1F7B6E0 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+31552
+FATAL ERROR: Zone Allocation failed - process out of memory
+ 4: 00007FF7F212FA36 
+ 4: 00007FF7F212F841 v8::Function::Experimental_IsNopFunction+2417
+ 2: 00007FF7F152FB6F node::TriggerNodeReport+75231
+ 8: 00007FF7F27E8663 v8::internal::compiler::CompilationDependencies::~CompilationDependencies+735747
+ 6: 00007FF7F1F33703 v8::PrimitiveArray::Length+131171
+ 4: 00007FF7F212FA36 
+FATAL ERROR: NewSpace::EnsureCurrentCapacity Allocation failed - JavaScript heap out of memory
+ 1: 00007FF7F164BD7B node::SetCppgcReference+16011
+ 6: 00007FF7F1F33703 
+ 2: 00007FF7F152FB6F node::TriggerNodeReport+75231
+ 4: 00007FF7F212FA36 v8::Function::Experimental_IsNopFunction+2918
+ 5: 00007FF7F1F7B6E0 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+31552
+ 5: 00007FF7F1BF315E v8::SnapshotCreator::GetIsolate+53054
+ 7: 00007FF7F1F42F4A 
+ 4: 00007FF7F212FA36 v8::Function::Experimental_IsNopFunction+2918
+ 3: 00007FF7F26D8E75 V8_Fatal+197
+ 2: 00007FF7F152FB6F node::TriggerNodeReport+75231
+----- Native stack trace -----
+----- Native stack trace -----
+ 2: 00007FF7F152FB6F node::TriggerNodeReport+75231
+ 4: 00007FF7F1BF6EC6 v8::internal::Version::GetString+14870
+ 2: 00007FF7F15B4BC8 DSA_meth_get_flags+92344
+ 6: 00007FF7F1F33703 
+ 1: 00007FF7F164BD7B node::SetCppgcReference+16011
+ 2: 00007FF7F152FB6F 
+ 5: 00007FF7F212FA36 v8::Function::Experimental_IsNopFunction+2918
+ 6: 00007FF7F1F33703 v8::PrimitiveArray::Length+131171
+ 2: 00007FF7F152FB6F 
+ 4: 00007FF7F212FA36 v8::Function::Experimental_IsNopFunction+2918
+ 4: 00007FF7F212FA36 
+ 4: 00007FF7F212FA36 
+ 2: 00007FF7F152FB6F 
+ 4: 00007FF7F212FA36 v8::Function::Experimental_IsNopFunction+2918
+ 4: 00007FF7F212FA36 
+ 4: 00007FF7F212FA36 
+ 4: 00007FF7F212FA36 v8::Function::Experimental_IsNopFunction+2918
+ 4: 00007FF7F212FA36 
+ 2: 00007FF7F152FB6F node::TriggerNodeReport+75231
+ 4: 00007FF7F212FA36 v8::Function::Experimental_IsNopFunction+2918
+ 4: 00007FF7F212FA36 v8::Function::Experimental_IsNopFunction+2918
+ 1: 00007FF7F164BD7B node::SetCppgcReference+16011
+ 4: 00007FF7F212FA36 v8::Function::Experimental_IsNopFunction+2918
+ 6: 00007FF7F1F33703 v8::PrimitiveArray::Length+131171
+ 4: 00007FF7F212FA36 
+ 4: 00007FF7F212FA36 
+ 2: 00007FF7F152FB6F node::TriggerNodeReport+75231
+ 2: 00007FF7F15B4BC8 DSA_meth_get_flags+92344
+ 6: 00007FF7F1F33703 
+ 6: 00007FF7F19B2DD6 v8::internal::Version::IsCandidate+77286
+ 2: 00007FF7F152FB6F node::TriggerNodeReport+75231
+ 4: 00007FF7F212FA36 v8::Function::Experimental_IsNopFunction+2918
+ 4: 00007FF7F212FA36 
+ 4: 00007FF7F212FA36 v8::Function::Experimental_IsNopFunction+2918
+ 6: 00007FF7F1F33703 v8::PrimitiveArray::Length+131171
+ 1: 00007FF7F164BD7B 
+ 2: 00007FF7F15B4BC8 DSA_meth_get_flags+92344
+ 4: 00007FF7F212FA36 
+ 2: 00007FF7F152FB6F 
+ 5: 00007FF7F1F7B6E0 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+31552
+ 4: 00007FF7F212FA36 v8::Function::Experimental_IsNopFunction+2918
+ 5: 00007FF7F1F7B6E0 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+31552
+ 4: 00007FF7F212FA36 v8::Function::Experimental_IsNopFunction+2918
+ 4: 00007FF7F2142C83 v8::Isolate::ReportExternalAllocationLimitReached+147
+ 4: 00007FF7F212FA36 v8::Function::Experimental_IsNopFunction+2918
+ 4: 00007FF7F212FA36 
+ 4: 00007FF7F212FA36 v8::Function::Experimental_IsNopFunction+2918
+ 6: 00007FF7F1F33703 v8::PrimitiveArray::Length+131171
+ 4: 00007FF7F212FA36 
+ 4: 00007FF7F212FA36 v8::Function::Experimental_IsNopFunction+2918
+ 4: 00007FF7F212FA36 
+ 2: 00007FF7F15B4BC8 
+ 8: 00007FF7F1F43560 v8::internal::ThreadIsolation::JitPageReference::Size+4704
+ 4: 00007FF7F212FA36 v8::Function::Experimental_IsNopFunction+2918
+ 4: 00007FF7F1BF6EC6 
+ 8: 00007FF7F277BDCD v8::internal::compiler::CompilationDependencies::~CompilationDependencies+291181
+ 4: 00007FF7F212FA36 
+ 4: 00007FF7F212FA36 v8::Function::Experimental_IsNopFunction+2918
+ 2: 00007FF7F15B4BC8 
+ 3: 00007FF7F2142C31 
+ 2: 00007FF7F15B4BC8 DSA_meth_get_flags+92344
+ 7: 00007FF7F1F847A5 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+68613
+ 3: 00007FF7F26D8A56 
+ 6: 00007FF7F1F33703 v8::PrimitiveArray::Length+131171
+ 4: 00007FF7F212F841 v8::Function::Experimental_IsNopFunction+2417
+ 4: 00007FF7F212FA36 
+ 8: 00007FF7F1F43560 v8::internal::ThreadIsolation::JitPageReference::Size+4704
+ 6: 00007FF7F1F33703 
+ 6: 00007FF7F1F33703 v8::PrimitiveArray::Length+131171
+ 8: 00007FF7F1F43560 v8::internal::ThreadIsolation::JitPageReference::Size+4704
+ 4: 00007FF7F212FA36 v8::Function::Experimental_IsNopFunction+2918
+ 4: 00007FF7F212FA36 
+ 2: 00007FF7F152FB6F node::TriggerNodeReport+75231
+ 3: 00007FF7F26D8A56 v8::base::FatalOOM+54
+ 4: 00007FF7F212FA36 v8::Function::Experimental_IsNopFunction+2918
+ 8: 00007FF7F1F43560 v8::internal::ThreadIsolation::JitPageReference::Size+4704
+ 2: 00007FF7F152FB6F node::TriggerNodeReport+75231
+ 8: 00007FF7F1F43560 v8::internal::ThreadIsolation::JitPageReference::Size+4704
+ 5: 00007FF7F1F7B6E0 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+31552
+ 2: 00007FF7F152FB6F node::TriggerNodeReport+75231
+ 9: 00007FF7F1F43265 
+ 3: 00007FF7F26D8A56 
+ 8: 00007FF7F1F43560 
+ 6: 00007FF7F1F33703 v8::PrimitiveArray::Length+131171
+ 5: 00007FF7F1F7B6E0 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+31552
+ 8: 00007FF7F1F43560 v8::internal::ThreadIsolation::JitPageReference::Size+4704
+ 5: 00007FF7F1BF315E v8::SnapshotCreator::GetIsolate+53054
+ 4: 00007FF7F212FA36 
+ 5: 00007FF7F1BF315E v8::SnapshotCreator::GetIsolate+53054
+ 2: 00007FF7F152FB6F node::TriggerNodeReport+75231
+ 5: 00007FF7F1BF315E v8::SnapshotCreator::GetIsolate+53054
+ 5: 00007FF7F1F7B6E0 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+31552
+ 5: 00007FF7F1F7B6E0 
+ 5: 00007FF7F212FA36 v8::Function::Experimental_IsNopFunction+2918
+ 5: 00007FF7F1F7B6E0 
+ 5: 00007FF7F212FA36 v8::Function::Experimental_IsNopFunction+2918
+ 8: 00007FF7F1F43560 v8::internal::ThreadIsolation::JitPageReference::Size+4704
+----- Native stack trace -----
+ 8: 00007FF7F1F43560 v8::internal::ThreadIsolation::JitPageReference::Size+4704
+ 1: 00007FF7F164BD7B node::SetCppgcReference+16011
+ 5: 00007FF7F1F7B6E0 
+ 6: 00007FF7F1F33703 
+----- Native stack trace -----
+----- Native stack trace -----
+ 8: 00007FF7F1F43560 
+ 1: 00007FF7F164BD7B 
+ 4: 00007FF7F212FA36 
+ 5: 00007FF7F212FA36 v8::Function::Experimental_IsNopFunction+2918
+ 5: 00007FF7F1F7B6E0 
+----- Native stack trace -----
+ 5: 00007FF7F1F7B6E0 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+31552
+ 5: 00007FF7F1F7B6E0 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+31552
+----- Native stack trace -----
+ 9: 00007FF7F1F43265 v8::internal::ThreadIsolation::JitPageReference::Size+3941
+ 5: 00007FF7F1BF315E v8::SnapshotCreator::GetIsolate+53054
+ 3: 00007FF7F26D8A56 v8::base::FatalOOM+54
+ 5: 00007FF7F1BF6D5C 
+ 2: 00007FF7F152FB6F node::TriggerNodeReport+75231
+ 5: 00007FF7F1F7B6E0 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+31552
+ 3: 00007FF7F26D8A56 v8::base::FatalOOM+54
+ 2: 00007FF7F152FB6F node::TriggerNodeReport+75231
+ 7: 00007FF7F1F847A5 
+ 3: 00007FF7F26D8A56 v8::base::FatalOOM+54
+ 5: 00007FF7F1F7B6E0 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+31552
+ 5: 00007FF7F1F7B6E0 
+ 5: 00007FF7F1F7B6E0 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+31552
+
+ 5: 00007FF7F1F7B6E0 
+ 4: 00007FF7F1BF6EC6 v8::internal::Version::GetString+14870
+ 3: 00007FF7F2142C31 v8::Isolate::ReportExternalAllocationLimitReached+65
+ 2: 00007FF7F152FB6F node::TriggerNodeReport+75231
+ 5: 00007FF7F1F7B6E0 
+ 3: 00007FF7F26D8A56 v8::base::FatalOOM+54
+ 5: 00007FF7F1BF6D5C v8::internal::Version::GetString+14508
+ 3: 00007FF7F2142C31 v8::Isolate::ReportExternalAllocationLimitReached+65
+ 5: 00007FF7F1F7B6E0 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+31552
+ 2: 00007FF7F152FB6F node::TriggerNodeReport+75231
+ 3: 00007FF7F2142C31 
+ 6: 00007FF7F1F33703 v8::PrimitiveArray::Length+131171
+ 7: 00007FF7F1F847A5 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+68613
+ 3: 00007FF7F26D8A56 
+ 5: 00007FF7F1F7B6E0 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+31552
+ 5: 00007FF7F1F7B6E0 
+ 5: 00007FF7F1F7B6E0 
+ 6: 00007FF7F1F33703 v8::PrimitiveArray::Length+131171
+ 3: 00007FF7F26D8A56 v8::base::FatalOOM+54
+ 5: 00007FF7F1F7B6E0 
+ 5: 00007FF7F1F7B6E0 
+ 5: 00007FF7F1F7B6E0 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+31552
+ 5: 00007FF7F1F7B6E0 
+ 6: 00007FF7F1F33703 v8::PrimitiveArray::Length+131171
+ 3: 00007FF7F26D8A56 v8::base::FatalOOM+54
+ 5: 00007FF7F1F7B6E0 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+31552
+ 2: 00007FF7F15B4BC8 DSA_meth_get_flags+92344
+ 5: 00007FF7F1F7B6E0 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+31552
+ 7: 00007FF7F1F847A5 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+68613
+ 5: 00007FF7F1F7B6E0 
+ 6: 00007FF7F1F7B6E0 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+31552
+ 3: 00007FF7F26D8A56 v8::base::FatalOOM+54
+ 7: 00007FF7F1F847A5 
+ 7: 00007FF7F1EC7BC9 v8::Object::GetIsolate+522233
+ 3: 00007FF7F26D8A56 v8::base::FatalOOM+54
+ 3: 00007FF7F26D8A56 v8::base::FatalOOM+54
+ 5: 00007FF7F1F7B6E0 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+31552
+ 5: 00007FF7F1F7B6E0 
+ 5: 00007FF7F1F7B6E0 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+31552
+ 6: 00007FF7F1F7B6E0 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+31552
+
+ 3: 00007FF7F2142C31 v8::Isolate::ReportExternalAllocationLimitReached+65
+ 5: 00007FF7F1F7B6E0 
+ 3: 00007FF7F26D8A56 
+ 6: 00007FF7F1F33703 v8::PrimitiveArray::Length+131171
+ 5: 00007FF7F1F7B6E0 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+31552
+ 6: 00007FF7F1F33703 v8::PrimitiveArray::Length+131171
+ 5: 00007FF7F1F7B6E0 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+31552
+ 5: 00007FF7F212FA36 v8::Function::Experimental_IsNopFunction+2918
+ 5: 00007FF7F1F7B6E0 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+31552
+ 5: 00007FF7F1F7B6E0 
+ 5: 00007FF7F1F7B6E0 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+31552
+ 7: 00007FF7F1F847A5 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+68613
+ 5: 00007FF7F1F7B6E0 
+ 5: 00007FF7F1F7B6E0 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+31552
+ 5: 00007FF7F1F7B6E0 
+ 3: 00007FF7F2142C31 
+ 5: 00007FF7F1F7B6E0 
+ 7: 00007FF7F1F847A5 
+ 9: 00007FF7F27E369A v8::internal::compiler::CompilationDependencies::~CompilationDependencies+715322
+ 9: 00007FF7F286099E v8::internal::compiler::CompilationDependencies::TransitionDependencyOffTheRecord+368270
+ 5: 00007FF7F1F7B6E0 
+ 5: 00007FF7F1F7B6E0 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+31552
+ 3: 00007FF7F26D8A56 
+ 4: 00007FF7F212FA36 
+ 3: 00007FF7F2142C31 v8::Isolate::ReportExternalAllocationLimitReached+65
+ 8: 00007FF7F1F75052 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+5298
+ 4: 00007FF7F2142C83 
+ 7: 00007FF7F1F847A5 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+68613
+ 7: 00007FF7F1F847A5 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+68613
+ 5: 00007FF7F1F7B6E0 
+ 9: 00007FF7F1F43265 v8::internal::ThreadIsolation::JitPageReference::Size+3941
+ 7: 00007FF7F1F847A5 
+ 7: 00007FF7F1F847A5 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+68613
+ 9: 00007FF7F1F43265 v8::internal::ThreadIsolation::JitPageReference::Size+3941
+ 5: 00007FF7F1F7B6E0 
+ 5: 00007FF7F1F7B6E0 
+ 3: 00007FF7F26D8A56 v8::base::FatalOOM+54
+ 4: 00007FF7F2142C83 v8::Isolate::ReportExternalAllocationLimitReached+147
+ 3: 00007FF7F26D8A56 
+ 9: 00007FF7F1F43265 v8::internal::ThreadIsolation::JitPageReference::Size+3941
+ 3: 00007FF7F26D8A56 v8::base::FatalOOM+54
+ 9: 00007FF7F1F43265 v8::internal::ThreadIsolation::JitPageReference::Size+3941
+ 6: 00007FF7F1F33703 v8::PrimitiveArray::Length+131171
+ 5: 00007FF7F1F7B6E0 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+31552
+10: 00007FF7F1F328CC 
+ 4: 00007FF7F2142C83 
+ 9: 00007FF7F1F43265 
+ 7: 00007FF7F1F847A5 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+68613
+ 6: 00007FF7F1F33703 v8::PrimitiveArray::Length+131171
+ 9: 00007FF7F1F43265 v8::internal::ThreadIsolation::JitPageReference::Size+3941
+ 6: 00007FF7F197F0C0 CrashForExceptionInNonABICompliantCodeRange+294192
+ 3: 00007FF7F26D8A56 v8::base::FatalOOM+54
+ 6: 00007FF7F1989118 CrashForExceptionInNonABICompliantCodeRange+335240
+ 3: 00007FF7F26D8A56 v8::base::FatalOOM+54
+ 6: 00007FF7F2839989 v8::internal::compiler::CompilationDependencies::TransitionDependencyOffTheRecord+208505
+<--- JS stacktrace --->
+ 6: 00007FF7F1F33703 
+ 6: 00007FF7F1F7B6E0 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+31552
+ 6: 00007FF7F1F33703 
+ 6: 00007FF7F1F33703 
+ 9: 00007FF7F1F43265 v8::internal::ThreadIsolation::JitPageReference::Size+3941
+
+ 9: 00007FF7F1F43265 v8::internal::ThreadIsolation::JitPageReference::Size+3941
+
+ 6: 00007FF7F1F33703 
+ 7: 00007FF7F1F847A5 
+
+ 8: 00007FF7F1F75052 
+ 6: 00007FF7F1F33703 v8::PrimitiveArray::Length+131171
+ 2: 00007FF7F152FB6F 
+
+ 7: 00007FF7F1F847A5 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+68613
+ 6: 00007FF7F1F33703 
+
+ 6: 00007FF7F1F7B6E0 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+31552
+ 6: 00007FF7F1F33703 v8::PrimitiveArray::Length+131171
+ 2: 00007FF7F15B4BC8 
+10: 00007FF7F1F328CC v8::PrimitiveArray::Length+127532
+ 6: 00007FF7F197F0C0 CrashForExceptionInNonABICompliantCodeRange+294192
+ 4: 00007FF7F2142C83 v8::Isolate::ReportExternalAllocationLimitReached+147
+ 6: 00007FF7F20A1D94 
+ 6: 00007FF7F1989118 CrashForExceptionInNonABICompliantCodeRange+335240
+ 6: 00007FF7F1F33703 v8::PrimitiveArray::Length+131171
+ 4: 00007FF7F2142C83 v8::Isolate::ReportExternalAllocationLimitReached+147
+ 3: 00007FF7F26D8A56 v8::base::FatalOOM+54
+ 8: 00007FF7F1F75052 
+ 4: 00007FF7F2142C83 v8::Isolate::ReportExternalAllocationLimitReached+147
+ 6: 00007FF7F1F33703 v8::PrimitiveArray::Length+131171
+ 6: 00007FF7F1F33703 v8::PrimitiveArray::Length+131171
+ 6: 00007FF7F1F33703 
+ 7: 00007FF7F1F847A5 
+ 6: 00007FF7F1F33703 v8::PrimitiveArray::Length+131171
+ 5: 00007FF7F1BF6D5C v8::internal::Version::GetString+14508
+ 4: 00007FF7F2142C83 v8::Isolate::ReportExternalAllocationLimitReached+147
+ 3: 00007FF7F26D8A56 v8::base::FatalOOM+54
+ 6: 00007FF7F1F33703 v8::PrimitiveArray::Length+131171
+ 8: 00007FF7F1F75052 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+5298
+ 6: 00007FF7F20A1E94 v8::internal::ThreadIsolation::JitPageReference::UnregisterRange+241572
+ 4: 00007FF7F212FA36 v8::Function::Experimental_IsNopFunction+2918
+ 3: 00007FF7F26D8A56 v8::base::FatalOOM+54
+
+ 4: 00007FF7F2142C83 
+ 7: 00007FF7F1F847A5 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+68613
+ 8: 00007FF7F1F75052 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+5298
+ 4: 00007FF7F2142C83 
+ 6: 00007FF7F1F33703 v8::PrimitiveArray::Length+131171
+ 6: 00007FF7F1F33703 
+ 6: 00007FF7F1F33703 
+10: 00007FF7F1F328CC v8::PrimitiveArray::Length+127532
+ 6: 00007FF7F1F33703 v8::PrimitiveArray::Length+131171
+ 6: 00007FF7F1F33703 
+ 6: 00007FF7F1F33703 
+ 6: 00007FF7F1F33703 v8::PrimitiveArray::Length+131171
+ 6: 00007FF7F1F33703 
+ 7: 00007FF7F1F847A5 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+68613
+ 4: 00007FF7F2142C83 v8::Isolate::ReportExternalAllocationLimitReached+147
+ 6: 00007FF7F1F33703 v8::PrimitiveArray::Length+131171
+ 3: 00007FF7F2142C31 v8::Isolate::ReportExternalAllocationLimitReached+65
+ 8: 00007FF7F1F75052 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+5298
+ 6: 00007FF7F1F33703 
+ 9: 00007FF7F1F43265 
+ 6: 00007FF7F1F33703 
+ 4: 00007FF7F2142C83 v8::Isolate::ReportExternalAllocationLimitReached+147
+ 8: 00007FF7F1F75052 
+ 4: 00007FF7F212FA36 v8::Function::Experimental_IsNopFunction+2918
+ 8: 00007FF7F1EC81D8 v8::Object::GetIsolate+523784
+ 4: 00007FF7F2142C83 v8::Isolate::ReportExternalAllocationLimitReached+147
+ 6: 00007FF7F1F58C20 v8::internal::ThreadIsolation::JitPageReference::Size+92448
+ 6: 00007FF7F1F58C20 
+ 6: 00007FF7F1F33703 v8::PrimitiveArray::Length+131171
+ 8: 00007FF7F1F75052 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+5298
+ 3: 00007FF7F2142C31 
+ 4: 00007FF7F212FA36 v8::Function::Experimental_IsNopFunction+2918
+ 1: 00007FF7F164BD7B node::SetCppgcReference+16011
+ 6: 00007FF7F20A1E94 v8::internal::ThreadIsolation::JitPageReference::UnregisterRange+241572
+ 7: 00007FF7F1F847A5 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+68613
+ 6: 00007FF7F1F33703 v8::PrimitiveArray::Length+131171
+ 7: 00007FF7F1F847A5 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+68613
+ 6: 00007FF7F1F33703 v8::PrimitiveArray::Length+131171
+ 6: 00007FF7F1F7B6E0 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+31552
+ 6: 00007FF7F1F58C20 v8::internal::ThreadIsolation::JitPageReference::Size+92448
+ 6: 00007FF7F1F33703 
+ 6: 00007FF7F1F33703 v8::PrimitiveArray::Length+131171
+ 8: 00007FF7F1F75052 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+5298
+ 6: 00007FF7F1F58C20 
+ 6: 00007FF7F1F58C20 v8::internal::ThreadIsolation::JitPageReference::Size+92448
+ 6: 00007FF7F1F33703 
+ 4: 00007FF7F212FA36 
+ 6: 00007FF7F1F33703 
+ 6: 00007FF7F1F33703 v8::PrimitiveArray::Length+131171
+10: 00007FF7F20A9734 v8::SharedValueConveyor::SharedValueConveyor+30356
+10: 00007FF7F285E8EE v8::internal::compiler::CompilationDependencies::TransitionDependencyOffTheRecord+359902
+ 6: 00007FF7F1F33703 
+ 4: 00007FF7F212FA36 
+ 6: 00007FF7F1F33703 
+ 4: 00007FF7F212FA36 v8::Function::Experimental_IsNopFunction+2918
+ 5: 00007FF7F1F7B6E0 
+ 9: 00007FF7F1F70C45 v8::internal::ThreadIsolation::JitPageReference::Size+190789
+ 5: 00007FF7F212FA36 
+ 8: 00007FF7F1F75052 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+5298
+ 8: 00007FF7F1F75052 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+5298
+ 6: 00007FF7F1F33703 
+ 8: 00007FF7F1F75052 
+10: 00007FF7F1F328CC v8::PrimitiveArray::Length+127532
+ 8: 00007FF7F1F75052 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+5298
+10: 00007FF7F1F328CC v8::PrimitiveArray::Length+127532
+ 6: 00007FF7F1F33703 
+ 6: 00007FF7F1F33703 
+ 4: 00007FF7F2142C83 v8::Isolate::ReportExternalAllocationLimitReached+147
+ 5: 00007FF7F212FA36 v8::Function::Experimental_IsNopFunction+2918
+ 7: 00007FF7F1F847A5 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+68613
+ 7: 00007FF7F1F847A5 
+ 4: 00007FF7F2142C83 v8::Isolate::ReportExternalAllocationLimitReached+147
+10: 00007FF7F1F328CC v8::PrimitiveArray::Length+127532
+ 7: 00007FF7F1F847A5 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+68613
+ 4: 00007FF7F2142C83 v8::Isolate::ReportExternalAllocationLimitReached+147
+11: 00007FF7F1F31EB8 
+ 5: 00007FF7F212FA36 
+10: 00007FF7F1F328CC 
+ 4: 00007FF7F2142C83 v8::Isolate::ReportExternalAllocationLimitReached+147
+ 7: 00007FF7F1F847A5 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+68613
+10: 00007FF7F1F328CC v8::PrimitiveArray::Length+127532
+ 7: 00007FF7F1996B26 CrashForExceptionInNonABICompliantCodeRange+391062
+ 4: 00007FF7F2142C83 v8::Isolate::ReportExternalAllocationLimitReached+147
+ 7: 00007FF7F2B8EA13 v8::internal::compiler::CompilationDependencies::TransitionDependencyOffTheRecord+3702531
+ 4: 00007FF7F2142C83 v8::Isolate::ReportExternalAllocationLimitReached+147
+ 7: 00007FF7F283BBA9 v8::internal::compiler::CompilationDependencies::TransitionDependencyOffTheRecord+217241
+
+ 7: 00007FF7F1F847A5 
+ 7: 00007FF7F1F42F4A v8::internal::ThreadIsolation::JitPageReference::Size+3146
+ 7: 00007FF7F1F847A5 
+ 7: 00007FF7F1F42F4A v8::internal::ThreadIsolation::JitPageReference::Size+3146
+ 4: 00007FF7F2142C83 
+ 1: 00007FF7F164BD7B node::SetCppgcReference+16011
+10: 00007FF7F1F328CC v8::PrimitiveArray::Length+127532
+ 1: 00007FF7F164BD7B 
+ 7: 00007FF7F1F847A5 
+ 8: 00007FF7F1F75052 
+ 1: 00007FF7F164BD7B node::SetCppgcReference+16011
+ 1: 00007FF7F164BD7B node::SetCppgcReference+16011
+10: 00007FF7F1F328CC 
+ 3: 00007FF7F26D8E75 
+ 7: 00007FF7F1F42F4A v8::internal::ThreadIsolation::JitPageReference::Size+3146
+ 7: 00007FF7F1F847A5 
+ 1: 00007FF7F164BD7B 
+ 7: 00007FF7F1F42F4A v8::internal::ThreadIsolation::JitPageReference::Size+3146
+ 6: 00007FF7F1F33703 
+ 7: 00007FF7F1F847A5 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+68613
+ 1: 00007FF7F164BD7B node::SetCppgcReference+16011
+11: 00007FF7F1F31EB8 v8::PrimitiveArray::Length+124952
+ 7: 00007FF7F290D1D0 v8::internal::compiler::CompilationDependencies::TransitionDependencyOffTheRecord+1074880
+ 5: 00007FF7F212FA36 v8::Function::Experimental_IsNopFunction+2918
+ 7: 00007FF7F1C1406B 
+ 7: 00007FF7F19935EC CrashForExceptionInNonABICompliantCodeRange+377436
+ 7: 00007FF7F1F847A5 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+68613
+ 5: 00007FF7F212FA36 v8::Function::Experimental_IsNopFunction+2918
+ 4: 00007FF7F2142C83 v8::Isolate::ReportExternalAllocationLimitReached+147
+ 9: 00007FF7F1F70C45 
+ 5: 00007FF7F212FA36 v8::Function::Experimental_IsNopFunction+2918
+ 7: 00007FF7F1F847A5 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+68613
+ 7: 00007FF7F1F847A5 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+68613
+ 7: 00007FF7F1F847A5 
+ 8: 00007FF7F1F75052 
+ 7: 00007FF7F1F847A5 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+68613
+ 4: 00007FF7F2142C83 v8::Isolate::ReportExternalAllocationLimitReached+147
+ 5: 00007FF7F212FA36 v8::Function::Experimental_IsNopFunction+2918
+ 4: 00007FF7F2142C83 
+10: 00007FF7F1F328CC v8::PrimitiveArray::Length+127532
+ 5: 00007FF7F212FA36 v8::Function::Experimental_IsNopFunction+2918
+ 5: 00007FF7F212FA36 
+ 7: 00007FF7F1F847A5 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+68613
+ 5: 00007FF7F212FA36 
+ 4: 00007FF7F2142C83 v8::Isolate::ReportExternalAllocationLimitReached+147
+ 8: 00007FF7F1F75052 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+5298
+ 7: 00007FF7F1C1406B v8::internal::Version::GetString+134075
+ 9: 00007FF7F1F70C45 v8::internal::ThreadIsolation::JitPageReference::Size+190789
+ 5: 00007FF7F212FA36 
+ 7: 00007FF7F1F847A5 
+ 8: 00007FF7F1F75052 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+5298
+ 5: 00007FF7F1F7B6E0 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+31552
+ 7: 00007FF7F1F82298 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+59128
+ 7: 00007FF7F1F847A5 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+68613
+ 7: 00007FF7F1F847A5 
+ 8: 00007FF7F1F75052 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+5298
+ 7: 00007FF7F1F847A5 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+68613
+----- Native stack trace -----
+ 8: 00007FF7F1F75052 
+ 6: 00007FF7F1F7B6E0 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+31552
+ 6: 00007FF7F1F7B6E0 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+31552
+ 9: 00007FF7F1F70C45 
+ 8: 00007FF7F1F75052 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+5298
+ 8: 00007FF7F1F75052 
+ 6: 00007FF7F1F7B6E0 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+31552
+ 7: 00007FF7F1F847A5 
+ 7: 00007FF7F1F847A5 
+ 5: 00007FF7F212FA36 v8::Function::Experimental_IsNopFunction+2918
+ 9: 00007FF7F1F70C45 
+ 5: 00007FF7F1BF315E v8::SnapshotCreator::GetIsolate+53054
+ 9: 00007FF7F1ED5967 v8::Object::GetIsolate+578967
+ 5: 00007FF7F212FA36 v8::Function::Experimental_IsNopFunction+2918
+ 7: 00007FF7F1F82298 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+59128
+ 7: 00007FF7F1F82298 
+ 7: 00007FF7F1F847A5 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+68613
+ 9: 00007FF7F1F70C45 v8::internal::ThreadIsolation::JitPageReference::Size+190789
+ 4: 00007FF7F212FA36 
+ 5: 00007FF7F1F7B6E0 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+31552
+ 7: 00007FF7F1F847A5 
+ 5: 00007FF7F212FA36 
+ 8: 00007FF7F1F75052 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+5298
+ 7: 00007FF7F1F847A5 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+68613
+ 7: 00007FF7F1F847A5 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+68613
+ 7: 00007FF7F1F847A5 
+ 7: 00007FF7F1F42F4A v8::internal::ThreadIsolation::JitPageReference::Size+3146
+ 7: 00007FF7F1F82298 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+59128
+ 7: 00007FF7F1F847A5 
+ 7: 00007FF7F1F847A5 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+68613
+ 9: 00007FF7F1F70C45 v8::internal::ThreadIsolation::JitPageReference::Size+190789
+ 7: 00007FF7F1F82298 
+ 7: 00007FF7F1F847A5 
+ 9: 00007FF7F1F70C45 
+ 5: 00007FF7F1F7B6E0 
+ 7: 00007FF7F1F847A5 
+ 7: 00007FF7F1F847A5 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+68613
+11: 00007FF7F2062CAF v8::StringObject::ValueOf+41359
+11: 00007FF7F2867635 v8::internal::compiler::CompilationDependencies::TransitionDependencyOffTheRecord+396069
+ 7: 00007FF7F1F847A5 
+ 7: 00007FF7F1F847A5 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+68613
+ 5: 00007FF7F1F7B6E0 
+ 6: 00007FF7F1F58C20 
+ 5: 00007FF7F1F7B6E0 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+31552
+10: 00007FF7F18EA2DD BIO_ssl_shutdown+189
+ 6: 00007FF7F1F7B6E0 
+ 9: 00007FF7F1F70C45 v8::internal::ThreadIsolation::JitPageReference::Size+190789
+ 9: 00007FF7F1F70C45 v8::internal::ThreadIsolation::JitPageReference::Size+190789
+ 7: 00007FF7F1F847A5 
+11: 00007FF7F1F31EB8 v8::PrimitiveArray::Length+124952
+ 9: 00007FF7F1F70C45 
+ 9: 00007FF7F1F70C45 v8::internal::ThreadIsolation::JitPageReference::Size+190789
+11: 00007FF7F1F31EB8 v8::PrimitiveArray::Length+124952
+ 7: 00007FF7F1F847A5 
+ 7: 00007FF7F1F847A5 
+ 5: 00007FF7F212FA36 v8::Function::Experimental_IsNopFunction+2918
+ 6: 00007FF7F1F7B6E0 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+31552
+ 7: 00007FF7F1F847A5 
+11: 00007FF7F1F31EB8 v8::PrimitiveArray::Length+124952
+ 5: 00007FF7F212FA36 v8::Function::Experimental_IsNopFunction+2918
+11: 00007FF7F1F31EB8 v8::PrimitiveArray::Length+124952
+ 8: 00007FF7F1F75052 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+5298
+ 5: 00007FF7F212FA36 v8::Function::Experimental_IsNopFunction+2918
+12: 00007FF7F1F89472 
+ 6: 00007FF7F1F7B6E0 
+11: 00007FF7F1F31EB8 
+ 9: 00007FF7F1F70C45 v8::internal::ThreadIsolation::JitPageReference::Size+190789
+ 8: 00007FF7F1F75052 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+5298
+11: 00007FF7F1F31EB8 v8::PrimitiveArray::Length+124952
+ 8: 00007FF7F2B57D5F v8::internal::compiler::CompilationDependencies::TransitionDependencyOffTheRecord+3478095
+ 5: 00007FF7F212FA36 v8::Function::Experimental_IsNopFunction+2918
+ 8: 00007FF7F27E9807 v8::internal::compiler::CompilationDependencies::~CompilationDependencies+740263
+ 5: 00007FF7F212FA36 v8::Function::Experimental_IsNopFunction+2918
+ 8: 00007FF7F2848A1C v8::internal::compiler::CompilationDependencies::TransitionDependencyOffTheRecord+270092
+ 8: 00007FF7F1F43560 v8::internal::ThreadIsolation::JitPageReference::Size+4704
+ 7: 00007FF7F1F847A5 
+ 8: 00007FF7F1F75052 
+ 8: 00007FF7F1F75052 
+ 8: 00007FF7F1F43560 v8::internal::ThreadIsolation::JitPageReference::Size+4704
+11: 00007FF7F1F31EB8 v8::PrimitiveArray::Length+124952
+ 2: 00007FF7F152FB6F node::TriggerNodeReport+75231
+11: 00007FF7F1F31EB8 v8::PrimitiveArray::Length+124952
+ 2: 00007FF7F15B4BC8 
+ 9: 00007FF7F1F70C45 
+ 8: 00007FF7F1F75052 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+5298
+ 6: 00007FF7F1F7B6E0 
+ 9: 00007FF7F1F70C45 v8::internal::ThreadIsolation::JitPageReference::Size+190789
+11: 00007FF7F1F31EB8 
+ 4: 00007FF7F2120FF3 
+ 2: 00007FF7F15B4BC8 DSA_meth_get_flags+92344
+ 8: 00007FF7F1F43560 v8::internal::ThreadIsolation::JitPageReference::Size+4704
+ 8: 00007FF7F1F75052 
+ 2: 00007FF7F15B4BC8 
+ 8: 00007FF7F1F43560 v8::internal::ThreadIsolation::JitPageReference::Size+4704
+ 8: 00007FF7F1F75052 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+5298
+ 2: 00007FF7F15B4BC8 DSA_meth_get_flags+92344
+12: 00007FF7F1F89472 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+88274
+ 8: 00007FF7F290B67F v8::internal::compiler::CompilationDependencies::TransitionDependencyOffTheRecord+1067887
+ 7: 00007FF7F1F847A5 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+68613
+ 8: 00007FF7F1C331C5 
+ 8: 00007FF7F2B80247 v8::internal::compiler::CompilationDependencies::TransitionDependencyOffTheRecord+3643191
+ 8: 00007FF7F1F75052 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+5298
+ 6: 00007FF7F1F7B6E0 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+31552
+ 5: 00007FF7F212FA36 v8::Function::Experimental_IsNopFunction+2918
+10: 00007FF7F18EA2DD 
+ 4: 00007FF7F212FA36 v8::Function::Experimental_IsNopFunction+2918
+ 8: 00007FF7F1F75052 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+5298
+ 8: 00007FF7F1F75052 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+5298
+ 8: 00007FF7F1F75052 
+ 7: 00007FF7F1C1406B v8::internal::Version::GetString+134075
+ 6: 00007FF7F1F7B6E0 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+31552
+ 5: 00007FF7F212FA36 v8::Function::Experimental_IsNopFunction+2918
+ 5: 00007FF7F212FA36 v8::Function::Experimental_IsNopFunction+2918
+ 7: 00007FF7F1F847A5 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+68613
+ 8: 00007FF7F1C331C5 v8::internal::Version::GetString+261397
+ 6: 00007FF7F1F33703 v8::PrimitiveArray::Length+131171
+ 9: 00007FF7F1F70C45 v8::internal::ThreadIsolation::JitPageReference::Size+190789
+10: 00007FF7F18EA2DD 
+ 5: 00007FF7F212FA36 v8::Function::Experimental_IsNopFunction+2918
+ 8: 00007FF7F1F75052 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+5298
+ 9: 00007FF7F1F70C45 v8::internal::ThreadIsolation::JitPageReference::Size+190789
+10: 00007FF7F1EB6CEA v8::Object::GetIsolate+452890
+ 8: 00007FF7F1F75052 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+5298
+ 8: 00007FF7F1F75052 
+ 2: 00007FF7F152FB6F node::TriggerNodeReport+75231
+ 8: 00007FF7F1F75052 
+ 6: 00007FF7F1F7B6E0 
+ 8: 00007FF7F1F75052 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+5298
+ 8: 00007FF7F1F75052 
+ 8: 00007FF7F1F75052 
+ 8: 00007FF7F1F75052 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+5298
+ 8: 00007FF7F1F75052 
+ 2: 00007FF7F15B4BC8 DSA_meth_get_flags+92344
+ 6: 00007FF7F1F7B6E0 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+31552
+ 5: 00007FF7F1F7B6E0 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+31552
+ 6: 00007FF7F1F7B6E0 
+ 8: 00007FF7F1F75052 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+5298
+ 9: 00007FF7F1F70C45 v8::internal::ThreadIsolation::JitPageReference::Size+190789
+10: 00007FF7F18EA2DD BIO_ssl_shutdown+189
+ 8: 00007FF7F1F75052 
+ 7: 00007FF7F1F42F4A v8::internal::ThreadIsolation::JitPageReference::Size+3146
+ 7: 00007FF7F1F847A5 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+68613
+ 6: 00007FF7F1CF29F6 v8::base::Thread::StartSynchronously+171222
+10: 00007FF7F18EA2DD BIO_ssl_shutdown+189
+ 6: 00007FF7F1F7B6E0 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+31552
+ 8: 00007FF7F1F84811 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+68721
+ 8: 00007FF7F1F84811 
+ 8: 00007FF7F1F75052 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+5298
+10: 00007FF7F18EA2DD BIO_ssl_shutdown+189
+ 5: 00007FF7F1BF315E 
+ 6: 00007FF7F1F33703 v8::PrimitiveArray::Length+131171
+ 8: 00007FF7F1F75052 
+ 6: 00007FF7F1F7B6E0 
+10: 00007FF7F18EA2DD BIO_ssl_shutdown+189
+ 9: 00007FF7F1F70C45 v8::internal::ThreadIsolation::JitPageReference::Size+190789
+ 8: 00007FF7F1F75052 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+5298
+ 8: 00007FF7F1F75052 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+5298
+ 8: 00007FF7F1F43560 v8::internal::ThreadIsolation::JitPageReference::Size+4704
+ 8: 00007FF7F1F84811 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+68721
+ 8: 00007FF7F1F75052 
+ 8: 00007FF7F1F75052 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+5298
+10: 00007FF7F18EA2DD BIO_ssl_shutdown+189
+ 8: 00007FF7F1F84811 
+ 8: 00007FF7F1F84811 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+68721
+ 8: 00007FF7F1F75052 
+ 6: 00007FF7F1F58C20 
+ 8: 00007FF7F1F75052 
+ 8: 00007FF7F1F75052 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+5298
+12: 00007FF7F23343C5 v8::PropertyDescriptor::writable+1997061
+12: 00007FF7F28620C8 v8::internal::compiler::CompilationDependencies::TransitionDependencyOffTheRecord+374200
+ 8: 00007FF7F1F75052 
+ 8: 00007FF7F1F75052 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+5298
+ 6: 00007FF7F1F58C20 
+ 7: 00007FF7F1F82298 
+ 6: 00007FF7F1F58C20 v8::internal::ThreadIsolation::JitPageReference::Size+92448
+ 7: 00007FF7F1F42F4A 
+10: 00007FF7F18EA2DD BIO_ssl_shutdown+189
+10: 00007FF7F18EA2DD BIO_ssl_shutdown+189
+ 8: 00007FF7F1F75052 
+12: 00007FF7F1F89472 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+88274
+10: 00007FF7F18EA2DD 
+12: 00007FF7F1F89472 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+88274
+ 8: 00007FF7F1F75052 
+ 8: 00007FF7F1F75052 
+ 6: 00007FF7F1F7B6E0 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+31552
+ 7: 00007FF7F1F42F4A v8::internal::ThreadIsolation::JitPageReference::Size+3146
+ 9: 00007FF7F1F70C45 v8::internal::ThreadIsolation::JitPageReference::Size+190789
+ 8: 00007FF7F1F75052 
+12: 00007FF7F1F89472 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+88274
+ 6: 00007FF7F1F7B6E0 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+31552
+12: 00007FF7F1F89472 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+88274
+ 9: 00007FF7F1F70C45 v8::internal::ThreadIsolation::JitPageReference::Size+190789
+ 6: 00007FF7F1F7B6E0 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+31552
+13: 00007FF7F1FED33F 
+ 7: 00007FF7F1F42F4A 
+12: 00007FF7F1F89472 
+10: 00007FF7F18EA2DD BIO_ssl_shutdown+189
+ 9: 00007FF7F1F70C45 v8::internal::ThreadIsolation::JitPageReference::Size+190789
+12: 00007FF7F1F89472 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+88274
+ 9: 00007FF7F2B8EAA9 v8::internal::compiler::CompilationDependencies::TransitionDependencyOffTheRecord+3702681
+ 6: 00007FF7F1F7B6E0 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+31552
+ 9: 00007FF7F27E369A v8::internal::compiler::CompilationDependencies::~CompilationDependencies+715322
+ 6: 00007FF7F1F7B6E0 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+31552
+ 9: 00007FF7F283D1E2 v8::internal::compiler::CompilationDependencies::TransitionDependencyOffTheRecord+222930
+
+ 9: 00007FF7F1F70C45 
+ 9: 00007FF7F1F43265 v8::internal::ThreadIsolation::JitPageReference::Size+3941
+ 9: 00007FF7F1F70C45 
+ 9: 00007FF7F1F43265 v8::internal::ThreadIsolation::JitPageReference::Size+3941
+12: 00007FF7F1F89472 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+88274
+ 3: 00007FF7F26D8A56 v8::base::FatalOOM+54
+12: 00007FF7F1F89472 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+88274
+ 3: 00007FF7F2142C31 
+ 9: 00007FF7F1F70C45 
+10: 00007FF7F18EA2DD 
+ 3: 00007FF7F26D8A56 v8::base::FatalOOM+54
+ 3: 00007FF7F2142C31 v8::Isolate::ReportExternalAllocationLimitReached+65
+12: 00007FF7F1F89472 
+ 5: 00007FF7F2120A66 
+ 3: 00007FF7F2142C31 v8::Isolate::ReportExternalAllocationLimitReached+65
+ 9: 00007FF7F1F43265 v8::internal::ThreadIsolation::JitPageReference::Size+3941
+ 9: 00007FF7F1F70C45 
+ 3: 00007FF7F2142C31 
+ 9: 00007FF7F1F43265 v8::internal::ThreadIsolation::JitPageReference::Size+3941
+ 9: 00007FF7F1F70C45 v8::internal::ThreadIsolation::JitPageReference::Size+190789
+ 3: 00007FF7F2142C31 v8::Isolate::ReportExternalAllocationLimitReached+65
+13: 00007FF7F1FED33F v8::base::CPU::has_sse41+75583
+ 9: 00007FF7F290A341 v8::internal::compiler::CompilationDependencies::TransitionDependencyOffTheRecord+1062961
+ 7: 00007FF7F1F42F4A v8::internal::ThreadIsolation::JitPageReference::Size+3146
+ 9: 00007FF7F15DB58A 
+ 9: 00007FF7F2B8F22C v8::internal::compiler::CompilationDependencies::TransitionDependencyOffTheRecord+3704604
+ 9: 00007FF7F1F70C45 v8::internal::ThreadIsolation::JitPageReference::Size+190789
+ 6: 00007FF7F1F7B6E0 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+31552
+ 6: 00007FF7F1F7B6E0 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+31552
+ 7: 00007FF7F1F42F4A v8::internal::ThreadIsolation::JitPageReference::Size+3146
+ 9: 00007FF7F1F70C45 v8::internal::ThreadIsolation::JitPageReference::Size+190789
+ 9: 00007FF7F1F70C45 v8::internal::ThreadIsolation::JitPageReference::Size+190789
+ 9: 00007FF7F1F70C45 
+10: 00007FF7F18EA2DD 
+ 9: 00007FF7F1F70C45 v8::internal::ThreadIsolation::JitPageReference::Size+190789
+ 8: 00007FF7F1C331C5 v8::internal::Version::GetString+261397
+ 7: 00007FF7F1F42F4A v8::internal::ThreadIsolation::JitPageReference::Size+3146
+ 6: 00007FF7F1F7B6E0 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+31552
+ 7: 00007FF7F1F42F4A v8::internal::ThreadIsolation::JitPageReference::Size+3146
+ 9: 00007FF7F1F70C45 
+ 9: 00007FF7F15DB58A node::OnFatalError+158090
+10: 00007FF7F18EA2DD 
+ 7: 00007FF7F1F42F4A 
+10: 00007FF7F18EA2DD BIO_ssl_shutdown+189
+ 7: 00007FF7F1F42F4A 
+ 9: 00007FF7F1F70C45 v8::internal::ThreadIsolation::JitPageReference::Size+190789
+ 9: 00007FF7F1F70C45 
+ 9: 00007FF7F1F70C45 
+ 6: 00007FF7F1F7B6E0 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+31552
+ 7: 00007FF7F1F42F4A 
+ 9: 00007FF7F1F70C45 v8::internal::ThreadIsolation::JitPageReference::Size+190789
+ 9: 00007FF7F1F70C45 
+ 9: 00007FF7F1F70C45 
+ 9: 00007FF7F1F70C45 v8::internal::ThreadIsolation::JitPageReference::Size+190789
+ 9: 00007FF7F1F70C45 
+10: 00007FF7F18EA2DD BIO_ssl_shutdown+189
+ 7: 00007FF7F1F42F4A v8::internal::ThreadIsolation::JitPageReference::Size+3146
+ 9: 00007FF7F1F70C45 v8::internal::ThreadIsolation::JitPageReference::Size+190789
+ 6: 00007FF7F1F33703 v8::PrimitiveArray::Length+131171
+ 9: 00007FF7F1F70C45 v8::internal::ThreadIsolation::JitPageReference::Size+190789
+ 9: 00007FF7F1F70C45 
+ 9: 00007FF7F1F70C45 
+ 7: 00007FF7F1F42F4A v8::internal::ThreadIsolation::JitPageReference::Size+3146
+ 7: 00007FF7F1D0BD7F v8::base::Thread::StartSynchronously+274527
+ 9: 00007FF7F1F70C45 
+ 7: 00007FF7F1F42F4A v8::internal::ThreadIsolation::JitPageReference::Size+3146
+ 9: 00007FF7F1F75052 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+5298
+ 9: 00007FF7F1F75052 
+ 9: 00007FF7F1F70C45 v8::internal::ThreadIsolation::JitPageReference::Size+190789
+ 6: 00007FF7F2114393 
+ 7: 00007FF7F1F847A5 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+68613
+ 9: 00007FF7F1F70C45 
+ 7: 00007FF7F1F42F4A 
+ 8: 00007FF7F1F43560 
+ 9: 00007FF7F1F70C45 v8::internal::ThreadIsolation::JitPageReference::Size+190789
+10: 00007FF7F18EA2DD BIO_ssl_shutdown+189
+ 9: 00007FF7F1F70C45 v8::internal::ThreadIsolation::JitPageReference::Size+190789
+ 9: 00007FF7F1F43265 v8::internal::ThreadIsolation::JitPageReference::Size+3941
+ 9: 00007FF7F1F75052 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+5298
+ 9: 00007FF7F1F70C45 v8::internal::ThreadIsolation::JitPageReference::Size+190789
+11: 00007FF7F1EC0F57 v8::Object::GetIsolate+494471
+ 9: 00007FF7F1F75052 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+5298
+ 9: 00007FF7F1F75052 
+ 9: 00007FF7F1F70C45 
+ 7: 00007FF7F1F82298 
+ 9: 00007FF7F1F70C45 
+ 9: 00007FF7F1F70C45 v8::internal::ThreadIsolation::JitPageReference::Size+190789
+13: 00007FF7F1532459 X509_STORE_get_cleanup+713
+13: 00007FF7F285FF05 v8::internal::compiler::CompilationDependencies::TransitionDependencyOffTheRecord+365557
+ 9: 00007FF7F1F70C45 
+ 9: 00007FF7F1F70C45 v8::internal::ThreadIsolation::JitPageReference::Size+190789
+ 7: 00007FF7F1F82298 
+ 8: 00007FF7F1F84811 
+ 7: 00007FF7F1F82298 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+59128
+ 8: 00007FF7F1F43560 
+ 9: 00007FF7F1F70C45 
+13: 00007FF7F1FED33F v8::base::CPU::has_sse41+75583
+13: 00007FF7F1FED33F v8::base::CPU::has_sse41+75583
+ 9: 00007FF7F1F70C45 
+ 9: 00007FF7F1F70C45 
+ 7: 00007FF7F1F42F4A v8::internal::ThreadIsolation::JitPageReference::Size+3146
+ 8: 00007FF7F1F43560 v8::internal::ThreadIsolation::JitPageReference::Size+4704
+10: 00007FF7F18EA2DD BIO_ssl_shutdown+189
+13: 00007FF7F1FED33F v8::base::CPU::has_sse41+75583
+ 7: 00007FF7F1F42F4A v8::internal::ThreadIsolation::JitPageReference::Size+3146
+13: 00007FF7F1FED33F v8::base::CPU::has_sse41+75583
+10: 00007FF7F18EA2DD BIO_ssl_shutdown+189
+ 7: 00007FF7F1F42F4A v8::internal::ThreadIsolation::JitPageReference::Size+3146
+14: 00007FF7F1C11EB5 
+10: 00007FF7F18EA2DD BIO_ssl_shutdown+189
+13: 00007FF7F1FED33F 
+10: 00007FF7F18EA2DD BIO_ssl_shutdown+189
+10: 00007FF7F18EA2DD 
+10: 00007FF7F27E9807 v8::internal::compiler::CompilationDependencies::~CompilationDependencies+740263
+ 7: 00007FF7F1F42F4A v8::internal::ThreadIsolation::JitPageReference::Size+3146
+ 8: 00007FF7F1F43560 v8::internal::ThreadIsolation::JitPageReference::Size+4704
+ 7: 00007FF7F1F42F4A v8::internal::ThreadIsolation::JitPageReference::Size+3146
+10: 00007FF7F27E1692 v8::internal::compiler::CompilationDependencies::~CompilationDependencies+707122
+FATAL ERROR: Zone Allocation failed - process out of memory
+10: 00007FF7F18EA2DD 
+10: 00007FF7F1F328CC v8::PrimitiveArray::Length+127532
+10: 00007FF7F18EA2DD 
+ 4: 00007FF7F212FA36 v8::Function::Experimental_IsNopFunction+2918
+10: 00007FF7F18EA2DD 
+ 8: 00007FF7F1F43560 
+ 8: 00007FF7F1F43560 
+ 8: 00007FF7F1F75052 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+5298
+ 7: 00007FF7F1F42F4A v8::internal::ThreadIsolation::JitPageReference::Size+3146
+ 8: 00007FF7F1F43560 v8::internal::ThreadIsolation::JitPageReference::Size+4704
+10: 00007FF7F15DB16F node::OnFatalError+157039
+10: 00007FF7F18EA2DD 
+ 7: 00007FF7F1F42F4A v8::internal::ThreadIsolation::JitPageReference::Size+3146
+ 8: 00007FF7F1F43560 v8::internal::ThreadIsolation::JitPageReference::Size+4704
+ 9: 00007FF7F15DB58A node::OnFatalError+158090
+10: 00007FF7F18EA2DD BIO_ssl_shutdown+189
+10: 00007FF7F20A9734 v8::SharedValueConveyor::SharedValueConveyor+30356
+ 8: 00007FF7F1F43560 v8::internal::ThreadIsolation::JitPageReference::Size+4704
+10: 00007FF7F18EA2DD BIO_ssl_shutdown+189
+10: 00007FF7F18EA2DD BIO_ssl_shutdown+189
+ 7: 00007FF7F1F42F4A v8::internal::ThreadIsolation::JitPageReference::Size+3146
+12: 00007FF7F1EB9A6A v8::Object::GetIsolate+464538
+10: 00007FF7F18EA2DD BIO_ssl_shutdown+189
+10: 00007FF7F15DB16F 
+10: 00007FF7F2B82FF9 v8::internal::compiler::CompilationDependencies::TransitionDependencyOffTheRecord+3654889
+ 8: 00007FF7F1F43560 v8::internal::ThreadIsolation::JitPageReference::Size+4704
+10: 00007FF7F28186D7 v8::internal::compiler::CompilationDependencies::TransitionDependencyOffTheRecord+72647
+14: 00007FF7F1C11EB5 v8::internal::Version::GetString+125445
+ 4: 00007FF7F212FA36 v8::Function::Experimental_IsNopFunction+2918
+10: 00007FF7F1F328CC v8::PrimitiveArray::Length+127532
+10: 00007FF7F18EA2DD BIO_ssl_shutdown+189
+14: 00007FF7F1C11EB5 
+10: 00007FF7F1F328CC v8::PrimitiveArray::Length+127532
+10: 00007FF7F18EA2DD 
+ 6: 00007FF7F2120D2F 
+ 4: 00007FF7F212FA36 v8::Function::Experimental_IsNopFunction+2918
+ 4: 00007FF7F2142C83 v8::Isolate::ReportExternalAllocationLimitReached+147
+10: 00007FF7F1F328CC v8::PrimitiveArray::Length+127532
+13: 00007FF7F1FED33F 
+10: 00007FF7F18EA2DD 
+13: 00007FF7F1FED33F v8::base::CPU::has_sse41+75583
+ 4: 00007FF7F212FA36 
+13: 00007FF7F1FED33F v8::base::CPU::has_sse41+75583
+ 4: 00007FF7F2142C83 v8::Isolate::ReportExternalAllocationLimitReached+147
+13: 00007FF7F1FED33F v8::base::CPU::has_sse41+75583
+10: 00007FF7F18EA2DD 
+ 8: 00007FF7F1F43560 
+10: 00007FF7F18EA2DD BIO_ssl_shutdown+189
+10: 00007FF7F18EA2DD 
+10: 00007FF7F18EA2DD BIO_ssl_shutdown+189
+10: 00007FF7F18EA2DD BIO_ssl_shutdown+189
+10: 00007FF7F18EA2DD 
+10: 00007FF7F18EA2DD 
+10: 00007FF7F18EA2DD BIO_ssl_shutdown+189
+ 7: 00007FF7F1F847A5 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+68613
+10: 00007FF7F18EA2DD BIO_ssl_shutdown+189
+10: 00007FF7F18EA2DD 
+10: 00007FF7F18EA2DD 
+ 8: 00007FF7F1F43560 v8::internal::ThreadIsolation::JitPageReference::Size+4704
+ 8: 00007FF7F1D03CFD v8::base::Thread::StartSynchronously+241629
+ 8: 00007FF7F1F43560 v8::internal::ThreadIsolation::JitPageReference::Size+4704
+ 8: 00007FF7F1F43560 v8::internal::ThreadIsolation::JitPageReference::Size+4704
+10: 00007FF7F1F70C45 v8::internal::ThreadIsolation::JitPageReference::Size+190789
+10: 00007FF7F1F70C45 
+10: 00007FF7F18EA2DD BIO_ssl_shutdown+189
+ 7: 00007FF7F21112EB 
+ 8: 00007FF7F1F75052 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+5298
+10: 00007FF7F18EA2DD 
+ 8: 00007FF7F1F43560 
+10: 00007FF7F18EA2DD BIO_ssl_shutdown+189
+10: 00007FF7F18EA2DD BIO_ssl_shutdown+189
+14: 00007FF7F1C11EB5 v8::internal::Version::GetString+125445
+10: 00007FF7F1F70C45 v8::internal::ThreadIsolation::JitPageReference::Size+190789
+10: 00007FF7F18EA2DD 
+10: 00007FF7F18EA2DD BIO_ssl_shutdown+189
+10: 00007FF7F1F70C45 
+10: 00007FF7F1F70C45 v8::internal::ThreadIsolation::JitPageReference::Size+190789
+10: 00007FF7F18EA2DD 
+ 8: 00007FF7F1F84811 
+10: 00007FF7F18EA2DD 
+10: 00007FF7F18EA2DD BIO_ssl_shutdown+189
+14: 00007FF7F16AD50E uv_poll_stop+254
+14: 00007FF7F285E0BF v8::internal::compiler::CompilationDependencies::TransitionDependencyOffTheRecord+357807
+10: 00007FF7F18EA2DD 
+10: 00007FF7F18EA2DD BIO_ssl_shutdown+189
+ 8: 00007FF7F1F84811 
+ 9: 00007FF7F1F75052 
+ 8: 00007FF7F1F84811 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+68721
+ 9: 00007FF7F1F43265 
+10: 00007FF7F18EA2DD 
+14: 00007FF7F1C11EB5 v8::internal::Version::GetString+125445
+14: 00007FF7F1C11EB5 v8::internal::Version::GetString+125445
+10: 00007FF7F18EA2DD 
+10: 00007FF7F18EA2DD 
+ 8: 00007FF7F1F43560 v8::internal::ThreadIsolation::JitPageReference::Size+4704
+ 9: 00007FF7F1F43265 v8::internal::ThreadIsolation::JitPageReference::Size+3941
+14: 00007FF7F1C11EB5 v8::internal::Version::GetString+125445
+ 8: 00007FF7F1F43560 v8::internal::ThreadIsolation::JitPageReference::Size+4704
+14: 00007FF7F1C11EB5 v8::internal::Version::GetString+125445
+ 8: 00007FF7F1F43560 v8::internal::ThreadIsolation::JitPageReference::Size+4704
+15: 00007FF7F2138911 
+ 9: 00007FF7F1F43265 
+ 4: 00007FF7F212FA36 
+11: 00007FF7F27E369A v8::internal::compiler::CompilationDependencies::~CompilationDependencies+715322
+ 8: 00007FF7F1F43560 v8::internal::ThreadIsolation::JitPageReference::Size+4704
+11: 00007FF7F2062CAF v8::StringObject::ValueOf+41359
+ 8: 00007FF7F1F43560 v8::internal::ThreadIsolation::JitPageReference::Size+4704
+11: 00007FF7F27E1E3B v8::internal::compiler::CompilationDependencies::~CompilationDependencies+709083
+10: 00007FF7F1F289F3 v8::PrimitiveArray::Length+86867
+----- Native stack trace -----
+11: 00007FF7F1F31EB8 v8::PrimitiveArray::Length+124952
+11: 00007FF7F1F31EB8 v8::PrimitiveArray::Length+124952
+14: 00007FF7F1C11EB5 v8::internal::Version::GetString+125445
+ 5: 00007FF7F212FA36 v8::Function::Experimental_IsNopFunction+2918
+14: 00007FF7F1C11EB5 v8::internal::Version::GetString+125445
+ 5: 00007FF7F1F7B6E0 
+ 5: 00007FF7F212FA36 v8::Function::Experimental_IsNopFunction+2918
+ 5: 00007FF7F1F7B6E0 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+31552
+14: 00007FF7F1C11EB5 
+ 7: 00007FF7F2120BA8 
+ 5: 00007FF7F1F7B6E0 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+31552
+11: 00007FF7F1F31EB8 v8::PrimitiveArray::Length+124952
+ 5: 00007FF7F1BF315E 
+13: 00007FF7F1EBCFB6 v8::Object::GetIsolate+478182
+ 5: 00007FF7F1BF315E v8::SnapshotCreator::GetIsolate+53054
+15: 00007FF7F2138911 v8::Isolate::Initialize+433
+11: 00007FF7F27EAF31 v8::internal::compiler::CompilationDependencies::~CompilationDependencies+746193
+ 9: 00007FF7F1F43265 v8::internal::ThreadIsolation::JitPageReference::Size+3941
+11: 00007FF7F15DA68F 
+11: 00007FF7F2B75FC9 v8::internal::compiler::CompilationDependencies::TransitionDependencyOffTheRecord+3601593
+ 9: 00007FF7F1F43265 v8::internal::ThreadIsolation::JitPageReference::Size+3941
+ 8: 00007FF7F1F43560 v8::internal::ThreadIsolation::JitPageReference::Size+4704
+ 9: 00007FF7F1F43265 v8::internal::ThreadIsolation::JitPageReference::Size+3941
+10: 00007FF7F15DB16F node::OnFatalError+157039
+ 9: 00007FF7F1F43265 v8::internal::ThreadIsolation::JitPageReference::Size+3941
+16: 00007FF7F168CB4D 
+ 9: 00007FF7F1F43265 v8::internal::ThreadIsolation::JitPageReference::Size+3941
+11: 00007FF7F15DA68F node::OnFatalError+154255
+ 9: 00007FF7F1F70C45 v8::internal::ThreadIsolation::JitPageReference::Size+190789
+12: 00007FF7F23343C5 v8::PropertyDescriptor::writable+1997061
+ 9: 00007FF7F1F43265 v8::internal::ThreadIsolation::JitPageReference::Size+3941
+12: 00007FF7F20A9734 v8::SharedValueConveyor::SharedValueConveyor+30356
+15: 00007FF7F2138911 v8::Isolate::Initialize+433
+15: 00007FF7F2138911 
+10: 00007FF7F1F289F3 
+ 8: 00007FF7F1F43560 v8::internal::ThreadIsolation::JitPageReference::Size+4704
+ 9: 00007FF7F1F43265 v8::internal::ThreadIsolation::JitPageReference::Size+3941
+15: 00007FF7F2138911 v8::Isolate::Initialize+433
+ 9: 00007FF7F1F43265 v8::internal::ThreadIsolation::JitPageReference::Size+3941
+ 9: 00007FF7F1F43265 v8::internal::ThreadIsolation::JitPageReference::Size+3941
+15: 00007FF7F2138911 v8::Isolate::Initialize+433
+10: 00007FF7F1F289F3 v8::PrimitiveArray::Length+86867
+15: 00007FF7F2138911 v8::Isolate::Initialize+433
+10: 00007FF7F1F289F3 
+10: 00007FF7F1F70C45 
+ 9: 00007FF7F1F75052 
+15: 00007FF7F2D9E01E inflateValidate+164606
+ 9: 00007FF7F1F75052 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+5298
+15: 00007FF7F2138911 v8::Isolate::Initialize+433
+15: 00007FF7F27EBBC8 v8::internal::compiler::CompilationDependencies::~CompilationDependencies+749416
+11: 00007FF7F18EA2DD BIO_ssl_shutdown+189
+ 9: 00007FF7F1F75052 
+ 9: 00007FF7F1F42FE2 
+11: 00007FF7F18EA2DD BIO_ssl_shutdown+189
+ 8: 00007FF7F2110FBA 
+11: 00007FF7F18EA2DD 
+11: 00007FF7F18EA2DD BIO_ssl_shutdown+189
+ 9: 00007FF7F1F70C45 v8::internal::ThreadIsolation::JitPageReference::Size+190789
+11: 00007FF7F1F69BD6 v8::internal::ThreadIsolation::JitPageReference::Size+162006
+11: 00007FF7F1F31EB8 v8::PrimitiveArray::Length+124952
+ 8: 00007FF7F1F75052 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+5298
+11: 00007FF7F18EA2DD 
+ 9: 00007FF7F1F43265 v8::internal::ThreadIsolation::JitPageReference::Size+3941
+ 9: 00007FF7F1F42FE2 
+ 9: 00007FF7F1F43265 v8::internal::ThreadIsolation::JitPageReference::Size+3941
+ 8: 00007FF7F1F43560 v8::internal::ThreadIsolation::JitPageReference::Size+4704
+ 9: 00007FF7F1D018D9 v8::base::Thread::StartSynchronously+232377
+ 9: 00007FF7F1F43265 v8::internal::ThreadIsolation::JitPageReference::Size+3941
+ 9: 00007FF7F1F43265 v8::internal::ThreadIsolation::JitPageReference::Size+3941
+ 9: 00007FF7F1F43265 
+ 9: 00007FF7F1F43265 
+12: 00007FF7F27E9D0C v8::internal::compiler::CompilationDependencies::~CompilationDependencies+741548
+
+12: 00007FF7F1F89472 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+88274
+12: 00007FF7F1F89472 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+88274
+15: 00007FF7F2138911 v8::Isolate::Initialize+433
+ 6: 00007FF7F1F7B6E0 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+31552
+15: 00007FF7F2138911 v8::Isolate::Initialize+433
+ 6: 00007FF7F1F33703 
+10: 00007FF7F1F289F3 v8::PrimitiveArray::Length+86867
+ 6: 00007FF7F1F58C20 v8::internal::ThreadIsolation::JitPageReference::Size+92448
+13: 00007FF7F27E369A v8::internal::compiler::CompilationDependencies::~CompilationDependencies+715322
+ 8: 00007FF7F1CCB5D1 
+ 6: 00007FF7F1F33703 v8::PrimitiveArray::Length+131171
+12: 00007FF7F1F89472 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+88274
+ 6: 00007FF7F19B2DD6 
+12: 00007FF7F1F89472 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+88274
+ 6: 00007FF7F19926A8 CrashForExceptionInNonABICompliantCodeRange+373528
+16: 00007FF7F168CB4D node::NewContext+397
+12: 00007FF7F281829E v8::internal::compiler::CompilationDependencies::TransitionDependencyOffTheRecord+71566
+12: 00007FF7F15D8717 
+12: 00007FF7F2B4C06F v8::internal::compiler::CompilationDependencies::TransitionDependencyOffTheRecord+3429727
+10: 00007FF7F1F289F3 v8::PrimitiveArray::Length+86867
+10: 00007FF7F1F289F3 v8::PrimitiveArray::Length+86867
+ 9: 00007FF7F1F42FE2 v8::internal::ThreadIsolation::JitPageReference::Size+3298
+ 6: 00007FF7F1F7B6E0 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+31552
+11: 00007FF7F15DA68F node::OnFatalError+154255
+10: 00007FF7F1F289F3 v8::PrimitiveArray::Length+86867
+ 9: 00007FF7F1F43265 v8::internal::ThreadIsolation::JitPageReference::Size+3941
+10: 00007FF7F1F289F3 v8::PrimitiveArray::Length+86867
+12: 00007FF7F15D8717 node::OnFatalError+146199
+10: 00007FF7F18EA2DD BIO_ssl_shutdown+189
+ 9: 00007FF7F1F43265 v8::internal::ThreadIsolation::JitPageReference::Size+3941
+10: 00007FF7F1F289F3 
+10: 00007FF7F1F6BBAB 
+10: 00007FF7F1F289F3 
+10: 00007FF7F1F289F3 v8::PrimitiveArray::Length+86867
+ 9: 00007FF7F1F70C45 v8::internal::ThreadIsolation::JitPageReference::Size+190789
+10: 00007FF7F1F289F3 v8::PrimitiveArray::Length+86867
+10: 00007FF7F1CF5C27 v8::base::Thread::StartSynchronously+184071
+14: 00007FF7F1EB24FC v8::Object::GetIsolate+434476
+10: 00007FF7F1F289F3 v8::PrimitiveArray::Length+86867
+ 9: 00007FF7F1CF2A1D 
+10: 00007FF7F18EA2DD BIO_ssl_shutdown+189
+10: 00007FF7F1F6BBAB 
+12: 00007FF7F1F6985D v8::internal::ThreadIsolation::JitPageReference::Size+161117
+10: 00007FF7F1F70C45 
+16: 00007FFD4C5FE8D7 BaseThreadInitThunk+23
+16: 00007FF7F27E2AC0 v8::internal::compiler::CompilationDependencies::~CompilationDependencies+712288
+10: 00007FF7F1F70C45 
+11: 00007FF7F18EA2DD 
+10: 00007FF7F1F70C45 v8::internal::ThreadIsolation::JitPageReference::Size+190789
+11: 00007FF7F1F69BD6 
+16: 00007FF7F168CB4D node::NewContext+397
+16: 00007FF7F168CB4D node::NewContext+397
+10: 00007FF7F1F289F3 v8::PrimitiveArray::Length+86867
+11: 00007FF7F1F69BD6 v8::internal::ThreadIsolation::JitPageReference::Size+162006
+16: 00007FF7F168CB4D node::NewContext+397
+10: 00007FF7F1F289F3 v8::PrimitiveArray::Length+86867
+16: 00007FF7F168CB4D node::NewContext+397
+10: 00007FF7F1F289F3 v8::PrimitiveArray::Length+86867
+17: 00007FF7F147C505 
+11: 00007FF7F1F69BD6 
+16: 00007FF7F168CB4D 
+16: 00007FF7F168CB4D node::NewContext+397
+13: 00007FF7F2062CAF v8::StringObject::ValueOf+41359
+10: 00007FF7F1F289F3 v8::PrimitiveArray::Length+86867
+13: 00007FF7F1532459 X509_STORE_get_cleanup+713
+10: 00007FF7F1F289F3 v8::PrimitiveArray::Length+86867
+ 1: 00007FF7F164BD7B 
+13: 00007FF7F1FED33F v8::base::CPU::has_sse41+75583
+15: 00007FF7F2138911 
+13: 00007FF7F1FED33F v8::base::CPU::has_sse41+75583
+16: 00007FF7F168CB4D node::NewContext+397
+ 7: 00007FF7F1F42F4A v8::internal::ThreadIsolation::JitPageReference::Size+3146
+16: 00007FF7F168CB4D node::NewContext+397
+ 7: 00007FF7F1F847A5 
+ 7: 00007FF7F1F42F4A v8::internal::ThreadIsolation::JitPageReference::Size+3146
+ 7: 00007FF7F1F82298 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+59128
+16: 00007FF7F168CB4D 
+ 9: 00007FF7F1CFFC61 
+ 7: 00007FF7F1F847A5 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+68613
+13: 00007FF7F1525286 
+11: 00007FF7F1F69BD6 v8::internal::ThreadIsolation::JitPageReference::Size+162006
+13: 00007FF7F1FED33F v8::base::CPU::has_sse41+75583
+ 7: 00007FF7F1EA9EBF v8::Object::GetIsolate+400111
+17: 00007FF7F147C505 RSA_meth_get_flags+186981
+11: 00007FF7F1F6BE23 
+11: 00007FF7F1F69BD6 v8::internal::ThreadIsolation::JitPageReference::Size+162006
+13: 00007FF7F1FED33F v8::base::CPU::has_sse41+75583
+13: 00007FF7F2B49B6E v8::internal::compiler::CompilationDependencies::TransitionDependencyOffTheRecord+3420254
+10: 00007FF7F1F6BBAB v8::internal::ThreadIsolation::JitPageReference::Size+170155
+ 7: 00007FF7F1EC7BC9 
+11: 00007FF7F1F69BD6 v8::internal::ThreadIsolation::JitPageReference::Size+162006
+12: 00007FF7F15D8717 node::OnFatalError+146199
+11: 00007FF7F1F69BD6 v8::internal::ThreadIsolation::JitPageReference::Size+162006
+10: 00007FF7F1F289F3 v8::PrimitiveArray::Length+86867
+11: 00007FF7F1F69BD6 v8::internal::ThreadIsolation::JitPageReference::Size+162006
+13: 00007FF7F1525286 node::TriggerNodeReport+31990
+10: 00007FF7F1F289F3 v8::PrimitiveArray::Length+86867
+11: 00007FF7F1F69BD6 
+11: 00007FF7F1F6BE23 
+11: 00007FF7F1F69BD6 
+11: 00007FF7F1F69BD6 v8::internal::ThreadIsolation::JitPageReference::Size+162006
+10: 00007FF7F18EA2DD BIO_ssl_shutdown+189
+11: 00007FF7F1F69BD6 v8::internal::ThreadIsolation::JitPageReference::Size+162006
+11: 00007FF7F1CF4BCD v8::base::Thread::StartSynchronously+179885
+15: 00007FF7F1EBB27D v8::Object::GetIsolate+470701
+11: 00007FF7F1F69BD6 v8::internal::ThreadIsolation::JitPageReference::Size+162006
+10: 00007FF7F1D04234 
+11: 7FF8000000000000 
+13: 00007FF7F2818A7B v8::internal::compiler::CompilationDependencies::TransitionDependencyOffTheRecord+73579
+13: 00007FF7F1F68FA8 v8::internal::ThreadIsolation::JitPageReference::Size+158888
+11: 00007FF7F18EA2DD 
+17: 00007FFD4E12C53C RtlUserThreadStart+44
+17: 00007FF7F27E3675 v8::internal::compiler::CompilationDependencies::~CompilationDependencies+715285
+11: 00007FF7F18EA2DD 
+11: 00007FF7F18EA2DD BIO_ssl_shutdown+189
+12: 00007FF7F1F6985D 
+17: 00007FF7F147C505 RSA_meth_get_flags+186981
+17: 00007FF7F147C505 RSA_meth_get_flags+186981
+ 8: 00007FF7F1EAA71D v8::Object::GetIsolate+402253
+12: 00007FF7F1F6985D v8::internal::ThreadIsolation::JitPageReference::Size+161117
+17: 00007FF7F147C505 RSA_meth_get_flags+186981
+11: 00007FF7F1F69BD6 v8::internal::ThreadIsolation::JitPageReference::Size+162006
+11: 00007FF7F1F69BD6 v8::internal::ThreadIsolation::JitPageReference::Size+162006
+17: 00007FF7F147C505 RSA_meth_get_flags+186981
+18: 00007FF7F148126D 
+12: 00007FF7F1F6985D 
+17: 00007FF7F147C505 
+17: 00007FF7F147C505 RSA_meth_get_flags+186981
+14: 00007FF7F23343C5 v8::PropertyDescriptor::writable+1997061
+11: 00007FF7F1F69BD6 v8::internal::ThreadIsolation::JitPageReference::Size+162006
+14: 00007FF7F16AD50E uv_poll_stop+254
+11: 00007FF7F1F69BD6 v8::internal::ThreadIsolation::JitPageReference::Size+162006
+14: 00007FF7F20A9734 v8::SharedValueConveyor::SharedValueConveyor+30356
+ 2: 00007FF7F152FB6F 
+14: 00007FF7F1C11EB5 v8::internal::Version::GetString+125445
+14: 00007FF7F1C11EB5 v8::internal::Version::GetString+125445
+17: 00007FF7F147C505 RSA_meth_get_flags+186981
+ 8: 00007FF7F1F43560 v8::internal::ThreadIsolation::JitPageReference::Size+4704
+17: 00007FF7F147C505 RSA_meth_get_flags+186981
+ 8: 00007FF7F1F75052 
+ 8: 00007FF7F1F43560 v8::internal::ThreadIsolation::JitPageReference::Size+4704
+ 8: 00007FF7F1F84811 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+68721
+17: 00007FF7F147C505 
+10: 00007FF7F1CFFDC3 
+ 8: 00007FF7F1F75052 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+5298
+14: 00007FF7F1C11EB5 v8::internal::Version::GetString+125445
+ 8: 00007FF7F1EC81D8 
+14: 00007FF7F1C11EB5 v8::internal::Version::GetString+125445
+11: 00007FF7F1F69BD6 v8::internal::ThreadIsolation::JitPageReference::Size+162006
+18: 00007FF7F148126D RSA_meth_get_flags+206797
+14: 00007FF7F2818762 v8::internal::compiler::CompilationDependencies::TransitionDependencyOffTheRecord+72786
+12: 00007FF7F1F6985D v8::internal::ThreadIsolation::JitPageReference::Size+161117
+14: 00007FF7F168B51D 
+14: 00007FF7F2B4914E v8::internal::compiler::CompilationDependencies::TransitionDependencyOffTheRecord+3417662
+12: 00007FF7F1F6985D v8::internal::ThreadIsolation::JitPageReference::Size+161117
+11: 00007FF7F1F6BE23 v8::internal::ThreadIsolation::JitPageReference::Size+170787
+12: 00007FF7F1F6985D v8::internal::ThreadIsolation::JitPageReference::Size+161117
+13: 00007FF7F1525286 node::TriggerNodeReport+31990
+12: 00007FF7F1F6985D v8::internal::ThreadIsolation::JitPageReference::Size+161117
+11: 00007FF7F1F69BD6 v8::internal::ThreadIsolation::JitPageReference::Size+162006
+12: 00007FF7F1F6985D v8::internal::ThreadIsolation::JitPageReference::Size+161117
+14: 00007FF7F168B51D node::CreateEnvironment+589
+11: 00007FF7F1F69BD6 v8::internal::ThreadIsolation::JitPageReference::Size+162006
+12: 00007FF7F1F6985D 
+12: 00007FF7F1F6BF76 
+12: 00007FF7F1F6985D 
+12: 00007FF7F1F6985D v8::internal::ThreadIsolation::JitPageReference::Size+161117
+11: 7FF8000000000000 
+12: 00007FF7F1F6985D v8::internal::ThreadIsolation::JitPageReference::Size+161117
+12: 00007FF7F1D013A0 v8::base::Thread::StartSynchronously+231040
+16: 00007FF7F1EC0A98 v8::Object::GetIsolate+493256
+12: 00007FF7F1F6985D v8::internal::ThreadIsolation::JitPageReference::Size+161117
+11: 00007FF7F1D018D9 
+12: 00007FF7F1F6BF76 
+14: 00007FF7F1F6870F v8::internal::ThreadIsolation::JitPageReference::Size+156687
+12: 7FF8000000000000 
+18: 00007FF7F20A9734 v8::SharedValueConveyor::SharedValueConveyor+30356
+12: 7FF8000000000000 
+12: 7FF8000000000000 
+13: 00007FF7F1F68FA8 
+18: 00007FF7F148126D RSA_meth_get_flags+206797
+12: 00007FF7F1F6985D v8::internal::ThreadIsolation::JitPageReference::Size+161117
+19: 00007FF7F1476985 
+13: 00007FF7F1F68FA8 v8::internal::ThreadIsolation::JitPageReference::Size+158888
+18: 00007FF7F148126D RSA_meth_get_flags+206797
+12: 00007FF7F1F6985D v8::internal::ThreadIsolation::JitPageReference::Size+161117
+18: 00007FF7F148126D RSA_meth_get_flags+206797
+18: 00007FF7F148126D RSA_meth_get_flags+206797
+12: 00007FF7F1F6985D v8::internal::ThreadIsolation::JitPageReference::Size+161117
+13: 00007FF7F1F68FA8 
+18: 00007FF7F148126D 
+18: 00007FF7F148126D RSA_meth_get_flags+206797
+15: 00007FF7F1532459 X509_STORE_get_cleanup+713
+12: 00007FF7F1F6985D v8::internal::ThreadIsolation::JitPageReference::Size+161117
+15: 00007FF7F2D9E01E inflateValidate+164606
+12: 00007FF7F1F6985D v8::internal::ThreadIsolation::JitPageReference::Size+161117
+15: 00007FF7F2062CAF v8::StringObject::ValueOf+41359
+15: 00007FF7F2138911 v8::Isolate::Initialize+433
+ 3: 00007FF7F26D8A56 
+15: 00007FF7F2138911 v8::Isolate::Initialize+433
+18: 00007FF7F148126D RSA_meth_get_flags+206797
+ 9: 00007FF7F1F43265 v8::internal::ThreadIsolation::JitPageReference::Size+3941
+18: 00007FF7F148126D RSA_meth_get_flags+206797
+ 9: 00007FF7F1F43265 v8::internal::ThreadIsolation::JitPageReference::Size+3941
+ 9: 00007FF7F1F70C45 
+ 9: 00007FF7F1F75052 v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+5298
+18: 00007FF7F148126D 
+11: 00007FF7F1CFED78 
+ 9: 00007FF7F1F70C45 v8::internal::ThreadIsolation::JitPageReference::Size+190789
+15: 00007FF7F2138911 v8::Isolate::Initialize+433
+ 9: 00007FF7F1ED17B6 
+15: 00007FF7F2138911 v8::Isolate::Initialize+433
+ 9: 00007FF7F1ED8E55 v8::Object::GetIsolate+592517
+19: 00007FF7F1476985 RSA_meth_get_flags+163557
+15: 00007FF7F27ECE5D v8::internal::compiler::CompilationDependencies::~CompilationDependencies+754173
+13: 00007FF7F1F68FA8 v8::internal::ThreadIsolation::JitPageReference::Size+158888
+15: 00007FF7F1481D9F 
+15: 00007FF7F2B8EA9F v8::internal::compiler::CompilationDependencies::TransitionDependencyOffTheRecord+3702671
+13: 00007FF7F1F68FA8 v8::internal::ThreadIsolation::JitPageReference::Size+158888
+14: 00007FF7F1F6870F v8::internal::ThreadIsolation::JitPageReference::Size+156687
+13: 00007FF7F1F68FA8 v8::internal::ThreadIsolation::JitPageReference::Size+158888
+14: 00007FF7F168B51D node::CreateEnvironment+589
+13: 00007FF7F1F68FA8 v8::internal::ThreadIsolation::JitPageReference::Size+158888
+12: 00007FF7F1F6985D v8::internal::ThreadIsolation::JitPageReference::Size+161117
+13: 00007FF7F1F68FA8 v8::internal::ThreadIsolation::JitPageReference::Size+158888
+15: 00007FF7F1481D9F RSA_meth_get_flags+209663
+12: 00007FF7F1F6985D v8::internal::ThreadIsolation::JitPageReference::Size+161117
+13: 00007FF7F1F68FA8 
+13: 00007FF7F1F8D584 
+13: 00007FF7F1F68FA8 
+13: 00007FF7F1F68FA8 v8::internal::ThreadIsolation::JitPageReference::Size+158888
+13: 00007FF7F1F68FA8 v8::internal::ThreadIsolation::JitPageReference::Size+158888
+13: 00007FF7F1D01917 v8::base::Thread::StartSynchronously+232439
+17: 00007FF7F1EB9A6A v8::Object::GetIsolate+464538
+13: 00007FF7F1F68FA8 v8::internal::ThreadIsolation::JitPageReference::Size+158888
+12: 00007FF7F1CF5C27 
+13: 00007FF7F1F8D584 
+15: 00007FF7F1C2CE53 v8::internal::Version::GetString+235939
+19: 00007FF7F2062CAF v8::StringObject::ValueOf+41359
+14: 00007FF7F1F6870F 
+19: 00007FF7F1476985 RSA_meth_get_flags+163557
+19: 00007FF7F1476985 RSA_meth_get_flags+163557
+13: 00007FF7F1F68FA8 v8::internal::ThreadIsolation::JitPageReference::Size+158888
+12: 00007FF7F1F6BF76 v8::internal::ThreadIsolation::JitPageReference::Size+171126
+19: 00007FF7F1476985 RSA_meth_get_flags+163557
+13: 00007FF7F1F68FA8 v8::internal::ThreadIsolation::JitPageReference::Size+158888
+19: 00007FF7F1476985 RSA_meth_get_flags+163557
+13: 00007FF7F1F68FA8 v8::internal::ThreadIsolation::JitPageReference::Size+158888
+20: 00007FF7F16AD50E 
+14: 00007FF7F1F6870F 
+19: 00007FF7F1476985 
+12: 00007FF7F1CFDFE5 
+16: 00007FF7F16AD50E uv_poll_stop+254
+14: 00007FF7F1F6870F v8::internal::ThreadIsolation::JitPageReference::Size+156687
+16: 00007FFD4C5FE8D7 BaseThreadInitThunk+23
+13: 00007FF7F1F68FA8 v8::internal::ThreadIsolation::JitPageReference::Size+158888
+16: 00007FF7F23343C5 v8::PropertyDescriptor::writable+1997061
+ 4: 00007FF7F212F841 
+16: 00007FF7F168CB4D node::NewContext+397
+16: 00007FF7F168CB4D node::NewContext+397
+19: 00007FF7F1476985 RSA_meth_get_flags+163557
+10: 00007FF7F1F289F3 v8::PrimitiveArray::Length+86867
+19: 00007FF7F1476985 RSA_meth_get_flags+163557
+10: 00007FF7F18EA2DD 
+10: 00007FF7F1F289F3 v8::PrimitiveArray::Length+86867
+10: 00007FF7F1F70C45 v8::internal::ThreadIsolation::JitPageReference::Size+190789
+19: 00007FF7F1476985 
+10: 00007FF7F18EA2DD BIO_ssl_shutdown+189
+19: 00007FF7F1476985 RSA_meth_get_flags+163557
+16: 00007FF7F168CB4D node::NewContext+397
+10: 00007FF7F1EBB669 
+16: 00007FF7F168CB4D node::NewContext+397
+10: 00007FF7F1EB6601 v8::Object::GetIsolate+451121
+20: 00007FF7F16AD50E uv_poll_stop+254
+16: 00007FF7F27E873F v8::internal::compiler::CompilationDependencies::~CompilationDependencies+735967
+14: 00007FF7F1F6870F v8::internal::ThreadIsolation::JitPageReference::Size+156687
+16: 00007FF7F1476985 
+16: 00007FF7F27E9807 v8::internal::compiler::CompilationDependencies::~CompilationDependencies+740263
+14: 00007FF7F1F6870F v8::internal::ThreadIsolation::JitPageReference::Size+156687
+13: 00007FF7F1F8D584 v8::Isolate::GetHeapProfiler+5204
+13: 00007FF7F1F68FA8 v8::internal::ThreadIsolation::JitPageReference::Size+158888
+15: 00007FF7F1481D9F RSA_meth_get_flags+209663
+14: 00007FF7F1F6870F v8::internal::ThreadIsolation::JitPageReference::Size+156687
+13: 00007FF7F1F68FA8 v8::internal::ThreadIsolation::JitPageReference::Size+158888
+14: 00007FF7F1F6870F v8::internal::ThreadIsolation::JitPageReference::Size+156687
+16: 00007FF7F1476985 RSA_meth_get_flags+163557
+13: 00007FF7F1F68FA8 v8::internal::ThreadIsolation::JitPageReference::Size+158888
+14: 00007FF7F1F6870F 
+14: 00007FF7F1C2CE17 
+14: 00007FF7F1F6870F 
+14: 00007FF7F1F6870F v8::internal::ThreadIsolation::JitPageReference::Size+156687
+14: 00007FF7F1F6870F v8::internal::ThreadIsolation::JitPageReference::Size+156687
+14: 00007FF7F1CF5C27 v8::base::Thread::StartSynchronously+184071
+18: 00007FF7F1EBCFB6 v8::Object::GetIsolate+478182
+14: 00007FF7F1F6870F v8::internal::ThreadIsolation::JitPageReference::Size+156687
+13: 00007FF7F1D036CB 
+14: 00007FF7F1C2CE17 
+16: 00007FF7F1C2E801 v8::internal::Version::GetString+242513
+20: 00007FF7F16AD50E uv_poll_stop+254
+19: 00007FF7F1EC0862 v8::Object::GetIsolate+492690
+20: 00007FF7F16AD50E uv_poll_stop+254
+20: 00007FF7F16AD50E uv_poll_stop+254
+14: 00007FF7F1F6870F v8::internal::ThreadIsolation::JitPageReference::Size+156687
+15: 00007FF7F1C2CE53 v8::internal::Version::GetString+235939
+20: 00007FF7F16AD50E uv_poll_stop+254
+14: 00007FF7F1F6870F v8::internal::ThreadIsolation::JitPageReference::Size+156687
+20: 00007FF7F16AD50E uv_poll_stop+254
+14: 00007FF7F1F6870F v8::internal::ThreadIsolation::JitPageReference::Size+156687
+21: 00007FF7F2D9E01E 
+15: 00007FF7F1F8DD7A 
+20: 00007FF7F16AD50E 
+20: 00007FF7F16AD50E uv_poll_stop+254
+17: 00007FF7F2D9E01E inflateValidate+164606
+14: 00007FF7F1F6870F v8::internal::ThreadIsolation::JitPageReference::Size+156687
+17: 00007FFD4E12C53C RtlUserThreadStart+44
+14: 00007FF7F1F6870F v8::internal::ThreadIsolation::JitPageReference::Size+156687
+17: 00007FF7F1532459 X509_STORE_get_cleanup+713
+ 5: 00007FF7F1BF315E 
+17: 00007FF7F147C505 RSA_meth_get_flags+186981
+17: 00007FF7F147C505 RSA_meth_get_flags+186981
+11: 00007FF7F1F69BD6 v8::internal::ThreadIsolation::JitPageReference::Size+162006
+20: 00007FF7F16AD50E uv_poll_stop+254
+20: 00007FF7F23343C5 v8::PropertyDescriptor::writable+1997061
+11: 7FF8000000000000 
+11: 00007FF7F1F69BD6 v8::internal::ThreadIsolation::JitPageReference::Size+162006
+11: 00007FF7F18EA2DD BIO_ssl_shutdown+189
+20: 00007FF7F16AD50E 
+13: 00007FF7F1CFF769 
+11: 7FF8000000000000 
+17: 00007FF7F147C505 RSA_meth_get_flags+186981
+11: 00007FF7F1EC0AA5 
+17: 00007FF7F147C505 RSA_meth_get_flags+186981
+11: 00007FF7F1EB6D0B v8::Object::GetIsolate+452923
+21: 00007FF7F2D9E01E inflateValidate+164606
+17: 00007FF7F27E369A v8::internal::compiler::CompilationDependencies::~CompilationDependencies+715322
+15: 00007FF7F1F8DD7A v8::Isolate::GetHeapProfiler+7242
+17: 00007FF7F16AD50E 
+17: 00007FF7F27E369A v8::internal::compiler::CompilationDependencies::~CompilationDependencies+715322
+15: 00007FF7F1C2CE53 v8::internal::Version::GetString+235939
+14: 00007FF7F1C2CE17 v8::internal::Version::GetString+235879
+15: 00007FF7F1C2CE53 v8::internal::Version::GetString+235939
+16: 00007FF7F1476985 RSA_meth_get_flags+163557
+15: 00007FF7F1F8DD7A v8::Isolate::GetHeapProfiler+7242
+14: 00007FF7F1F6870F v8::internal::ThreadIsolation::JitPageReference::Size+156687
+15: 00007FF7F1F8DD7A v8::Isolate::GetHeapProfiler+7242
+14: 00007FF7F1F6870F v8::internal::ThreadIsolation::JitPageReference::Size+156687
+17: 00007FF7F16AD50E uv_poll_stop+254
+15: 00007FF7F1F8DD7A 
+15: 00007FF7F1C2E801 
+15: 00007FF7F1C2CE53 
+15: 00007FF7F1F8DD7A v8::Isolate::GetHeapProfiler+7242
+15: 00007FF7F1F8DD7A v8::Isolate::GetHeapProfiler+7242
+15: 00007FF7F1CF4BCD v8::base::Thread::StartSynchronously+179885
+15: 00007FF7F1C2CE53 v8::internal::Version::GetString+235939
+15: 00007FF7F1F8DD7A 
+14: 00007FF7F1D02D5D 
+15: 00007FF7F1C2E801 
+17: 00007FF7F1C29D1A v8::internal::Version::GetString+223338
+21: 00007FF7F1532459 X509_STORE_get_cleanup+713
+16: 00007FF7F1F8E6BA 
+21: 00007FF7F2D9E01E inflateValidate+164606
+18: 00007FFD4C5FE8D7 
+14: 00007FF7F1CF0764 
+18: 00007FF7F2D9E01E inflateValidate+164606
+17: 00007FF7F1C2CECB 
+15: 00007FF7F1F8DD7A v8::Isolate::GetHeapProfiler+7242
+21: 00007FF7F2D9E01E inflateValidate+164606
+15: 00007FF7F1F8DD7A v8::Isolate::GetHeapProfiler+7242
+22: 00007FFD4C5FE8D7 BaseThreadInitThunk+23
+16: 00007FF7F1F8E6BA 
+21: 00007FF7F2D9E01E 
+21: 00007FF7F2D9E01E inflateValidate+164606
+15: 00007FF7F1C2CE53 v8::internal::Version::GetString+235939
+15: 00007FF7F1F8DD7A v8::Isolate::GetHeapProfiler+7242
+21: 00007FF7F2D9E01E inflateValidate+164606
+18: 00007FF7F16AD50E uv_poll_stop+254
+ 6: 00007FF7F2C29286 
+18: 00007FF7F148126D RSA_meth_get_flags+206797
+18: 00007FF7F148126D RSA_meth_get_flags+206797
+21: 00007FF7F2D9E01E inflateValidate+164606
+12: 00007FF7F1F6985D v8::internal::ThreadIsolation::JitPageReference::Size+161117
+21: 00007FF7F2D9E01E inflateValidate+164606
+12: 00007FF7F1F6985D v8::internal::ThreadIsolation::JitPageReference::Size+161117
+12: 7FF8000000000000 
+21: 00007FF7F2D9E01E 
+18: 00007FF7F148126D RSA_meth_get_flags+206797
+12: 00007FF7F1EB9A6A 
+18: 00007FF7F148126D RSA_meth_get_flags+206797
+12: 00007FF7F1EC0F57 v8::Object::GetIsolate+494471
+22: 00007FFD4C5FE8D7 BaseThreadInitThunk+23
+18: 00007FF7F20A9734 v8::SharedValueConveyor::SharedValueConveyor+30356
+16: 00007FF7F1F8E6BA v8::Isolate::GetHeapProfiler+9610
+18: 00007FF7F2D9E01E 
+18: 00007FF7F20A9734 v8::SharedValueConveyor::SharedValueConveyor+30356
+15: 00007FF7F1F8DD7A v8::Isolate::GetHeapProfiler+7242
+16: 00007FF7F1C2E801 v8::internal::Version::GetString+242513
+15: 00007FF7F1C2E801 v8::internal::Version::GetString+242513
+16: 00007FF7F1C2E801 v8::internal::Version::GetString+242513
+17: 00007FF7F16AD50E uv_poll_stop+254
+16: 00007FF7F1F8E6BA v8::Isolate::GetHeapProfiler+9610
+15: 00007FF7F1C2CE53 v8::internal::Version::GetString+235939
+16: 00007FF7F1F8E6BA v8::Isolate::GetHeapProfiler+9610
+16: 00007FF7F1C2E801 v8::internal::Version::GetString+242513
+15: 00007FF7F1C2CE53 v8::internal::Version::GetString+235939
+16: 00007FF7F1F8E6BA 
+16: 00007FF7F1C29D1A 
+16: 00007FF7F1C2E801 
+16: 00007FF7F1F8E6BA v8::Isolate::GetHeapProfiler+9610
+16: 00007FF7F1F8E6BA v8::Isolate::GetHeapProfiler+9610
+16: 00007FF7F1D01E8D v8::base::Thread::StartSynchronously+233837
+20: 00007FF7F1EB9A6A v8::Object::GetIsolate+464538
+16: 00007FF7F1C2E801 v8::internal::Version::GetString+242513
+15: 00007FF7F1D028D3 
+16: 00007FF7F1C29D1A 
+18: 00007FF7F1C2EECF v8::internal::Version::GetString+244255
+22: 00007FF7F16AD50E uv_poll_stop+254
+21: 00007FF7F2D9E01E inflateValidate+164606
+22: 00007FFD4C5FE8D7 BaseThreadInitThunk+23
+22: 00007FFD4C5FE8D7 BaseThreadInitThunk+23
+16: 00007FF7F1F8E6BA v8::Isolate::GetHeapProfiler+9610
+17: 00007FF7F1C28801 v8::internal::Version::GetString+217937
+22: 00007FFD4C5FE8D7 BaseThreadInitThunk+23
+22: 00007FFD4C5FE8D7 
+19: 00007FFD4C5FE8D7 BaseThreadInitThunk+23
+16: 00007FF7F1F8E6BA v8::Isolate::GetHeapProfiler+9610
+23: 00007FFD4E12C53C RtlUserThreadStart+44
+17: 00007FF7F1C2CECB 
+22: 00007FFD4C5FE8D7 
+22: 00007FFD4C5FE8D7 BaseThreadInitThunk+23
+19: 00007FFD4E12C53C RtlUserThreadStart+44
+16: 00007FF7F1C2E801 v8::internal::Version::GetString+242513
+16: 00007FF7F1F8E6BA v8::Isolate::GetHeapProfiler+9610
+19: 00007FF7F2D9E01E inflateValidate+164606
+ 7: 00007FF7F2C29757 
+19: 00007FF7F1476985 RSA_meth_get_flags+163557
+19: 00007FF7F1476985 RSA_meth_get_flags+163557
+22: 00007FFD4C5FE8D7 BaseThreadInitThunk+23
+13: 00007FF7F1F68FA8 v8::internal::ThreadIsolation::JitPageReference::Size+158888
+22: 00007FFD4C5FE8D7 BaseThreadInitThunk+23
+13: 00007FF7F1F68FA8 v8::internal::ThreadIsolation::JitPageReference::Size+158888
+22: 00007FFD4C5FE8D7 BaseThreadInitThunk+23
+15: 00007FF7F1D0482B 
+19: 00007FF7F1476985 RSA_meth_get_flags+163557
+13: 00007FF7F1EBD929 
+19: 00007FF7F1476985 RSA_meth_get_flags+163557
+13: 00007FF7F1EB9A6A v8::Object::GetIsolate+464538
+23: 00007FFD4E12C53C RtlUserThreadStart+44
+19: 00007FF7F2062CAF v8::StringObject::ValueOf+41359
+17: 00007FF7F1C2CECB v8::internal::Version::GetString+236059
+19: 00007FF7F2062CAF v8::StringObject::ValueOf+41359
+16: 00007FF7F1F8E6BA v8::Isolate::GetHeapProfiler+9610
+17: 00007FF7F1C28801 v8::internal::Version::GetString+217937
+16: 00007FF7F1C29D1A v8::internal::Version::GetString+223338
+17: 00007FF7F1C28801 v8::internal::Version::GetString+217937
+18: 00007FF7F2D9E01E inflateValidate+164606
+17: 00007FF7F1C2CECB v8::internal::Version::GetString+236059
+16: 00007FF7F1C2E801 v8::internal::Version::GetString+242513
+17: 00007FF7F1C2CECB v8::internal::Version::GetString+236059
+19: 00007FFD4C5FE8D7 BaseThreadInitThunk+23
+16: 00007FF7F1C2E801 v8::internal::Version::GetString+242513
+23: 00007FFD4E12C53C 
+17: 00007FF7F1C28801 v8::internal::Version::GetString+217937
+17: 00007FF7F1C28801 
+23: 00007FFD4E12C53C RtlUserThreadStart+44
+17: 00007FF7F1C2CECB v8::internal::Version::GetString+236059
+18: 00007FF7F1C2E801 v8::internal::Version::GetString+242513
+21: 00007FF7F1EBD06D v8::Object::GetIsolate+478365
+17: 00007FF7F1C28801 v8::internal::Version::GetString+217937
+16: 00007FF7F1D041C9 
+17: 00007FF7F1C2EECF 
+19: 00007FF7F1C09AF4 v8::internal::Version::GetString+91716
+23: 00007FF7F2D9E01E inflateValidate+164606
+18: 00007FF7F1C2E801 
+23: 00007FFD4E12C53C RtlUserThreadStart+44
+23: 00007FFD4E12C53C RtlUserThreadStart+44
+17: 00007FF7F1C2CECB v8::internal::Version::GetString+236059
+18: 00007FF7F1C2E0CC v8::internal::Version::GetString+240668
+23: 00007FFD4E12C53C RtlUserThreadStart+44
+17: 00007FF7F1C2CECB v8::internal::Version::GetString+236059
+17: 00007FF7F1C2CECB 
+17: 00007FF7F1C2CECB v8::internal::Version::GetString+236059
+18: 00007FF7F1C2E801 
+23: 00007FFD4E12C53C 
+23: 00007FFD4E12C53C RtlUserThreadStart+44
+17: 00007FF7F1C2CECB v8::internal::Version::GetString+236059
+17: 00007FF7F1C2EECF 
+20: 00007FFD4C5FE8D7 BaseThreadInitThunk+23
+ 8: 00007FF7F2C29936 
+20: 00007FF7F16AD50E uv_poll_stop+254
+20: 00007FF7F16AD50E uv_poll_stop+254
+17: 00007FF7F1C2CECB v8::internal::Version::GetString+236059
+14: 00007FF7F1F6870F v8::internal::ThreadIsolation::JitPageReference::Size+156687
+23: 00007FFD4E12C53C RtlUserThreadStart+44
+14: 00007FF7F1F6870F v8::internal::ThreadIsolation::JitPageReference::Size+156687
+23: 00007FFD4E12C53C 
+16: 00007FF7F1CE9D0C 
+20: 00007FF7F16AD50E uv_poll_stop+254
+14: 00007FF7F1EC024B 
+20: 00007FF7F16AD50E uv_poll_stop+254
+14: 00007FF7F1EB9ACE v8::Object::GetIsolate+464638
+18: 00007FF7F1C2E801 v8::internal::Version::GetString+242513
+20: 00007FF7F23343C5 v8::PropertyDescriptor::writable+1997061
+20: 00007FFD4E12C53C RtlUserThreadStart+44
+20: 00007FF7F23343C5 v8::PropertyDescriptor::writable+1997061
+18: 00007FF7F1C2E0CC v8::internal::Version::GetString+240668
+17: 00007FF7F1C2EECF v8::internal::Version::GetString+244255
+18: 00007FF7F1C2E0CC v8::internal::Version::GetString+240668
+19: 00007FFD4C5FE8D7 BaseThreadInitThunk+23
+18: 00007FF7F1C2E801 v8::internal::Version::GetString+242513
+17: 00007FF7F1C28801 v8::internal::Version::GetString+217937
+20: 00007FFD4E12C53C RtlUserThreadStart+44
+17: 00007FF7F1D0404B v8::base::Thread::StartSynchronously+242475
+17: 00007FF7F1C29D1A v8::internal::Version::GetString+223338
+18: 00007FF7F1C2E801 
+18: 00007FF7F1F815BA 
+18: 00007FF7F1C2E0CC 
+18: 00007FF7F1C2E801 v8::internal::Version::GetString+242513
+18: 00007FF7F1C2E801 v8::internal::Version::GetString+242513
+18: 00007FF7F1D018D9 v8::base::Thread::StartSynchronously+232377
+22: 00007FF7F1EC018A v8::Object::GetIsolate+490938
+18: 00007FF7F1C2E0CC v8::internal::Version::GetString+240668
+17: 00007FF7F1D018D9 
+18: 00007FF7F1F815BA 
+20: 00007FF7F1C21E7A v8::internal::Version::GetString+190922
+24: 00007FFD4C5FE8D7 BaseThreadInitThunk+23
+19: 00007FF7F1C29D1A 
+21: 00007FF7F2D9E01E inflateValidate+164606
+19: 00007FF7F1C2E918 v8::internal::Version::GetString+242792
+21: 00007FF7F1532459 X509_STORE_get_cleanup+713
+19: 00007FF7F1C09F31 
+19: 00007FF7F1C28801 
+18: 00007FF7F1C2E0CC v8::internal::Version::GetString+240668
+18: 00007FF7F1C2E801 v8::internal::Version::GetString+242513
+21: 00007FFD4E12C53C RtlUserThreadStart+44
+ 9: 00007FF7F2C2932D 
+18: 00007FF7F1C2E801 v8::internal::Version::GetString+242513
+21: 00007FF7F2D9E01E inflateValidate+164606
+15: 00007FF7F1F8DD7A v8::Isolate::GetHeapProfiler+7242
+15: 00007FF7F1C2CE53 v8::internal::Version::GetString+235939
+17: 00007FF7F20A7BCD 
+21: 00007FF7F2D9E01E inflateValidate+164606
+15: 00007FF7F1EB9A6A 
+21: 00007FF7F2D9E01E inflateValidate+164606
+15: 00007FF7F1EBAB16 v8::Object::GetIsolate+468806
+18: 00007FF7F1C2E801 v8::internal::Version::GetString+242513
+19: 00007FF7F1C28801 v8::internal::Version::GetString+217937
+21: 00007FF7F1532459 X509_STORE_get_cleanup+713
+19: 00007FF7F1C2E918 v8::internal::Version::GetString+242792
+18: 00007FF7F1F815BA v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+55834
+19: 00007FF7F1C2E918 v8::internal::Version::GetString+242792
+20: 00007FFD4E12C53C RtlUserThreadStart+44
+19: 00007FF7F1C29D1A v8::internal::Version::GetString+223338
+18: 00007FF7F1C2E0CC v8::internal::Version::GetString+240668
+19: 00007FF7F1C28801 v8::internal::Version::GetString+217937
+18: 00007FF7F1C2EECF v8::internal::Version::GetString+244255
+19: 00007FF7F1C28801 
+19: 00007FF7F1C2E918 
+18: 00007FF7F1C2E801 v8::internal::Version::GetString+242513
+19: 00007FF7F1C29D1A v8::internal::Version::GetString+223338
+19: 00007FF7F1C29D1A v8::internal::Version::GetString+223338
+19: 00007FF7F1CF5C27 v8::base::Thread::StartSynchronously+184071
+23: 00007FF7F1EB9A6A v8::Object::GetIsolate+464538
+19: 00007FF7F1C2E918 v8::internal::Version::GetString+242792
+18: 00007FF7F1CF5C27 
+19: 00007FF7F1C09F31 
+21: 00007FF7F1C1381B v8::internal::Version::GetString+131947
+25: 00007FFD4E12C53C RtlUserThreadStart+44
+20: 00007FF7F1C2EECF 
+19: 00007FF7F1C28801 v8::internal::Version::GetString+217937
+20: 00007FF7F1C28801 v8::internal::Version::GetString+217937
+19: 00007FF7F1C28801 v8::internal::Version::GetString+217937
+19: 00007FF7F1C28801 v8::internal::Version::GetString+217937
+20: 00007FF7F1C2E0CC 
+19: 00007FF7F1C2E918 v8::internal::Version::GetString+242792
+19: 00007FF7F1C29D1A v8::internal::Version::GetString+223338
+22: 00007FFD4C5FE8D7 
+10: 00007FF7F2C3C4BD 
+22: 00007FFD4C5FE8D7 BaseThreadInitThunk+23
+16: 00007FF7F1F8E6BA v8::Isolate::GetHeapProfiler+9610
+16: 00007FF7F1C2E801 v8::internal::Version::GetString+242513
+18: 00007FF7F20AD178 
+22: 00007FFD4C5FE8D7 
+16: 00007FF7F1EC3225 
+22: 00007FFD4C5FE8D7 BaseThreadInitThunk+23
+16: 00007FF7F1EC0A22 v8::Object::GetIsolate+493138
+22: 00007FF7F16AD50E uv_poll_stop+254
+20: 00007FF7F1C2E0CC v8::internal::Version::GetString+240668
+22: 00007FF7F16AD50E uv_poll_stop+254
+20: 00007FF7F1C28801 v8::internal::Version::GetString+217937
+19: 00007FF7F1C09F31 v8::internal::Version::GetString+92801
+20: 00007FF7F1C28801 v8::internal::Version::GetString+217937
+20: 00007FF7F1C2EECF v8::internal::Version::GetString+244255
+19: 00007FF7F1C2E918 v8::internal::Version::GetString+242792
+20: 00007FF7F1C2E0CC v8::internal::Version::GetString+240668
+19: 00007FF7F1C09AF4 v8::internal::Version::GetString+91716
+20: 00007FF7F1C2E0CC 
+20: 00007FF7F1FED7A6 
+20: 00007FF7F1C28801 
+20: 00007FF7F1C2EECF v8::internal::Version::GetString+244255
+20: 00007FF7F1C2EECF v8::internal::Version::GetString+244255
+20: 00007FF7F1D09445 v8::base::Thread::StartSynchronously+263973
+24: 00007FF7F1EC3225 v8::Object::GetIsolate+503381
+20: 00007FF7F1C28801 v8::internal::Version::GetString+217937
+19: 00007FF7F1CF4BCD 
+20: 00007FF7F1FED7A6 
+22: 00007FF7F1FED749 v8::base::CPU::has_sse41+76617
+21: 00007FF7F1F815BA 
+20: 00007FF7F1C2E0CC v8::internal::Version::GetString+240668
+21: 00007FF7F1C2E0CC v8::internal::Version::GetString+240668
+20: 00007FF7F1C2E0CC v8::internal::Version::GetString+240668
+20: 00007FF7F1C2E0CC v8::internal::Version::GetString+240668
+21: 00007FF7F1C2E918 
+20: 00007FF7F1C28801 v8::internal::Version::GetString+217937
+21: 00007FF7F1C2E918 v8::internal::Version::GetString+242792
+21: 00007FF7F1C2E918 v8::internal::Version::GetString+242792
+23: 00007FFD4E12C53C 
+23: 00007FFD4E12C53C RtlUserThreadStart+44
+17: 00007FF7F1C2CECB v8::internal::Version::GetString+236059
+17: 00007FF7F1C29D1A v8::internal::Version::GetString+223338
+19: 00007FF7F212A6D7 
+23: 00007FFD4E12C53C 
+17: 00007FF7F1EB7D22 
+23: 00007FFD4E12C53C RtlUserThreadStart+44
+17: 00007FF7F1EB9A6A v8::Object::GetIsolate+464538
+23: 00007FF7F2D9E01E inflateValidate+164606
+21: 00007FF7F1C2E918 v8::internal::Version::GetString+242792
+23: 00007FF7F2D9E01E inflateValidate+164606
+21: 00007FF7F1C2E0CC v8::internal::Version::GetString+240668
+20: 00007FF7F1FED7A6 v8::base::CPU::has_sse41+76710
+21: 00007FF7F1C2E0CC v8::internal::Version::GetString+240668
+21: 00007FF7F1F815BA v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+55834
+20: 00007FF7F1C28801 v8::internal::Version::GetString+217937
+20: 00007FF7F1C21E7A v8::internal::Version::GetString+190922
+20: 00007FF7F1C2EECF v8::internal::Version::GetString+244255
+21: 00007FF7F1C2E918 
+21: 00007FF7F1C11EB5 
+21: 00007FF7F1C2E0CC 
+21: 00007FF7F1F815BA v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+55834
+21: 00007FF7F1F815BA v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+55834
+21: 00007FF7F1D098A2 v8::base::Thread::StartSynchronously+265090
+25: 00007FF7F1EBA057 v8::Object::GetIsolate+466055
+21: 00007FF7F1C2E0CC v8::internal::Version::GetString+240668
+20: 00007FF7F1D013A0 
+21: 00007FF7F1C11EB5 
+23: 00007FF7F1C11EB5 v8::internal::Version::GetString+125445
+22: 00007FF7F1C09F31 
+21: 00007FF7F1C2E918 v8::internal::Version::GetString+242792
+22: 00007FF7F1C2E918 v8::internal::Version::GetString+242792
+21: 00007FF7F1C2E918 v8::internal::Version::GetString+242792
+11: 00007FF7F27E992F 
+22: 00007FF7F1C28801 
+21: 00007FF7F1C2E0CC v8::internal::Version::GetString+240668
+21: 00007FF7F1F815BA v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+55834
+12: 00007FF7F27E369A 
+18: 00007FF7F1C2E801 v8::internal::Version::GetString+242513
+18: 00007FF7F1C2EECF v8::internal::Version::GetString+244255
+18: 00007FF7F1EB7978 
+24: 00007FFD4C5FE8D7 
+19: 00007FF7F1C29D1A v8::internal::Version::GetString+223338
+20: 00007FF7F212A424 
+22: 00007FF7F1C28801 v8::internal::Version::GetString+217937
+24: 00007FFD4C5FE8D7 BaseThreadInitThunk+23
+22: 00007FF7F1C2E918 v8::internal::Version::GetString+242792
+21: 00007FF7F1C11EB5 v8::internal::Version::GetString+125445
+22: 00007FF7F1C2E918 v8::internal::Version::GetString+242792
+22: 00007FF7F1C09F31 v8::internal::Version::GetString+92801
+21: 00007FF7F1C2E0CC v8::internal::Version::GetString+240668
+22: 00007FF7F1C28801 v8::internal::Version::GetString+217937
+21: 00007FF7F1C1381B v8::internal::Version::GetString+131947
+22: 00007FF7F1C28801 
+22: 00007FF7F2138911 
+22: 00007FF7F1C2E918 
+22: 00007FF7F1C09F31 v8::internal::Version::GetString+92801
+22: 00007FF7F1C09F31 v8::internal::Version::GetString+92801
+22: 00007FF7F1CFED78 v8::base::Thread::StartSynchronously+221272
+26: 00007FF7F1EB9F14 v8::Object::GetIsolate+465732
+22: 00007FF7F1C2E918 v8::internal::Version::GetString+242792
+21: 00007FF7F1D01917 
+22: 00007FF7F2138911 
+24: 00007FF7F2138911 v8::Isolate::Initialize+433
+23: 00007FF7F1FED7A6 
+22: 00007FF7F1C28801 v8::internal::Version::GetString+217937
+23: 00007FF7F1C28801 v8::internal::Version::GetString+217937
+22: 00007FF7F1C28801 v8::internal::Version::GetString+217937
+22: 00007FF7F1C28801 v8::internal::Version::GetString+217937
+23: 00007FF7F1C2E0CC 
+22: 00007FF7F1C2E918 v8::internal::Version::GetString+242792
+22: 00007FF7F1C09F31 v8::internal::Version::GetString+92801
+13: 00007FF7F20A9734 
+19: 00007FF7F1C09AF4 v8::internal::Version::GetString+91716
+18: 00007FF7F1EB9C04 v8::Object::GetIsolate+464948
+21: 00007FF7F15C2B24 
+19: 00007FF7F1EA7398 
+19: 00007FF7F1EBA7B1 v8::Object::GetIsolate+467937
+25: 00007FFD4E12C53C 
+20: 00007FF7F1C2EECF v8::internal::Version::GetString+244255
+25: 00007FFD4E12C53C RtlUserThreadStart+44
+23: 00007FF7F1C28801 v8::internal::Version::GetString+217937
+22: 00007FF7F2138911 v8::Isolate::Initialize+433
+23: 00007FF7F1C28801 v8::internal::Version::GetString+217937
+23: 00007FF7F1FED7A6 v8::base::CPU::has_sse41+76710
+22: 00007FF7F1C2E918 v8::internal::Version::GetString+242792
+23: 00007FF7F1C2E0CC v8::internal::Version::GetString+240668
+22: 00007FF7F1FED749 v8::base::CPU::has_sse41+76617
+23: 00007FF7F1C2E0CC 
+23: 00007FF7F168CB4D 
+23: 00007FF7F1C28801 
+23: 00007FF7F1FED7A6 v8::base::CPU::has_sse41+76710
+23: 00007FF7F1FED7A6 v8::base::CPU::has_sse41+76710
+23: 00007FF7F1CFDFE5 v8::base::Thread::StartSynchronously+217797
+27: 00007FF7F1EC015A v8::Object::GetIsolate+490890
+23: 00007FF7F1C28801 v8::internal::Version::GetString+217937
+22: 00007FF7F1CF5C27 
+23: 00007FF7F168CB4D 
+25: 00007FF7F168CB4D node::NewContext+397
+24: 00007FF7F1C11EB5 
+23: 00007FF7F1C2E0CC v8::internal::Version::GetString+240668
+24: 00007FF7F1C2E0CC v8::internal::Version::GetString+240668
+23: 00007FF7F1C2E0CC v8::internal::Version::GetString+240668
+23: 00007FF7F1C2E0CC v8::internal::Version::GetString+240668
+24: 00007FF7F1C2E918 
+23: 00007FF7F1C28801 v8::internal::Version::GetString+217937
+23: 00007FF7F1FED7A6 v8::base::CPU::has_sse41+76710
+14: 00007FF7F2062CAF 
+23: 00007FF7F1C2E0CC v8::internal::Version::GetString+240668
+20: 00007FF7F1C21E7A v8::internal::Version::GetString+190922
+22: 00007FF7F15C3114 
+20: 00007FF7F20A97C8 
+20: 00007FF7F1EC0A08 v8::Object::GetIsolate+493112
+24: 00007FF7F1C2E918 v8::internal::Version::GetString+242792
+25: 00007FF7F1C2E918 v8::internal::Version::GetString+242792
+21: 00007FF7F1F815BA v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+55834
+24: 00007FF7F1C11EB5 v8::internal::Version::GetString+125445
+24: 00007FF7F1C2E0CC v8::internal::Version::GetString+240668
+23: 00007FF7F1C28801 v8::internal::Version::GetString+217937
+24: 00007FF7F1C2E918 v8::internal::Version::GetString+242792
+23: 00007FF7F1C11EB5 v8::internal::Version::GetString+125445
+24: 00007FF7F147C505 
+24: 00007FF7F1C2E918 
+24: 00007FF7F1C2E0CC 
+24: 00007FF7F1C11EB5 v8::internal::Version::GetString+125445
+24: 00007FF7F1C11EB5 v8::internal::Version::GetString+125445
+24: 00007FF7F1CFF769 v8::base::Thread::StartSynchronously+223817
+24: 00007FF7F1C2E0CC v8::internal::Version::GetString+240668
+23: 00007FF7F1CFB3EE 
+24: 00007FF7F147C505 
+26: 00007FF7F147C505 RSA_meth_get_flags+186981
+28: 00007FF7F1EB9A6A v8::Object::GetIsolate+464538
+24: 00007FF7F1C2E918 v8::internal::Version::GetString+242792
+25: 00007FF7F2138911 
+24: 00007FF7F1C2E918 v8::internal::Version::GetString+242792
+24: 00007FF7F1C2E918 v8::internal::Version::GetString+242792
+25: 00007FF7F1C28801 
+23: 00007FF7F168CB4D node::NewContext+397
+24: 00007FF7F1C2E0CC v8::internal::Version::GetString+240668
+24: 00007FF7F1C11EB5 v8::internal::Version::GetString+125445
+15: 00007FF7F23343C5 
+24: 00007FF7F1C2E0CC v8::internal::Version::GetString+240668
+21: 00007FF7F1C1381B v8::internal::Version::GetString+131947
+23: 00007FF7F2160438 
+21: 00007FF7F20A2C08 
+21: 00007FF7F1EB9A6A v8::Object::GetIsolate+464538
+25: 00007FF7F1C28801 v8::internal::Version::GetString+217937
+25: 00007FF7F1C2E918 v8::internal::Version::GetString+242792
+25: 00007FF7F148126D 
+25: 00007FF7F1C2E918 v8::internal::Version::GetString+242792
+25: 00007FF7F2138911 v8::Isolate::Initialize+433
+24: 00007FF7F1C2E0CC v8::internal::Version::GetString+240668
+25: 00007FF7F1C28801 v8::internal::Version::GetString+217937
+26: 00007FF7F1C28801 v8::internal::Version::GetString+217937
+25: 00007FF7F1C28801 
+25: 00007FF7F148126D 
+25: 00007FF7F1C2E918 
+25: 00007FF7F2138911 v8::Isolate::Initialize+433
+25: 00007FF7F2138911 v8::Isolate::Initialize+433
+25: 00007FF7F1CF0764 v8::base::Thread::StartSynchronously+162372
+29: 00007FF7F1EC3225 v8::Object::GetIsolate+503381
+25: 00007FF7F1C2E918 v8::internal::Version::GetString+242792
+24: 00007FF7F1CFB8AE 
+26: 00007FF7F168CB4D 
+27: 00007FF7F148126D RSA_meth_get_flags+206797
+24: 00007FF7F147C505 RSA_meth_get_flags+186981
+25: 00007FF7F1C28801 v8::internal::Version::GetString+217937
+26: 00007FF7F1C28801 v8::internal::Version::GetString+217937
+25: 00007FF7F1C28801 v8::internal::Version::GetString+217937
+25: 00007FF7F1C28801 v8::internal::Version::GetString+217937
+26: 00007FF7F1C2E0CC 
+25: 00007FF7F1C2E918 v8::internal::Version::GetString+242792
+25: 00007FF7F2138911 v8::Isolate::Initialize+433
+16: 00007FF7F1532459 
+22: 00007FF7F1C09F31 v8::internal::Version::GetString+92801
+22: 00007FF7F1FED749 v8::base::CPU::has_sse41+76617
+24: 00007FF7723B36B6 
+22: 00007FF7F20A62C9 
+22: 00007FF7F1EBD06D v8::Object::GetIsolate+478365
+26: 00007FF7F1C2E0CC v8::internal::Version::GetString+240668
+24: 00007FF7F2138911 v8::Isolate::Initialize+433
+25: 00007FF7F148126D RSA_meth_get_flags+206797
+26: 00007FF7F1C28801 v8::internal::Version::GetString+217937
+26: 00007FF7F168CB4D node::NewContext+397
+25: 00007FF7F1C2E918 v8::internal::Version::GetString+242792
+26: 00007FF7F1C2E0CC v8::internal::Version::GetString+240668
+25: 00007FF7F168CB4D node::NewContext+397
+26: 00007FF7F1C2E0CC 
+26: 00007FF7F1476985 
+26: 00007FF7F1C28801 
+26: 00007FF7F168CB4D node::NewContext+397
+27: 00007FF7F1C2E0CC v8::internal::Version::GetString+240668
+26: 00007FF7F1D0482B v8::base::Thread::StartSynchronously+244491
+30: 00007FF7F1EB7D22 v8::Object::GetIsolate+457042
+26: 00007FF7F1C28801 v8::internal::Version::GetString+217937
+23: 00007FF7F1FED7A6 v8::base::CPU::has_sse41+76710
+27: 00007FF7F1C2E918 v8::internal::Version::GetString+242792
+26: 00007FF7F147C505 RSA_meth_get_flags+186981
+27: 00007FF7F147C505 
+26: 00007FF7F1C2E0CC v8::internal::Version::GetString+240668
+26: 00007FF7F168CB4D node::NewContext+397
+26: 00007FF7F1C2E0CC v8::internal::Version::GetString+240668
+26: 00007FF7F1C2E0CC v8::internal::Version::GetString+240668
+27: 00007FF7F1C2E918 
+26: 00007FF7F1C28801 v8::internal::Version::GetString+217937
+26: 00007FF7F168CB4D node::NewContext+397
+17: 00007FF7F16AD50E 
+25: 00007FF7F1D076F1 
+23: 00007FF7F1C11EB5 v8::internal::Version::GetString+125445
+23: 00007FF7F20A5C2A 
+23: 00007FF7F1EC018A v8::Object::GetIsolate+490938
+26: 00007FF7F1476985 
+27: 00007FF7F1C2E0CC v8::internal::Version::GetString+240668
+26: 00007FF7F1476985 RSA_meth_get_flags+163557
+27: 00007FF7F1C2E0CC v8::internal::Version::GetString+240668
+27: 00007FF7F147C505 RSA_meth_get_flags+186981
+26: 00007FF7F1C28801 v8::internal::Version::GetString+217937
+27: 00007FF7F1C2E918 v8::internal::Version::GetString+242792
+27: 00007FF7F1C2E918 
+28: 00007FF7F1476985 RSA_meth_get_flags+163557
+27: 00007FF7F16AD50E 
+27: 00007FF7F1C2E0CC 
+27: 00007FF7F147C505 RSA_meth_get_flags+186981
+27: 00007FF7F147C505 RSA_meth_get_flags+186981
+27: 00007FF7F1CE9D0C v8::base::Thread::StartSynchronously+135148
+31: 00007FF7F1EB7930 v8::Object::GetIsolate+456032
+27: 00007FF7F1C2E0CC v8::internal::Version::GetString+240668
+26: 00007FF7F1CFED78 
+27: 00007FF7F16AD50E 
+29: 00007FF7F16AD50E uv_poll_stop+254
+28: 00007FF7F148126D 
+27: 00007FF7F1C2E918 v8::internal::Version::GetString+242792
+28: 00007FF7F1C2E918 v8::internal::Version::GetString+242792
+27: 00007FF7F1C2E918 v8::internal::Version::GetString+242792
+27: 00007FF7F1C2E918 v8::internal::Version::GetString+242792
+28: 00007FF7F1C28801 
+27: 00007FF7F1C2E0CC v8::internal::Version::GetString+240668
+27: 00007FF7F147C505 RSA_meth_get_flags+186981
+18: 00007FF7F2D9E01E 
+24: 00007FF7F1C11EB5 v8::internal::Version::GetString+125445
+24: 00007FF7F2138911 v8::Isolate::Initialize+433
+24: 00007FF7F1C66A17 
+24: 00007FF7F1EB9A6A v8::Object::GetIsolate+464538
+28: 00007FF7F1C28801 v8::internal::Version::GetString+217937
+28: 00007FF7F1C2E918 v8::internal::Version::GetString+242792
+27: 00007FF7F16AD50E uv_poll_stop+254
+28: 00007FF7F1C2E918 v8::internal::Version::GetString+242792
+28: 00007FF7F148126D RSA_meth_get_flags+206797
+27: 00007FF7F1C2E0CC v8::internal::Version::GetString+240668
+28: 00007FF7F1C28801 v8::internal::Version::GetString+217937
+27: 00007FF7F148126D RSA_meth_get_flags+206797
+28: 00007FF7F1C28801 
+28: 00007FF7F2D9E01E 
+28: 00007FF7F1C2E918 
+28: 00007FF7F148126D RSA_meth_get_flags+206797
+28: 00007FF7F148126D RSA_meth_get_flags+206797
+28: 00007FF7F20A7BCD v8::SharedValueConveyor::SharedValueConveyor+23341
+32: 00007FF7F1EA7398 v8::Object::GetIsolate+389064
+28: 00007FF7F1C2E918 v8::internal::Version::GetString+242792
+25: 00007FF7F1EC3225 v8::Object::GetIsolate+503381
+28: 00007FF7F2D9E01E 
+30: 00007FF7F2D9E01E inflateValidate+164606
+29: 00007FF7F1C2E0CC v8::internal::Version::GetString+240668
+28: 00007FF7F1C2E918 v8::internal::Version::GetString+242792
+29: 00007FF7F1C28801 v8::internal::Version::GetString+217937
+28: 00007FF7F1C28801 v8::internal::Version::GetString+217937
+28: 00007FF7F1C28801 v8::internal::Version::GetString+217937
+29: 00007FF7F1C2E0CC 
+28: 00007FF7F1C2E918 v8::internal::Version::GetString+242792
+25: 00007FF7F2138911 v8::Isolate::Initialize+433
+28: 00007FF7F148126D RSA_meth_get_flags+206797
+19: 00007FFD4C5FE8D7 
+25: 00007FF7F168CB4D node::NewContext+397
+25: 00007FF7F21FDE8E 
+27: 00007FF7F1CFDFE5 
+29: 00007FF7F1476985 
+29: 00007FF7F1C28801 v8::internal::Version::GetString+217937
+28: 00007FF7F2D9E01E inflateValidate+164606
+29: 00007FF7F1C28801 v8::internal::Version::GetString+217937
+29: 00007FF7F1476985 RSA_meth_get_flags+163557
+29: 00007FF7F1C2E0CC v8::internal::Version::GetString+240668
+28: 00007FF7F1C28801 v8::internal::Version::GetString+217937
+28: 00007FF7F1476985 RSA_meth_get_flags+163557
+29: 00007FF7F1C2E0CC 
+29: 00007FFD4C5FE8D7 BaseThreadInitThunk+23
+29: 00007FF7F1476985 RSA_meth_get_flags+163557
+29: 00007FF7F1C28801 
+29: 00007FF7F1476985 RSA_meth_get_flags+163557
+29: 00007FF7F20AD178 v8::SharedValueConveyor::SharedValueConveyor+45272
+33: 00007FF7F20A97C8 v8::SharedValueConveyor::SharedValueConveyor+30504
+29: 00007FF7F1C28801 v8::internal::Version::GetString+217937
+28: 00007FF7F1CFF769 
+31: 00007FFD4C5FE8D7 BaseThreadInitThunk+23
+29: 00007FF7F1C28801 v8::internal::Version::GetString+217937
+30: 00007FF7F16AD50E 
+29: 00007FF7F1C2E0CC v8::internal::Version::GetString+240668
+30: 00007FF7F1C2E0CC v8::internal::Version::GetString+240668
+29: 00007FF7F1C2E0CC v8::internal::Version::GetString+240668
+29: 00007FF7F1C2E0CC v8::internal::Version::GetString+240668
+30: 00007FF7F1C2E918 
+30: 00007FF7F1C2E0CC v8::internal::Version::GetString+240668
+29: 00007FF7F16AD50E uv_poll_stop+254
+20: 00007FFD4E12C53C 
+26: 00007FF7F168CB4D node::NewContext+397
+26: 00007FF7F147C505 RSA_meth_get_flags+186981
+26: 00007FF7F215FFEF 
+26: 00007FF7F1EBA057 v8::Object::GetIsolate+466055
+30: 00007FF7F1C2E918 v8::internal::Version::GetString+242792
+30: 00007FF7F1C2E0CC v8::internal::Version::GetString+240668
+29: 00007FFD4C5FE8D7 BaseThreadInitThunk+23
+29: 00007FFD4C5FE8D7 BaseThreadInitThunk+23
+30: 00007FF7F16AD50E uv_poll_stop+254
+29: 00007FF7F1C28801 v8::internal::Version::GetString+217937
+30: 00007FF7F1C2E918 v8::internal::Version::GetString+242792
+29: 00007FF7F1476985 RSA_meth_get_flags+163557
+30: 00007FF7F1C2E918 
+30: 00007FFD4E12C53C RtlUserThreadStart+44
+30: 00007FF7F1C2E0CC 
+30: 00007FF7F16AD50E uv_poll_stop+254
+30: 00007FF7F16AD50E uv_poll_stop+254
+30: 00007FF7F212A6D7 v8::ScriptCompiler::CompileFunctionInternal+679
+34: 00007FF7F20A2C08 v8::SharedValueConveyor::SharedValueConveyor+2920
+30: 00007FF7F1C2E0CC v8::internal::Version::GetString+240668
+31: 00007FF7F1C2E918 v8::internal::Version::GetString+242792
+31: 00007FF7F2D9E01E inflateValidate+164606
+32: 00007FFD4E12C53C RtlUserThreadStart+44
+31: 00007FF7F2D9E01E 
+30: 00007FF7F1C2E918 v8::internal::Version::GetString+242792
+29: 00007FF7F1CF0764 
+30: 00007FF7F1C2E918 v8::internal::Version::GetString+242792
+30: 00007FF7F1C2E918 v8::internal::Version::GetString+242792
+31: 00007FF7F1C28801 
+30: 00007FF7F1C2E0CC v8::internal::Version::GetString+240668
+30: 00007FF7F16AD50E uv_poll_stop+254
+27: 00007FF7F147C505 RSA_meth_get_flags+186981
+27: 00007FF7F148126D RSA_meth_get_flags+206797
+27: 00007FF7F215E6F2 
+27: 00007FF7F1EB9F14 v8::Object::GetIsolate+465732
+31: 00007FF7F1C28801 v8::internal::Version::GetString+217937
+31: 00007FF7F1C2E918 v8::internal::Version::GetString+242792
+30: 00007FFD4E12C53C RtlUserThreadStart+44
+31: 00007FF7F1C2E918 v8::internal::Version::GetString+242792
+30: 00007FF7F1C2E0CC v8::internal::Version::GetString+240668
+30: 00007FFD4E12C53C RtlUserThreadStart+44
+31: 00007FF7F1C28801 v8::internal::Version::GetString+217937
+30: 00007FF7F2D9E01E inflateValidate+164606
+31: 00007FF7F1C28801 
+31: 00007FF7F1C2E918 
+31: 00007FF7F2D9E01E inflateValidate+164606
+31: 00007FF7F2D9E01E inflateValidate+164606
+31: 00007FF7F212A424 v8::ScriptCompiler::CompileFunction+84
+35: 00007FF7F20A7E8C v8::SharedValueConveyor::SharedValueConveyor+24044
+31: 00007FF7F1C2E918 v8::internal::Version::GetString+242792
+30: 00007FF7F1D0482B 
+32: 00007FFD4C5FE8D7 BaseThreadInitThunk+23
+31: 00007FF7F1CE9D0C 
+32: 00007FF7F1C28801 v8::internal::Version::GetString+217937
+31: 00007FF7F1C28801 v8::internal::Version::GetString+217937
+31: 00007FF7F1C28801 v8::internal::Version::GetString+217937
+32: 00007FF7F1C2E0CC 
+31: 00007FF7F1C2E918 v8::internal::Version::GetString+242792
+31: 00007FF7F2D9E01E inflateValidate+164606
+28: 00007FF7F148126D RSA_meth_get_flags+206797
+28: 00007FF7F1476985 RSA_meth_get_flags+163557
+28: 00007FF7F215E6F2 
+28: 00007FF7F1EC015A v8::Object::GetIsolate+490890
+32: 00007FF7F1C2E0CC v8::internal::Version::GetString+240668
+32: 00007FF7F1C28801 v8::internal::Version::GetString+217937
+32: 00007FF7F1C28801 v8::internal::Version::GetString+217937
+32: 00007FFD4C5FE8D7 BaseThreadInitThunk+23
+31: 00007FF7F1C2E918 v8::internal::Version::GetString+242792
+32: 00007FF7F1C2E0CC v8::internal::Version::GetString+240668
+31: 00007FFD4C5FE8D7 BaseThreadInitThunk+23
+32: 00007FF7F1C2E0CC 
+32: 00007FF7F1C28801 
+32: 00007FFD4C5FE8D7 BaseThreadInitThunk+23
+32: 00007FFD4C5FE8D7 BaseThreadInitThunk+23
+32: 00007FF7F15C2B24 node::OnFatalError+57124
+36: 00007FF7F20AD178 v8::SharedValueConveyor::SharedValueConveyor+45272
+32: 00007FF7F1C28801 v8::internal::Version::GetString+217937
+31: 00007FF7F1C28801 v8::internal::Version::GetString+217937
+33: 00007FFD4E12C53C RtlUserThreadStart+44
+32: 00007FF7F1C2E0CC v8::internal::Version::GetString+240668
+33: 00007FF7F1C2E0CC v8::internal::Version::GetString+240668
+33: 00007FF7F1C2E0CC v8::internal::Version::GetString+240668
+32: 00007FF7F1C2E0CC v8::internal::Version::GetString+240668
+33: 00007FF7F1C2E918 
+29: 00007FF7F1476985 RSA_meth_get_flags+163557
+32: 00007FFD4C5FE8D7 BaseThreadInitThunk+23
+32: 00007FF7F1C28801 v8::internal::Version::GetString+217937
+29: 00007FF7F16AD50E uv_poll_stop+254
+29: 00007FF7F215E6F2 
+29: 00007FF7F1EB9A6A v8::Object::GetIsolate+464538
+33: 00007FF7F1C2E918 v8::internal::Version::GetString+242792
+33: 00007FF7F1C2E0CC v8::internal::Version::GetString+240668
+33: 00007FF7F1C2E0CC v8::internal::Version::GetString+240668
+33: 00007FFD4E12C53C RtlUserThreadStart+44
+32: 00007FF7F1C28801 v8::internal::Version::GetString+217937
+33: 00007FF7F1C2E918 v8::internal::Version::GetString+242792
+33: 00007FF7F1C2E918 
+32: 00007FFD4E12C53C RtlUserThreadStart+44
+33: 00007FF7F1C2E0CC 
+33: 00007FFD4E12C53C RtlUserThreadStart+44
+33: 00007FFD4E12C53C RtlUserThreadStart+44
+33: 00007FF7F15C3114 node::OnFatalError+58644
+37: 00007FF7F212A6D7 v8::ScriptCompiler::CompileFunctionInternal+679
+32: 00007FF7F20A7BCD 
+32: 00007FF7F1C2E0CC v8::internal::Version::GetString+240668
+33: 00007FF7F1C2E918 v8::internal::Version::GetString+242792
+34: 00007FF7F1C2E918 v8::internal::Version::GetString+242792
+33: 00007FF7F1C2E918 v8::internal::Version::GetString+242792
+34: 00007FF7F1C29D1A 
+33: 00007FF7F20AD178 
+34: 00007FF7F1C28801 v8::internal::Version::GetString+217937
+35: 00007FF7F1C29D1A v8::internal::Version::GetString+223338
+30: 00007FF7F16AD50E uv_poll_stop+254
+30: 00007FF7F2D9E01E inflateValidate+164606
+30: 00007FF7F215E6F2 
+30: 00007FF7F1EC3225 v8::Object::GetIsolate+503381
+34: 00007FF7F1C29D1A v8::internal::Version::GetString+223338
+34: 00007FF7F1C2E918 v8::internal::Version::GetString+242792
+33: 00007FF7F1C2E0CC v8::internal::Version::GetString+240668
+34: 00007FF7F1C2E918 v8::internal::Version::GetString+242792
+34: 00007FF7F1C28801 v8::internal::Version::GetString+217937
+33: 00007FF7F1C2E918 v8::internal::Version::GetString+242792
+34: 00007FF7F1C2E918 
+34: 00007FF7F2160438 v8::PropertyDescriptor::writable+80248
+34: 00007FF7F1C28801 v8::internal::Version::GetString+217937
+34: 00007FF7F1C2E918 v8::internal::Version::GetString+242792
+34: 00007FF7F1C28801 
+33: 00007FF7F1C2E0CC v8::internal::Version::GetString+240668
+34: 00007FF7F1C28801 v8::internal::Version::GetString+217937
+33: 00007FFD4E12C53C RtlUserThreadStart+44
+38: 00007FF7F212A424 v8::ScriptCompiler::CompileFunction+84
+35: 00007FF7F1C2E0CC 
+34: 00007FF7F1C2E918 v8::internal::Version::GetString+242792
+31: 00007FF7F2D9E01E inflateValidate+164606
+31: 00007FFD4C5FE8D7 BaseThreadInitThunk+23
+35: 00007FF7F1C2E0CC v8::internal::Version::GetString+240668
+31: 00007FF7F1EBA057 v8::Object::GetIsolate+466055
+35: 00007FF7F1C2EECF v8::internal::Version::GetString+244255
+35: 00007FF7F1C28801 v8::internal::Version::GetString+217937
+35: 00007FF7F1C28801 v8::internal::Version::GetString+217937
+34: 00007FF7F1C2E918 v8::internal::Version::GetString+242792
+31: 00007FF772398EDB 
+35: 00007FF7F1C2EECF 
+35: 00007FF7F1C28801 
+35: 00007FF7F215E6F2 v8::PropertyDescriptor::writable+72754
+39: 00007FF7F15DAE65 node::OnFatalError+156261
+35: 00007FF7F1C29D1A v8::internal::Version::GetString+223338
+34: 00007FF7F212A6D7 
+36: 00007FF7F1F815BA 
+36: 00007FF7F1C2EECF v8::internal::Version::GetString+244255
+35: 00007FF7F1C2E0CC v8::internal::Version::GetString+240668
+35: 00007FF7F1C2E0CC v8::internal::Version::GetString+240668
+36: 00007FF7F1C2E918 
+35: 00007FF7F1C29D1A v8::internal::Version::GetString+223338
+32: 00007FFD4C5FE8D7 BaseThreadInitThunk+23
+32: 00007FFD4E12C53C RtlUserThreadStart+44
+32: 00007FF7F1EB9F14 v8::Object::GetIsolate+465732
+36: 00007FF7F1F815BA v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+55834
+36: 00007FF7F1C2E0CC v8::internal::Version::GetString+240668
+36: 00007FF7F1C2E0CC v8::internal::Version::GetString+240668
+35: 00007FF7F1C28801 v8::internal::Version::GetString+217937
+36: 00007FF7F1C2E918 v8::internal::Version::GetString+242792
+36: 00007FF7F1C2E0CC 
+36: 00007FF7F215E6F2 v8::PropertyDescriptor::writable+72754
+40: 00007FF7F15DA68F node::OnFatalError+154255
+35: 00007FF7F1C2E0CC v8::internal::Version::GetString+240668
+36: 00007FF7F1C2EECF v8::internal::Version::GetString+244255
+35: 00007FF7F212A424 
+36: 00007FF7F1C2E918 v8::internal::Version::GetString+242792
+37: 00007FF7F1F815BA v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+55834
+36: 00007FF7F1C2E918 v8::internal::Version::GetString+242792
+36: 00007FF7F1C2E918 v8::internal::Version::GetString+242792
+37: 00007FF7F1C28801 
+36: 00007FF7F1C2EECF v8::internal::Version::GetString+244255
+33: 00007FFD4E12C53C 
+33: 00007FF7F1EC015A v8::Object::GetIsolate+490890
+37: 00007FF7F1C09F31 v8::internal::Version::GetString+92801
+37: 00007FF7F1C2E918 
+41: 00007FF7F15D88F1 node::OnFatalError+146673
+36: 00007FF7F1C2E0CC v8::internal::Version::GetString+240668
+37: 00007FF7F1C28801 v8::internal::Version::GetString+217937
+34: 00007FF7F1EB9A6A v8::Object::GetIsolate+464538
+37: 00007FF7F1C2E918 v8::internal::Version::GetString+242792
+37: 00007FF7F215E6F2 v8::PropertyDescriptor::writable+72754
+37: 00007FF7F1C2E918 v8::internal::Version::GetString+242792
+37: 00007FF7F1F815BA v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+55834
+36: 00007FF7F15C2B24 
+37: 00007FF7F1C28801 v8::internal::Version::GetString+217937
+38: 00007FF7F1C09F31 v8::internal::Version::GetString+92801
+37: 00007FF7F1C28801 v8::internal::Version::GetString+217937
+37: 00007FF7F1C28801 v8::internal::Version::GetString+217937
+38: 00007FF7F1C2E0CC 
+37: 00007FF7F1F815BA v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+55834
+37: 00007FF7F1C09F31 
+38: 00007FF7F1FED7A6 v8::base::CPU::has_sse41+76710
+38: 00007FF7F1C28801 v8::internal::Version::GetString+217937
+38: 00007FF7F1C28801 v8::internal::Version::GetString+217937
+37: 00007FF7F1C2E918 v8::internal::Version::GetString+242792
+38: 00007FF7F1C2E0CC v8::internal::Version::GetString+240668
+38: 00007FF7F1FED7A6 
+38: 00007FF7F1C28801 
+38: 00007FF7F215E6F2 v8::PropertyDescriptor::writable+72754
+42: 00007FF7F2160438 v8::PropertyDescriptor::writable+80248
+37: 00007FF7F15C3114 
+38: 00007FF7F1C09F31 v8::internal::Version::GetString+92801
+38: 00007FF7F1C2E0CC v8::internal::Version::GetString+240668
+39: 00007FF7F1FED7A6 v8::base::CPU::has_sse41+76710
+38: 00007FF7F1C2E0CC v8::internal::Version::GetString+240668
+38: 00007FF7F1C2E0CC v8::internal::Version::GetString+240668
+39: 00007FF7F1C2E918 
+38: 00007FF7F1C09F31 v8::internal::Version::GetString+92801
+35: 00007FF7F1EB0A84 v8::Object::GetIsolate+427700
+39: 00007FF7F1C11EB5 v8::internal::Version::GetString+125445
+39: 00007FF7F1C2E0CC v8::internal::Version::GetString+240668
+39: 00007FF7F1C2E0CC v8::internal::Version::GetString+240668
+38: 00007FF7F1C28801 v8::internal::Version::GetString+217937
+39: 00007FF7F1C2E918 v8::internal::Version::GetString+242792
+39: 00007FF7F1C11EB5 
+39: 00007FF7F1C2E0CC 
+39: 00007FF772398EDB 
+43: 00007FF7F215E6F2 v8::PropertyDescriptor::writable+72754
+39: 00007FF7F1FED7A6 v8::base::CPU::has_sse41+76710
+38: 00007FF7F2160438 
+36: 00007FF7F1EAE73D v8::Object::GetIsolate+418669
+40: 00007FF7F1C11EB5 v8::internal::Version::GetString+125445
+39: 00007FF7F1C2E918 v8::internal::Version::GetString+242792
+40: 00007FF7F1C29D1A 
+39: 00007FF7F1C2E918 v8::internal::Version::GetString+242792
+39: 00007FF7F1FED7A6 v8::base::CPU::has_sse41+76710
+39: 00007FF7F1C2E918 v8::internal::Version::GetString+242792
+40: 00007FF7F2138911 v8::Isolate::Initialize+433
+40: 00007FF7F1C2E918 v8::internal::Version::GetString+242792
+40: 00007FF7F1C2E918 v8::internal::Version::GetString+242792
+39: 00007FF7F1C2E0CC v8::internal::Version::GetString+240668
+40: 00007FF7F1C29D1A v8::internal::Version::GetString+223338
+40: 00007FF7F1C11EB5 v8::internal::Version::GetString+125445
+40: 00007FF7F1C29D1A v8::internal::Version::GetString+223338
+40: 00007FF7F1C29D1A v8::internal::Version::GetString+223338
+41: 00007FF7F2138911 v8::Isolate::Initialize+433
+40: 00007FF7F1C29D1A v8::internal::Version::GetString+223338
+39: 00007FF7723B36B6 
+44: 00007FF7F215E6F2 v8::PropertyDescriptor::writable+72754
+40: 00007FF7F1C2E918 
+40: 00007FF7F1C11EB5 v8::internal::Version::GetString+125445
+41: 00007FF7F1C2EECF 
+40: 00007FF7F2138911 
+37: 00007FF7F1EC0104 v8::Object::GetIsolate+490804
+41: 00007FF7F168CB4D node::NewContext+397
+41: 00007FF7F1C28801 v8::internal::Version::GetString+217937
+41: 00007FF7F1C28801 v8::internal::Version::GetString+217937
+40: 00007FF7F1C2E918 v8::internal::Version::GetString+242792
+41: 00007FF7F1C2EECF v8::internal::Version::GetString+244255
+41: 00007FF7F168CB4D 
+41: 00007FF7F1C28801 
+45: 00007FF7F215E6F2 v8::PropertyDescriptor::writable+72754
+41: 00007FF7F2138911 v8::Isolate::Initialize+433
+42: 00007FF7F147C505 RSA_meth_get_flags+186981
+42: 00007FF7F168CB4D node::NewContext+397
+41: 00007FF7F1C2EECF v8::internal::Version::GetString+244255
+41: 00007FF7F1C2EECF v8::internal::Version::GetString+244255
+42: 00007FF7F1F815BA 
+41: 00007FF7F2138911 v8::Isolate::Initialize+433
+38: 00007FF7F1EB9A6A v8::Object::GetIsolate+464538
+41: 00007FF7F1C2EECF v8::internal::Version::GetString+244255
+42: 00007FF7F1C2E0CC v8::internal::Version::GetString+240668
+42: 00007FF7F1C2E0CC v8::internal::Version::GetString+240668
+41: 00007FF7F1C28801 v8::internal::Version::GetString+217937
+42: 00007FF7F1F815BA v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+55834
+42: 00007FF7F147C505 
+42: 00007FF7F1C2E0CC 
+46: 00007FF7F215E6F2 v8::PropertyDescriptor::writable+72754
+42: 00007FF7F168CB4D node::NewContext+397
+42: 00007FF7F1F815BA v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+55834
+43: 00007FF7F147C505 RSA_meth_get_flags+186981
+42: 00007FF7F168CB4D node::NewContext+397
+42: 00007FF7F1F815BA v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+55834
+43: 00007FF7F1C09F31 
+39: 00007FF7F1EC3225 v8::Object::GetIsolate+503381
+43: 00007FF7F148126D RSA_meth_get_flags+206797
+42: 00007FF7F1F815BA v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+55834
+43: 00007FF7F1C2E918 v8::internal::Version::GetString+242792
+43: 00007FF7F1C2E918 v8::internal::Version::GetString+242792
+42: 00007FF7F1C2E0CC v8::internal::Version::GetString+240668
+43: 00007FF7F1C09F31 v8::internal::Version::GetString+92801
+43: 00007FF7F148126D 
+43: 00007FF7F1C2E918 
+47: 00007FF7F215C2F0 v8::PropertyDescriptor::writable+63536
+43: 00007FF7F147C505 RSA_meth_get_flags+186981
+43: 00007FF7F1C09F31 v8::internal::Version::GetString+92801
+44: 00007FF7F148126D RSA_meth_get_flags+206797
+43: 00007FF7F1C09F31 v8::internal::Version::GetString+92801
+43: 00007FF7F1C09F31 v8::internal::Version::GetString+92801
+44: 00007FF7F1FED7A6 
+45: 00007FF7F1476985 RSA_meth_get_flags+163557
+40: 00007FF7F1EBA057 v8::Object::GetIsolate+466055
+44: 00007FF7F1FED7A6 v8::base::CPU::has_sse41+76710
+44: 00007FF7F1C29D1A v8::internal::Version::GetString+223338
+44: 00007FF7F1C29D1A v8::internal::Version::GetString+223338
+43: 00007FF7F1C2E918 v8::internal::Version::GetString+242792
+44: 00007FF7F1FED7A6 v8::base::CPU::has_sse41+76710
+44: 00007FF7F1476985 
+44: 00007FF7F1C29D1A 
+48: 00007FF7F215BEEB v8::PropertyDescriptor::writable+62507
+44: 00007FF7F148126D RSA_meth_get_flags+206797
+44: 00007FF7F1FED7A6 v8::base::CPU::has_sse41+76710
+43: 00007FF7F147C505 RSA_meth_get_flags+186981
+44: 00007FF7F1476985 RSA_meth_get_flags+163557
+44: 00007FF7F1FED7A6 v8::base::CPU::has_sse41+76710
+45: 00007FF7F1C11EB5 v8::internal::Version::GetString+125445
+44: 00007FF7F148126D RSA_meth_get_flags+206797
+41: 00007FF7F1EB9F14 v8::Object::GetIsolate+465732
+45: 00007FF7F16AD50E uv_poll_stop+254
+45: 00007FF7F1C2EECF v8::internal::Version::GetString+244255
+45: 00007FF7F1C2EECF v8::internal::Version::GetString+244255
+44: 00007FF7F1C29D1A v8::internal::Version::GetString+223338
+45: 00007FF7F1C11EB5 v8::internal::Version::GetString+125445
+45: 00007FF7F16AD50E 
+45: 00007FF7F1C2EECF 
+49: 00007FF7F2004234 v8::Isolate::NumberOfHeapSpaces+2564
+45: 00007FF7F1476985 RSA_meth_get_flags+163557
+45: 00007FF7F1C11EB5 v8::internal::Version::GetString+125445
+46: 00007FF7F16AD50E uv_poll_stop+254
+45: 00007FF7F1C11EB5 
+45: 00007FF7F1C11EB5 v8::internal::Version::GetString+125445
+46: 00007FF7F2138911 
+45: 00007FF7F1476985 RSA_meth_get_flags+163557
+42: 00007FF7F1EC015A v8::Object::GetIsolate+490890
+46: 00007FF7F1F815BA 
+46: 00007FF7F1F815BA v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+55834
+46: 00007FF7F1F815BA v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+55834
+45: 00007FF7F1C2EECF v8::internal::Version::GetString+244255
+46: 00007FF7F2138911 v8::Isolate::Initialize+433
+46: 00007FF7F2D9E01E 
+46: 00007FF7F2D9E01E inflateValidate+164606
+50: 00007FF7F2003B83 v8::Isolate::NumberOfHeapSpaces+851
+46: 00007FF7F16AD50E uv_poll_stop+254
+46: 00007FF7F2138911 v8::Isolate::Initialize+433
+47: 00007FF7F2D9E01E inflateValidate+164606
+47: 00007FFD4C5FE8D7 BaseThreadInitThunk+23
+46: 00007FF7F2138911 v8::Isolate::Initialize+433
+47: 00007FF7F168CB4D 
+43: 00007FF7F1EB9A6A v8::Object::GetIsolate+464538
+46: 00007FF7F2138911 v8::Isolate::Initialize+433
+47: 00007FF7F1C09F31 v8::internal::Version::GetString+92801
+47: 00007FF7F1C09F31 v8::internal::Version::GetString+92801
+46: 00007FF7F1F815BA v8::internal::StrongRootAllocatorBase::StrongRootAllocatorBase+55834
+47: 00007FF7F168CB4D node::NewContext+397
+47: 00007FFD4C5FE8D7 BaseThreadInitThunk+23
+47: 00007FF7F1C09F31 
+46: 00007FF7F16AD50E uv_poll_stop+254
+51: 00007FF7F2128224 v8::Function::Call+308
+47: 00007FF7F168CB4D node::NewContext+397
+48: 00007FFD4C5FE8D7 BaseThreadInitThunk+23
+47: 00007FF7F2D9E01E inflateValidate+164606
+47: 00007FF7F168CB4D node::NewContext+397
+47: 00007FF7F168CB4D node::NewContext+397
+48: 00007FF7F147C505 
+44: 00007FF7F1EC3225 v8::Object::GetIsolate+503381
+48: 00007FFD4E12C53C RtlUserThreadStart+44
+48: 00007FF7F1FED7A6 v8::base::CPU::has_sse41+76710
+48: 00007FF7F1FED7A6 v8::base::CPU::has_sse41+76710
+47: 00007FF7F1C09F31 v8::internal::Version::GetString+92801
+48: 00007FF7F147C505 RSA_meth_get_flags+186981
+48: 00007FFD4E12C53C RtlUserThreadStart+44
+48: 00007FF7F1FED7A6 
+47: 00007FF7F2D9E01E inflateValidate+164606
+52: 00007FF7F15D875A node::OnFatalError+146266
+48: 00007FFD4C5FE8D7 BaseThreadInitThunk+23
+48: 00007FF7F147C505 RSA_meth_get_flags+186981
+49: 00007FFD4E12C53C RtlUserThreadStart+44
+48: 00007FF7F147C505 RSA_meth_get_flags+186981
+48: 00007FF7F147C505 RSA_meth_get_flags+186981
+49: 00007FF7F148126D 
+45: 00007FF7F1EBA057 v8::Object::GetIsolate+466055
+49: 00007FF7F1C11EB5 v8::internal::Version::GetString+125445
+48: 00007FF7F1FED7A6 v8::base::CPU::has_sse41+76710
+49: 00007FF7F148126D RSA_meth_get_flags+206797
+49: 00007FF7F1C11EB5 v8::internal::Version::GetString+125445
+49: 00007FF7F1C11EB5 
+48: 00007FFD4C5FE8D7 BaseThreadInitThunk+23
+53: 00007FF7F1525286 node::TriggerNodeReport+31990
+49: 00007FFD4E12C53C RtlUserThreadStart+44
+49: 00007FF7F148126D RSA_meth_get_flags+206797
+49: 00007FF7F148126D RSA_meth_get_flags+206797
+49: 00007FF7F148126D RSA_meth_get_flags+206797
+50: 00007FF7F1476985 
+46: 00007FF7F1EB9F14 v8::Object::GetIsolate+465732
+49: 00007FFD4E12C53C RtlUserThreadStart+44
+50: 00007FF7F2138911 v8::Isolate::Initialize+433
+49: 00007FF7F1C11EB5 v8::internal::Version::GetString+125445
+50: 00007FF7F1476985 RSA_meth_get_flags+163557
+50: 00007FF7F2138911 
+50: 00007FF7F2138911 v8::Isolate::Initialize+433
+54: 00007FF7F168B51D node::CreateEnvironment+589
+50: 00007FF7F1476985 RSA_meth_get_flags+163557
+50: 00007FF7F1476985 RSA_meth_get_flags+163557
+50: 00007FF7F1476985 RSA_meth_get_flags+163557
+51: 00007FF7F16AD50E 
+47: 00007FF7F1EC015A v8::Object::GetIsolate+490890
+51: 00007FF7F168CB4D node::NewContext+397
+51: 00007FF7F168CB4D node::NewContext+397
+50: 00007FF7F2138911 v8::Isolate::Initialize+433
+51: 00007FF7F168CB4D 
+51: 00007FF7F16AD50E uv_poll_stop+254
+52: 00007FF7F2D9E01E inflateValidate+164606
+55: 00007FF7F1481D9F RSA_meth_get_flags+209663
+51: 00007FF7F16AD50E uv_poll_stop+254
+51: 00007FF7F16AD50E uv_poll_stop+254
+52: 00007FF7F2D9E01E 
+48: 00007FF7F1EB9A6A v8::Object::GetIsolate+464538
+52: 00007FF7F147C505 RSA_meth_get_flags+186981
+52: 00007FF7F147C505 RSA_meth_get_flags+186981
+51: 00007FF7F168CB4D node::NewContext+397
+51: 00007FF7F16AD50E uv_poll_stop+254
+52: 00007FF7F147C505 
+52: 00007FF7F147C505 RSA_meth_get_flags+186981
+52: 00007FF7F2D9E01E inflateValidate+164606
+52: 00007FF7F2D9E01E inflateValidate+164606
+53: 00007FFD4C5FE8D7 BaseThreadInitThunk+23
+49: 00007FF7F1EC02A7 v8::Object::GetIsolate+491223
+53: 00007FF7F148126D RSA_meth_get_flags+206797
+53: 00007FF7F148126D RSA_meth_get_flags+206797
+53: 00007FFD4C5FE8D7 BaseThreadInitThunk+23
+53: 00007FF7F148126D 
+56: 00007FF7F1476985 RSA_meth_get_flags+163557
+52: 00007FF7F2D9E01E inflateValidate+164606
+53: 00007FFD4C5FE8D7 BaseThreadInitThunk+23
+54: 00007FF7F1476985 
+54: 00007FFD4E12C53C RtlUserThreadStart+44
+53: 00007FFD4C5FE8D7 BaseThreadInitThunk+23
+50: 00007FF7F1EB9A6A v8::Object::GetIsolate+464538
+54: 00007FF7F1476985 RSA_meth_get_flags+163557
+54: 00007FF7F1476985 RSA_meth_get_flags+163557
+53: 00007FF7F148126D RSA_meth_get_flags+206797
+54: 00007FFD4E12C53C 
+53: 00007FFD4C5FE8D7 BaseThreadInitThunk+23
+57: 00007FF7F16AD50E uv_poll_stop+254
+54: 00007FFD4E12C53C RtlUserThreadStart+44
+54: 00007FFD4E12C53C 
+54: 00007FFD4E12C53C RtlUserThreadStart+44
+51: 00007FF7F1EC3225 v8::Object::GetIsolate+503381
+55: 00007FF7F16AD50E uv_poll_stop+254
+55: 00007FF7F16AD50E uv_poll_stop+254
+54: 00007FF7F1476985 RSA_meth_get_flags+163557
+55: 00007FF7F16AD50E 
+58: 00007FF7F2D9E01E inflateValidate+164606
+52: 00007FF7F1EB7D22 v8::Object::GetIsolate+457042
+56: 00007FF7F2D9E01E inflateValidate+164606
+56: 00007FF7F2D9E01E inflateValidate+164606
+55: 00007FF7F16AD50E uv_poll_stop+254
+56: 00007FF7F2D9E01E 
+59: 00007FFD4C5FE8D7 BaseThreadInitThunk+23
+60: 00007FFD4E12C53C RtlUserThreadStart+44
+57: 00007FFD4C5FE8D7 BaseThreadInitThunk+23
+57: 00007FFD4C5FE8D7 BaseThreadInitThunk+23
+56: 00007FF7F2D9E01E inflateValidate+164606
+57: 00007FFD4C5FE8D7 BaseThreadInitThunk+23
+53: 00007FF7F1EB7978 v8::Object::GetIsolate+456104
+54: 00007FF7F1EA7398 v8::Object::GetIsolate+389064
+58: 00007FFD4E12C53C RtlUserThreadStart+44
+58: 00007FFD4E12C53C RtlUserThreadStart+44
+57: 00007FFD4C5FE8D7 BaseThreadInitThunk+23
+58: 00007FFD4E12C53C 
+55: 00007FF7F20A97C8 v8::SharedValueConveyor::SharedValueConveyor+30504
+58: 00007FFD4E12C53C RtlUserThreadStart+44
+56: 00007FF7F20A2C08 v8::SharedValueConveyor::SharedValueConveyor+2920
+57: 00007FF7F20A62C9 v8::SharedValueConveyor::SharedValueConveyor+16937
+58: 00007FF7F20A5C2A v8::SharedValueConveyor::SharedValueConveyor+15242
+59: 00007FF7F1C66A17 v8::internal::Version::GetString+472423
+60: 00007FF7F21FDE8E v8::PropertyDescriptor::writable+725966
+61: 00007FF7F215FFEF v8::PropertyDescriptor::writable+79151
+62: 00007FF7F215E6F2 v8::PropertyDescriptor::writable+72754
+63: 00007FF7F215E6F2 v8::PropertyDescriptor::writable+72754
+64: 00007FF7F215E6F2 v8::PropertyDescriptor::writable+72754
+65: 00007FF7F215E6F2 v8::PropertyDescriptor::writable+72754
+66: 00007FF772398EDB 
+
+<--- Last few GCs --->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
