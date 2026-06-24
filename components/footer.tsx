@@ -261,6 +261,14 @@ export function Footer() {
                 </li>
               ))}
             </ul>
+            <div className="mt-5 border-t border-border/60 pt-3">
+              <Link
+                href="/staff-login"
+                className="text-xs text-muted-foreground/70 hover:text-primary transition-colors"
+              >
+                Staff Login
+              </Link>
+            </div>
           </div>
         </div>
 

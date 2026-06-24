@@ -27,6 +27,12 @@ Tectigon is a Next.js application built with React and TypeScript.
 
    # Optional: leave unset to use the application's mock data.
    NEXT_PUBLIC_API_URL=http://localhost/path-to-your-php-api
+
+   # Optional: set when the staff auth PHP API uses a different base URL.
+   NEXT_PUBLIC_AUTH_API_URL=http://localhost/path-to-your-php-api
+
+   # Optional: used by Next.js rewrites for the PHP staff auth endpoints.
+   PHP_API_BASE_URL=http://localhost/Tectigon/backend/api
    ```
 
    The SMTP variables are required for the contact and student registration
