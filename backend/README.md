@@ -54,6 +54,53 @@ php backend/scripts/create-admin.php "Admin Name" admin@example.com "StrongPassw
 
 Only active users with role `admin` or `staff` can log in.
 
+## Training Management
+
+Apply the `users` and `trainings` tables:
+
+```bash
+php backend/scripts/migrate.php
+```
+
+Training images are uploaded to `backend/uploads/trainings/`. The uploads
+folder includes `.htaccess` rules to block PHP execution and directory indexes.
+
+| Method | Path | Auth | Description |
+| --- | --- | --- | --- |
+| `GET` | `/api/trainings/public-list.php` | Public | Active trainings for the website |
+| `GET` | `/api/trainings/list.php` | Staff/admin | All trainings for the admin |
+| `GET` | `/api/trainings/show.php?id=ID` | Staff/admin | One training |
+| `POST` | `/api/trainings/create.php` | Staff/admin | Create training with optional image |
+| `POST` | `/api/trainings/update.php` | Staff/admin | Update training with optional image |
+| `POST` | `/api/trainings/delete.php` | Staff/admin | Delete training |
+| `POST` | `/api/trainings/toggle-status.php` | Staff/admin | Toggle active/inactive |
+
+The admin UI is available at `/admin/trainings` after staff login.
+
+## Payment Management
+
+Apply the payment tables with the same migration command:
+
+```bash
+php backend/scripts/migrate.php
+```
+
+Payment/order records are stored in `orders`, `payments`, and `payment_logs`.
+The app does not collect or store card data. Bank Hosted Payment Page integration
+can be added inside the PHP payment endpoints later.
+
+| Method | Path | Auth | Description |
+| --- | --- | --- | --- |
+| `POST` | `/api/payments/create-order.php` | Public | Create pending order/payment from a training |
+| `POST` | `/api/payments/check-order.php` | Public | Check saved order/payment status |
+| `GET` | `/api/admin/payments/list.php` | Staff/admin | List and filter payments |
+| `GET` | `/api/admin/payments/show.php?id=ID` | Staff/admin | Payment details and logs |
+| `POST` | `/api/admin/payments/update-status.php` | Staff/admin | Manual status update with logging |
+| `POST` | `/api/admin/payments/recheck.php` | Staff/admin | Placeholder provider re-check log |
+| `GET` | `/api/admin/payments/export.php` | Staff/admin | CSV export |
+
+The admin UI is available at `/admin/payments`.
+
 If the Next.js frontend and PHP API are served from different origins, set
 `API_ALLOWED_ORIGIN` to the frontend origin and set `NEXT_PUBLIC_AUTH_API_URL`
 in the frontend to the PHP API base URL.

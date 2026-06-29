@@ -7,13 +7,15 @@ if (PHP_SAPI !== 'cli') {
 }
 
 $pdo = require __DIR__ . '/../config/connection.php';
-$schemaPath = __DIR__ . '/../database/users.sql';
-$schema = file_get_contents($schemaPath);
+foreach (['users.sql', 'trainings.sql', 'payments.sql'] as $schemaFile) {
+    $schemaPath = __DIR__ . "/../database/{$schemaFile}";
+    $schema = file_get_contents($schemaPath);
 
-if ($schema === false) {
-    exit("Could not read schema file: {$schemaPath}\n");
+    if ($schema === false) {
+        exit("Could not read schema file: {$schemaPath}\n");
+    }
+
+    $pdo->exec($schema);
 }
-
-$pdo->exec($schema);
 
 echo "Database schema is up to date.\n";

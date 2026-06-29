@@ -1,6 +1,8 @@
 // API Service Layer for Tectigon Academy
 // Configure NEXT_PUBLIC_API_URL to point to your PHP backend
 
+import { getPublicTrainings, type Training } from '@/lib/trainings'
+
 const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || ''
 
 // Types
@@ -26,6 +28,12 @@ export interface Course {
   prerequisites: string[]
   certification: boolean
   featured: boolean
+  imageUrl?: string | null
+  buttonText?: string
+  discountText?: string | null
+  trainingHours?: number | null
+  sortOrder?: number
+  createdAt?: string
 }
 
 export interface CourseModule {
@@ -642,31 +650,62 @@ async function fetchFromAPI<T>(endpoint: string, options?: RequestInit): Promise
 
 // Course API
 export async function getCourses(): Promise<Course[]> {
-  if (!API_BASE_URL) return mockCourses
   try {
-    return await fetchFromAPI<Course[]>('/courses')
+    const trainings = await getPublicTrainings()
+    return trainings.map(trainingToCourse)
   } catch {
-    return mockCourses
+    return []
   }
 }
 
 export async function getCourse(slug: string): Promise<Course | null> {
-  if (!API_BASE_URL) {
-    return mockCourses.find(c => c.slug === slug) || null
-  }
   try {
-    return await fetchFromAPI<Course>(`/courses/${slug}`)
+    const trainings = await getPublicTrainings()
+    const training = trainings.find((item) => item.slug === slug)
+    return training ? trainingToCourse(training) : null
   } catch {
     return mockCourses.find(c => c.slug === slug) || null
   }
 }
 
 export async function getFeaturedCourses(): Promise<Course[]> {
-  if (!API_BASE_URL) return mockCourses.filter(c => c.featured)
   try {
-    return await fetchFromAPI<Course[]>('/courses?featured=true')
+    const trainings = await getPublicTrainings()
+    return trainings.map(trainingToCourse).slice(0, 3)
   } catch {
-    return mockCourses.filter(c => c.featured)
+    return []
+  }
+}
+
+function trainingToCourse(training: Training): Course {
+  return {
+    id: String(training.id),
+    title: training.title,
+    slug: training.slug,
+    description: training.full_description || training.short_description,
+    shortDescription: training.short_description,
+    duration: training.training_hours ? `${training.training_hours} orë` : '',
+    level: (training.level_label || 'Intermediate') as Course['level'],
+    price: training.price,
+    originalPrice: training.old_price || undefined,
+    category: '',
+    image: training.image_url || '',
+    instructor: 'Tectigon Academy',
+    instructorImage: '',
+    rating: training.rating,
+    reviewCount: 0,
+    studentsEnrolled: training.students_count,
+    modules: [],
+    skills: [],
+    prerequisites: [],
+    certification: false,
+    featured: training.is_active,
+    discountText: training.discount_text,
+    imageUrl: training.image_url,
+    buttonText: training.button_text,
+    trainingHours: training.training_hours,
+    sortOrder: training.sort_order,
+    createdAt: training.created_at,
   }
 }
 

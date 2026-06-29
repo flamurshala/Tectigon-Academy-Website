@@ -49,6 +49,25 @@ Tectigon is a Next.js application built with React and TypeScript.
 
 The development server reloads automatically when source files change.
 
+## Admin Trainings
+
+Staff/admin users can manage public training cards at `/admin/trainings`.
+The public homepage and courses page load active trainings from the PHP API and
+MySQL database.
+
+Run the backend migration before using training management:
+
+```bash
+php backend/scripts/migrate.php
+```
+
+## Payments
+
+Orders and payments are managed at `/admin/payments`. Customer checkout starts
+at `/checkout/[trainingSlug]` and creates pending `EUR` orders through the PHP
+API. Real bank Hosted Payment Page calls are intentionally left as a backend
+integration point; no card data is collected by this website.
+
 ## Production Build
 
 Create and run an optimized production build:

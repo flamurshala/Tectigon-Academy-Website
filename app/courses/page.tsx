@@ -13,7 +13,6 @@ export default function CoursesPage() {
   const { data: courses, isLoading } = useSWR('courses', getCourses)
   
   const [searchQuery, setSearchQuery] = useState('')
-  const [selectedCategory, setSelectedCategory] = useState('all')
   const [selectedLevel, setSelectedLevel] = useState('all')
   const [sortBy, setSortBy] = useState('featured')
 
@@ -32,11 +31,6 @@ export default function CoursesPage() {
           course.instructor.toLowerCase().includes(query) ||
           course.skills.some((skill) => skill.toLowerCase().includes(query))
       )
-    }
-
-    // Category filter
-    if (selectedCategory !== 'all') {
-      filtered = filtered.filter((course) => course.category === selectedCategory)
     }
 
     // Level filter
@@ -68,7 +62,7 @@ export default function CoursesPage() {
     }
 
     return filtered
-  }, [courses, searchQuery, selectedCategory, selectedLevel, sortBy])
+  }, [courses, searchQuery, selectedLevel, sortBy])
 
   return (
     <main className="min-h-screen pt-24 pb-16">
@@ -91,8 +85,6 @@ export default function CoursesPage() {
         <CourseFilters
           searchQuery={searchQuery}
           setSearchQuery={setSearchQuery}
-          selectedCategory={selectedCategory}
-          setSelectedCategory={setSelectedCategory}
           selectedLevel={selectedLevel}
           setSelectedLevel={setSelectedLevel}
           sortBy={sortBy}

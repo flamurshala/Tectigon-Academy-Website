@@ -1,8 +1,9 @@
 'use client'
 
 import { useEffect, useState } from 'react'
+import Link from 'next/link'
 import { useRouter } from 'next/navigation'
-import { LogOut, ShieldCheck, UserRound } from 'lucide-react'
+import { BookOpen, LogOut, ShieldCheck, UserRound, WalletCards } from 'lucide-react'
 
 import { Button } from '@/components/ui/button'
 import { type AuthUser, getCurrentStaffUser, logoutStaff } from '@/lib/auth'
@@ -116,6 +117,18 @@ export function AdminDashboard() {
                 Product, course, payment, and content management modules can be added here
                 later. The login, session validation, and logout flow are ready.
               </p>
+              <Button asChild className="mt-5 bg-primary text-primary-foreground hover:bg-primary/90">
+                <Link href="/admin/trainings">
+                  <BookOpen className="h-4 w-4" />
+                  Manage trainings
+                </Link>
+              </Button>
+              <Button asChild variant="outline" className="mt-3 border-border bg-card/60 hover:bg-muted">
+                <Link href="/admin/payments">
+                  <WalletCards className="h-4 w-4" />
+                  Payments
+                </Link>
+              </Button>
             </div>
           </div>
 
