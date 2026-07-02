@@ -201,6 +201,7 @@ export function AdminPayments() {
                     <th className="py-3 pr-4 font-medium">Customer</th>
                     <th className="py-3 pr-4 font-medium">Amount</th>
                     <th className="py-3 pr-4 font-medium">Status</th>
+                    <th className="py-3 pr-4 font-medium">Bank status</th>
                     <th className="py-3 pr-4 font-medium">Provider</th>
                     <th className="py-3 pr-4 font-medium">Created</th>
                     <th className="py-3 pr-4 font-medium">Paid</th>
@@ -218,6 +219,7 @@ export function AdminPayments() {
                       </td>
                       <td className="py-4 pr-4 text-foreground">{formatTrainingPrice(payment.amount)}</td>
                       <td className="py-4 pr-4"><StatusBadge status={payment.status} /></td>
+                      <td className="py-4 pr-4"><BankStatusBadge status={payment.bank_status || payment.order_bank_status} /></td>
                       <td className="py-4 pr-4 text-muted-foreground">{payment.payment_provider}</td>
                       <td className="py-4 pr-4 text-muted-foreground">{formatDate(payment.created_at)}</td>
                       <td className="py-4 pr-4 text-muted-foreground">{payment.paid_at ? formatDate(payment.paid_at) : '-'}</td>
@@ -257,9 +259,11 @@ export function AdminPayments() {
                 <Detail label="Customer" value={`${selected.payment.customer_name || '-'} / ${selected.payment.customer_email || '-'}`} />
                 <Detail label="Phone" value={selected.payment.customer_phone || '-'} />
                 <Detail label="Amount" value={formatTrainingPrice(selected.payment.amount)} />
-                <Detail label="Status" value={selected.payment.status} />
+                <Detail label="Local status" value={selected.payment.status} />
+                <Detail label="Bank status" value={selected.payment.bank_status || selected.payment.order_bank_status || '-'} />
                 <Detail label="Provider transaction ID" value={selected.payment.provider_transaction_id || '-'} />
                 <Detail label="Bank order ID" value={selected.payment.bank_order_id || '-'} />
+                <Detail label="Order bank status" value={selected.payment.order_bank_status || '-'} />
                 <Detail label="Approval code" value={selected.payment.approval_code || '-'} />
                 <Detail label="Provider" value={selected.payment.payment_provider} />
               </div>
@@ -273,8 +277,13 @@ export function AdminPayments() {
               </div>
 
               <details className="mt-6 rounded-lg border border-border p-4">
-                <summary className="cursor-pointer text-sm font-medium text-foreground">Raw provider response</summary>
-                <pre className="mt-3 max-h-48 overflow-auto whitespace-pre-wrap text-xs text-muted-foreground">{selected.payment.raw_response || 'No raw response stored.'}</pre>
+                <summary className="cursor-pointer text-sm font-medium text-foreground">Raw Create Order response</summary>
+                <pre className="mt-3 max-h-48 overflow-auto whitespace-pre-wrap text-xs text-muted-foreground">{selected.payment.raw_create_order_response || 'No create response stored.'}</pre>
+              </details>
+
+              <details className="mt-3 rounded-lg border border-border p-4">
+                <summary className="cursor-pointer text-sm font-medium text-foreground">Raw Get Order response</summary>
+                <pre className="mt-3 max-h-48 overflow-auto whitespace-pre-wrap text-xs text-muted-foreground">{selected.payment.raw_get_order_response || selected.payment.raw_response || 'No get-order response stored.'}</pre>
               </details>
 
               <div className="mt-6">
@@ -315,6 +324,43 @@ function SummaryCard({ label, value }: { label: string; value: string }) {
 
 function StatusBadge({ status }: { status: PaymentStatus }) {
   return <span className={`rounded-full border px-2 py-1 text-xs font-medium ${statusClass(status)}`}>{status}</span>
+}
+
+function BankStatusBadge({ status }: { status: string | null }) {
+  if (!status) {
+    return <span className="text-xs text-muted-foreground">-</span>
+  }
+
+  const known = isKnownBankStatus(status)
+  return (
+    <span className={`rounded-full border px-2 py-1 text-xs font-medium ${known ? 'border-border bg-background/40 text-muted-foreground' : 'border-amber-500/40 bg-amber-500/10 text-amber-300'}`}>
+      {known ? status : `Unknown: ${status}`}
+    </span>
+  )
+}
+
+function isKnownBankStatus(status: string) {
+  const normalized = status.trim().toLowerCase().replace(/[^a-z0-9]/g, '')
+  return [
+    'beingprepared',
+    'preparing',
+    'created',
+    'authorized',
+    'partiallypaid',
+    'pending',
+    'funded',
+    'fullypaid',
+    'paid',
+    'closed',
+    'expired',
+    'rejected',
+    'refused',
+    'failed',
+    'declined',
+    'cancelled',
+    'canceled',
+    'refunded',
+  ].includes(normalized)
 }
 
 function Detail({ label, value }: { label: string; value: string }) {

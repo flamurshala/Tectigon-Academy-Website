@@ -24,6 +24,11 @@ export type AdminPayment = {
   approval_code: string | null
   bank_order_id: string | null
   bank_hpp_url: string | null
+  bank_status: string | null
+  order_bank_status: string | null
+  hpp_redirect_url: string | null
+  raw_create_order_response: string | null
+  raw_get_order_response: string | null
   notes: string | null
   raw_response: string | null
   created_at: string
@@ -55,8 +60,24 @@ export type PaymentFilters = {
   date_to?: string
 }
 
-const ADMIN_PAYMENT_API = '/backend/api/admin/payments'
-const PUBLIC_PAYMENT_API = '/backend/api/payments'
+const PHP_API_BASE = (process.env.NEXT_PUBLIC_API_URL || '').replace(/\/$/, '')
+const API_BASE = PHP_API_BASE || '/backend/api'
+const ADMIN_PAYMENT_API = `${API_BASE}/admin/payments`
+const PUBLIC_PAYMENT_API = `${API_BASE}/payments`
+
+export class PaymentApiError extends Error {
+  constructor(
+    message: string,
+    public readonly details: {
+      bank_error_code?: string
+      bank_error_description?: string
+      debug_hint?: string
+    } = {},
+  ) {
+    super(message)
+    this.name = 'PaymentApiError'
+  }
+}
 
 async function parseJson<T>(response: Response): Promise<T> {
   const contentType = response.headers.get('content-type') || ''
@@ -66,7 +87,11 @@ async function parseJson<T>(response: Response): Promise<T> {
 
   const data = await response.json()
   if (!response.ok) {
-    throw new Error(data.error || 'Payment request failed.')
+    throw new PaymentApiError(data.error || 'Payment request failed.', {
+      bank_error_code: data.bank_error_code,
+      bank_error_description: data.bank_error_description,
+      debug_hint: data.debug_hint,
+    })
   }
   return data
 }
@@ -147,20 +172,8 @@ export async function createOrder(input: {
   })
   return parseJson<{
     success: boolean
-    order: {
-      id: number
-      order_number: string
-      training_id: number
-      training_title: string
-      amount: number
-      currency: 'EUR'
-      status: PaymentStatus
-    }
-    payment: {
-      id: number
-      status: PaymentStatus
-      payment_provider: string
-    }
+    order_number: string
+    status: PaymentStatus
     redirect_url: string | null
   }>(response)
 }

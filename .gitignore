@@ -9,9 +9,23 @@ next.user-config.*
 
 # Environment variables
 .env*.local
+/.env
 backend/.env
+
+# Bank gateway certificates
+backend/secure/certs/*.pem
+backend/secure/certs/*.key
+backend/secure/certs/*.crt
+backend/secure/certs/*.zip
+backend/api/storage/logs/*.log
+backend/storage/logs/*.log
+backend/storage/cache/*.pem
 
 # Common ignores
 node_modules
 .next/
 .DS_Store
+backend/.env.example.prod
+app.zip
+tectigon-working-without-env.zip
+.env example .prod

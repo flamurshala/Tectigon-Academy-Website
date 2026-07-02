@@ -8,7 +8,7 @@ import { ArrowLeft, BookOpen } from 'lucide-react'
 import { Button } from '@/components/ui/button'
 import { Input } from '@/components/ui/input'
 import type { Course } from '@/lib/api'
-import { createOrder } from '@/lib/payments'
+import { createOrder, PaymentApiError } from '@/lib/payments'
 import { formatTrainingPrice, getTrainingImageUrl } from '@/lib/trainings'
 
 export function CheckoutForm({ training }: { training: Course }) {
@@ -38,9 +38,16 @@ export function CheckoutForm({ training }: { training: Course }) {
         return
       }
 
-      router.push(`/payment/success?order=${encodeURIComponent(response.order.order_number)}`)
+      router.push(`/payment/result?order_number=${encodeURIComponent(response.order_number)}`)
     } catch (submitError) {
-      setError(submitError instanceof Error ? submitError.message : 'Could not create order.')
+      if (submitError instanceof PaymentApiError && submitError.details.bank_error_code) {
+        if (process.env.NODE_ENV !== 'production') {
+          console.info('Bank payment error', submitError.details)
+        }
+        setError('Payment could not be started. Please contact support.')
+      } else {
+        setError(submitError instanceof Error ? submitError.message : 'Could not create order.')
+      }
     } finally {
       setIsSubmitting(false)
     }

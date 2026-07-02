@@ -9,7 +9,7 @@ import { formatTrainingPrice } from '@/lib/trainings'
 
 export function PaymentStatusPage({ title }: { title: string }) {
   const searchParams = useSearchParams()
-  const orderNumber = searchParams.get('order') || ''
+  const orderNumber = searchParams.get('order_number') || searchParams.get('order') || ''
   const [payment, setPayment] = useState<AdminPayment | null>(null)
   const [error, setError] = useState('')
   const [isLoading, setIsLoading] = useState(true)

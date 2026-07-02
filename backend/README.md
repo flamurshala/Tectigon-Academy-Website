@@ -89,6 +89,118 @@ Payment/order records are stored in `orders`, `payments`, and `payment_logs`.
 The app does not collect or store card data. Bank Hosted Payment Page integration
 can be added inside the PHP payment endpoints later.
 
+### Quipu / Local Bank Gateway
+
+Gateway config lives in `config/payment-gateway.php`.
+
+Place test certificates outside public frontend folders:
+
+```text
+backend/secure/certs/cert.pem
+backend/secure/certs/key.pem
+backend/secure/certs/ca.pem
+```
+
+For local UI testing without certificates only:
+
+```env
+BANK_ALLOW_MISSING_CERTS=1
+```
+
+Technical gateway logs are written to
+`backend/api/storage/logs/payment-gateway.log`. Certificate contents and private
+keys are never logged.
+
+For real Quipu testing, `BANK_HPP_REDIRECT_URL` must be a public HTTPS URL. Do
+not use `localhost`, `127.0.0.1`, or a private network URL because the bank HPP
+must redirect the customer's browser back to a reachable website.
+
+### Quipu TLS Troubleshooting
+
+Run the local certificate checker from the project root:
+
+```bash
+php backend/scripts/check-bank-certs.php
+```
+
+During local debugging only, the web runtime can be checked from:
+
+```text
+http://localhost/Tectigon/backend/api/payments/debug-certs.php
+```
+
+Remove or protect this endpoint before production.
+
+Run a minimal Quipu Create Order connectivity test without creating a database
+order:
+
+```bash
+php backend/scripts/test-quipu-create-order.php
+```
+
+Manual OpenSSL checks:
+
+```bash
+openssl x509 -in backend/secure/certs/cert.pem -noout -subject -issuer -dates
+openssl x509 -in backend/secure/certs/ca.pem -noout -subject -issuer -dates
+openssl rsa -in backend/secure/certs/key.pem -check -noout
+```
+
+To check if `cert.pem` and `key.pem` match:
+
+```bash
+openssl x509 -noout -modulus -in backend/secure/certs/cert.pem | openssl md5
+openssl rsa -noout -modulus -in backend/secure/certs/key.pem | openssl md5
+```
+
+The MD5 outputs must match.
+
+If cURL reports `SSL certificate problem: self signed certificate in certificate
+chain`, first check which chain is failing. Quipu client certificates are issued
+by the ProCredit chain, while the Quipu test HTTPS server currently presents a
+DigiCert chain. On Laragon, PHP usually has a public CA bundle at
+`C:\laragon\etc\ssl\cacert.pem`, exposed through `curl.cainfo`.
+
+The gateway client uses `BANK_CA_PATH` for the bank/client CA file and
+`BANK_SERVER_CA_PATH` for the public HTTPS server trust bundle. When both exist,
+it writes a generated combined bundle to `backend/storage/cache/bank-ca-bundle.pem`
+and passes that file to `CURLOPT_CAINFO`.
+
+If Quipu provided multiple CA/root/intermediate certificates for the bank/client
+chain, combine them into one `ca.pem` file:
+
+```text
+-----BEGIN CERTIFICATE-----
+root or intermediate certificate
+-----END CERTIFICATE-----
+-----BEGIN CERTIFICATE-----
+another intermediate certificate
+-----END CERTIFICATE-----
+```
+
+On Windows, this can be done manually by copying the certificate contents into
+`backend/secure/certs/ca.pem`. Do not include `key.pem` in `ca.pem`.
+
+For deeper cURL diagnostics in local/test only, set:
+
+```env
+BANK_CURL_VERBOSE=1
+```
+
+Verbose cURL output is written to `backend/storage/logs/curl-verbose.log` and is
+ignored by Git.
+
+As a last diagnostic step only, SSL verification can be temporarily bypassed in
+local/test:
+
+```env
+APP_ENV=local
+BANK_DISABLE_SSL_VERIFY=1
+```
+
+Production cannot disable SSL verification through this flag. Turn it off after
+confirming that the problem is the CA chain.
+
 | Method | Path | Auth | Description |
 | --- | --- | --- | --- |
 | `POST` | `/api/payments/create-order.php` | Public | Create pending order/payment from a training |

@@ -34,3 +34,11 @@ function read_json_body(): array
 
     return $data;
 }
+
+final class Response
+{
+    public static function json(array $payload, int $statusCode = 200): never
+    {
+        send_json($payload, $statusCode);
+    }
+}
